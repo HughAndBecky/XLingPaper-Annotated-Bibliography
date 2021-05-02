@@ -28,7 +28,20 @@ label="How to Contribute"
 ><p
 >This is a rough (but distributable) list of works created using XLingPaper. It is intended to be circulated for comment and feedback. It is a draft section of another work which looks at XLingPaper in more depth. If you are an author who has used XLingPaper please consider adding your content to this work by contacting Hugh Paterson III.</p
 ><p
->The latest version of this bibliography can be found on Github and in Zenodo. New versions are released on Github which automatically updates Zenodo. It can be referenced as an un-published archival manuscript. Something like the following:</p
+>The latest version of this bibliography can be found on Github<endnote
+id="nGithubLink"
+><p
+>Github Link: <link
+href="https://github.com/HughAndBecky/XLingPaper-Annotated-Bibliography"
+>https://github.com/HughAndBecky/XLingPaper-Annotated-Bibliography</link
+>https://github.com/HughAndBecky/XLingPaper-Annotated-Bibliography.git</p
+></endnote
+> and in Zenodo.<endnote
+id="nZenodoLink"
+><p
+>Zenodo Link: </p
+></endnote
+> New versions are released on Github which automatically updates Zenodo. It can be referenced as an un-published archival manuscript. Something like the following:</p
 ><annotationRef
 citation="rPatersonH2020XLingPaper"
 ></annotationRef

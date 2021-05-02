@@ -32,3 +32,7 @@ like they might want to create — to exemplify the diverse utility of XLingPape
 annotations note the unique typography, document structure, and content formats rather than any
 _linguistic_ features, argumentation, or theory. To date the primary academic discourse presenting
 XLingPaper has been published as Simons & Black (2008), Black (2009), Black & Black (2012).
+
+## License
+
+This paper and its content is copyright Hugh Paterson III 2021. Licensed under the [Creative Commons Attribution Share Alike 4.0 International license](https://creativecommons.org/licenses/by-sa/4.0/legalcode). 
