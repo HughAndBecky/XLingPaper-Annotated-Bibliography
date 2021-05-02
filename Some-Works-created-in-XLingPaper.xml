@@ -12,7 +12,7 @@ version="2.28.0"
 ><title
 >Some Works created in XLingPaper</title
 ><author
->Hugh Paterson III</author
+>Compiled by Hugh Paterson III</author
 ><emailAddress
 >i@hp3.me</emailAddress
 ><date
@@ -39,7 +39,7 @@ href="https://github.com/HughAndBecky/XLingPaper-Annotated-Bibliography"
 > and in Zenodo.<endnote
 id="nZenodoLink"
 ><p
->Zenodo Link: </p
+>Zenodo Link:</p
 ></endnote
 > New versions are released on Github which automatically updates Zenodo. It can be referenced as an un-published archival manuscript. Something like the following:</p
 ><annotationRef
