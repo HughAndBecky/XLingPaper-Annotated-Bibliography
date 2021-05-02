@@ -1,0 +1,5882 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE xlingpaper PUBLIC "-//XMLmind//DTD XLingPap//EN"
+"XLingPap.dtd">
+<xlingpaper
+version="2.24.0"
+><styledPaper
+><lingPaper
+automaticallywrapinterlinears="yes"
+sortRefsAbbrsByDocumentLanguage="yes"
+version="2.28.0"
+><frontMatter
+><title
+>Some Works created in XLingPaper</title
+><author
+>Hugh Paterson III</author
+><emailAddress
+>i@hp3.me</emailAddress
+><date
+>2 May 2021</date
+><version
+>0.0.1</version
+><acknowledgements
+><p
+>This work would not be possible without the contributions of Andy Black, Kevin Penner, Kent Rasmussen, John Brownie, and Matthew Lee.</p
+></acknowledgements
+><preface
+label="How to Contribute"
+><p
+>This is a rough (but distributable) list of works created using XLingPaper. It is intended to be circulated for comment and feedback. It is a draft section of another work which looks at XLingPaper in more depth. If you are an author who has used XLingPaper please consider adding your content to this work by contacting Hugh Paterson III.</p
+><p
+>The latest version of this bibliography can be found on Github and in Zenodo. New versions are released on Github which automatically updates Zenodo. It can be referenced as an un-published archival manuscript. Something like the following:</p
+><annotationRef
+citation="rPatersonH2020XLingPaper"
+></annotationRef
+><p
+>Contributions via Github can occur as pull requests. Alternatively Email Hugh Paterson III a reference to be added in an XLingPaper document (an item in a References section is sufficient. So that he can copy and paste into the existing document). Structural changes to the bibliography will be considered based on user feedback.</p
+></preface
+></frontMatter
+><section1
+id="s1"
+><secTitle
+>Annotated Bibliography</secTitle
+><section2
+id="sPurpose"
+><secTitle
+>Purpose</secTitle
+><p
+>This is the start of an annotated bibliography of works created using XLingPaper. <link
+href="https://software.sil.org/xlingpaper/"
+>XLingPaper</link
+> has been around since 2001 and has been the tool of choice for those who have sought solutions beyond the performance or limits of: MS Word, TeX, <link
+href="https://daringfireball.net/projects/markdown/"
+>Markdown</link
+>, OpenOffice, <link
+href="https://www.apple.com/pages/"
+>Pages</link
+>, <link
+href="https://pandoc.org/"
+>Pandoc</link
+>, <link
+href="https://www.literatureandlatte.com/scrivener/overview"
+>Scrivener</link
+> and a variety of other tools. The scope of the bibliography is comprehensive—if it was built with XLingPaper. The purpose of this bibliography is to use XLingPaper to create a document which will help tool users identify how XLingPaper has been used to create works like they might want to create — to exemplify the diverse utility of XLingPaper. Therefore the annotations note the unique typography, document structure, and content formats rather than any <object
+type="tItalic"
+>linguistic</object
+> features, argumentation, or theory.<endnote
+id="nContribution"
+><p
+>Annotations can also be contributed. Please Contact Hugh.</p
+></endnote
+> To date the primary academic discourse presenting XLingPaper has been published as <citation
+ref="rSimonsGaryFandH.AndrewBlack2008Third"
+></citation
+>, <citation
+ref="rBlackH.Andrew2009Writi"
+></citation
+>, <citation
+ref="rBlackCherylA.andH.AndrewBlack201210Gramm"
+></citation
+>.</p
+></section2
+><section2
+id="sOrganization"
+><secTitle
+>Organization</secTitle
+><p
+>This bibliography has the same data presented in three formats — because readers might be interested in exploring the references in any one of the three manners. <sectionRef
+sec="s2"
+showTitle="full"
+></sectionRef
+>, <sectionRef
+sec="s3"
+showTitle="full"
+></sectionRef
+>, <sectionRef
+sec="s4"
+showTitle="full"
+></sectionRef
+>.</p
+></section2
+></section1
+><section1
+id="s2"
+><secTitle
+>Works Created with XLingPaper Presented by Type</secTitle
+><p
+>When presenting the works by type, each type is listed in order of production — Oldest first, newest last.</p
+><section2
+id="sPHD"
+><secTitle
+>Ph.D Dissertations</secTitle
+><annotationRef
+annotation="rEbarbKristopherJ2014"
+citation="rEbarbKristopherJ2014Tonea"
+></annotationRef
+><annotationRef
+annotation="anRasmussenKent2018"
+citation="rRasmussenKent20180523AComp"
+></annotationRef
+><annotationRef
+annotation="anPennerKevinL2019"
+citation="rPennerKevinL2019Proso"
+></annotationRef
+></section2
+><section2
+id="sMA"
+><secTitle
+>MA Theses</secTitle
+><p
+>Many of the MA thesises presented here were defended at one of two institutions: Graduate Institute of Linguistics (GIAL) – now <link
+href="https://www.diu.edu/"
+>Dallas International University</link
+>; and the University of North Dakota. The extensive use of XLingPaper by students at the University of North Dakota program can in part be explained by the fact that both Andrew Black (software author) and Steve Marlett (advocate extraordinaire) were faculty at the University of North Dakota.</p
+><annotationRef
+citation="rHavlicekAmyRuth2009Alter"
+></annotationRef
+><annotationRef
+citation="rWoodJoyceKathleen2012Valen"
+></annotationRef
+><annotationRef
+citation="rKimDeborah2014Subor"
+></annotationRef
+><annotationRef
+citation="rCarlsonBethanyWinter2015Casea"
+></annotationRef
+><annotationRef
+citation="rReevesHannahJoy2015Falam"
+></annotationRef
+><annotationRef
+citation="rGrossoTamaraMichelle2017Refer"
+></annotationRef
+><annotationRef
+annotation="anMéndezHordEstebanI"
+citation="rMéndezHordEstebanI.2017Tonei"
+></annotationRef
+><annotationRef
+citation="rClineLauraJ2018SomeF"
+></annotationRef
+><annotationRef
+annotation="anMongMeganLois2018ModesAnnotation"
+citation="rMongMeganLois2018Modes"
+></annotationRef
+><annotationRef
+citation="rMoffit2019"
+></annotationRef
+><annotationRef
+annotation="anLamicela2020"
+citation="rLamicela2020"
+></annotationRef
+><annotationRef
+citation="rLepage2020"
+></annotationRef
+><annotationRef
+citation="rMiller2020"
+></annotationRef
+><annotationRef
+annotation="anPaterson2021Archive"
+citation="rPatersonIII2021Thesis"
+></annotationRef
+></section2
+><section2
+id="sPeriodicals"
+><secTitle
+>Periodicals &amp; Journal Articles</secTitle
+><p
+>Items published as part of a series appear here. This includes working papers, Journal articles, and non-book items in a periodical series.</p
+><annotationRef
+citation="rSimonsGaryFandH.AndrewBlack2008Third"
+></annotationRef
+><annotationRef
+citation="rBlackH.Andrew2009Writi"
+></annotationRef
+><annotationRef
+citation="rBlackCherylAH.AndrewBlackandStephenAMarlett2009TheZa"
+></annotationRef
+><annotationRef
+annotation="anMarlettStephenA2011Datas"
+citation="rMarlettStephenA2011Datas"
+></annotationRef
+><annotationRef
+citation="rClineKevinL.StephenA.MarlettHughJ.PatersonIIIandMarkL.Weathers2011LasCo"
+></annotationRef
+><annotationRef
+citation="rMarlettStephenA2009TheMe"
+></annotationRef
+><annotationRef
+citation="rBrownieJohn2013Adver"
+></annotationRef
+><annotationRef
+citation="rMarlettStephen2015"
+></annotationRef
+><annotationRef
+citation="rVogelAlanR.2015Jaraw"
+></annotationRef
+><annotationRef
+citation="rAndersonJudiLynnandCherylA.Black2016Flexi"
+></annotationRef
+><annotationRef
+citation="rBrownieJohn2017Valen"
+></annotationRef
+><annotationRef
+citation="rMarlettStephenA2017Disco"
+></annotationRef
+><annotationRef
+citation="rBrownieJohn2018Three"
+></annotationRef
+><annotationRef
+citation="rPatersonIII2021ars"
+></annotationRef
+></section2
+><section2
+id="sManuscripts"
+><secTitle
+>Manuscripts, Discussion papers, and limited distribution Drafts</secTitle
+><p
+>This section lists several manuscripts (documents which are still in preparation or have yet to see formal publication). It also lists discussion papers including white papers. Some authors have indicated a willingness to include drafts even though they have seen limited distribution up to this point (generally I would call these manuscripts).</p
+><annotationRef
+citation="rPatersonH2012"
+></annotationRef
+><annotationRef
+citation="rPatersonH2013"
+></annotationRef
+><annotationRef
+citation="rPatersonH2015"
+></annotationRef
+><annotationRef
+annotation="anPatersonH2020"
+citation="rPatersonH2020"
+></annotationRef
+><annotationRef
+annotation="anPatersonPons2020"
+citation="rPatersonPons2020"
+></annotationRef
+><annotationRef
+annotation="atNote"
+citation="rPatersonPaterson2020"
+contentType="ctExtra"
+></annotationRef
+><annotationRef
+annotation="anPatersonH2020reported"
+citation="rPatersonH2020reported"
+contentType="ctExtra"
+></annotationRef
+><annotationRef
+citation="rPatersonH2020DFT"
+contentType="ctExtra"
+></annotationRef
+><annotationRef
+annotation="anPatersonH2020XLingPaper"
+citation="rPatersonH2020XLingPaper"
+></annotationRef
+><annotationRef
+citation="rPatersonH2020LanguageNames"
+contentType="ctExtra"
+></annotationRef
+><annotationRef
+citation="rPatersonH2020ReviewZotero"
+contentType="ctExtra"
+></annotationRef
+><annotationRef
+annotation="anPatersonH2020XLingPaperFull"
+citation="rPatersonH2020XLingPaperFull"
+contentType="ctExtra"
+></annotationRef
+><p
+><comment
+>utmatin Orthography; <br
+></br
+>Publishing Multi-modal Elicited Lists; Citation management in linguistics; <br
+></br
+>An Introduction to the annotated Bibliography template in XLingPaper; <br
+></br
+>A Review of XLingPaper; <br
+></br
+>A Second Look at Citation Management in Linguistics; <br
+></br
+>GPS Paper; <br
+></br
+>Connecting Learners and Museums through Educational Metadata Initiatives; From physical to digital: Recent research into the discovery, analysis, and use of museums resources by classroom educators and students; <br
+></br
+>SILEWP-2006-003; <br
+></br
+>&lt;ryan_klint@sil.org&gt; Mexico; https://www.lengamer.org/publicaciones/trabajos/mazateco_de_Mazatlan_afi.pdf</comment
+></p
+><p
+><comment
+>Mathew Lee .. OT paper .. French Middle voice .. syntax paper on coordinated conjunctions. </comment
+></p
+></section2
+><section2
+id="sWebsites"
+><secTitle
+>Websites</secTitle
+><p
+>XLingPaper has the ability to export items to HTML. Andy Black has made extensive use of this feature to create web exports from XLingPaper documents related to the computer applications he develops. Matthew Lee has build upon this concept with the publication of XLingPaper content to web mediums in a different way. He manages the entire content of a bi-lingual website in XLingPaper. The websites Lee manages, are also focused on user documentation and user training for software.</p
+><section3
+id="sXLingPaper"
+><secTitle
+>XLingPaper</secTitle
+><annotationRef
+citation="rBlackHAndrew2020XLing"
+></annotationRef
+><annotationRef
+citation="rBlackHAndrewandMatthewLee2020XLing"
+></annotationRef
+></section3
+><section3
+id="sParatext"
+><secTitle
+>Paratext</secTitle
+><p
+>The Paratext Manuals, both their English and French content, as well as the online manifestation in websites like outilingua.net and lingtran.net as the manifestation in PDF formats are all maintained in a single XLingPaper Document and are exported using different export paths for different publishing venues.</p
+><annotationRef
+annotation="anBeadleJennieParatext8en"
+citation="rBeadleJennieParatext9en"
+></annotationRef
+><annotationRef
+citation="rBeadleJennieParatext8fr"
+></annotationRef
+><annotationRef
+citation="rBeadleJennieParatext9en"
+></annotationRef
+><annotationRef
+citation="rBeadleJennieParatext9fr"
+></annotationRef
+><p
+><comment
+>Video Summaries en|fr github link;</comment
+></p
+></section3
+><section3
+id="sFLExMorphologicalParser"
+><secTitle
+>FLEx Morphological Parser</secTitle
+><annotationRef
+citation="rBlackHAndrew2014AConc"
+></annotationRef
+></section3
+><section3
+contentType="ctExtra"
+id="sFLExUserDocumentation"
+><secTitle
+>FLEx User Documentation</secTitle
+><p
+><comment
+>Jeff Heath FLEx Manual</comment
+></p
+></section3
+><section3
+contentType="ctExtra"
+id="sBloom"
+><secTitle
+>Bloom</secTitle
+><p
+><comment
+>Jennie Beadle Bloom Manual 4.8 – Drafts en|fr</comment
+></p
+></section3
+></section2
+><section2
+id="sAbstracts"
+><secTitle
+>Conference Abstracts</secTitle
+><p
+></p
+><annotationRef
+annotation="PatersonRebeccaDowSmithAbbieHantganandEkaterinaAplonova2021BuildAnnotation"
+citation="rPatersonRebeccaDowSmith2021Songs"
+></annotationRef
+><annotationRef
+annotation="PatersonRebeccaDowSmithAbbieHantganandEkaterinaAplonova2021BuildAnnotation"
+citation="rPatersonRebeccaDowSmithAbbieHantganandEkaterinaAplonova2021Build"
+></annotationRef
+></section2
+><section2
+id="sPresentations"
+><secTitle
+>Presentations</secTitle
+><p
+>Kent Rasmussen has a blog post explaining how to create presentation slides with XLingPaper<endnote
+id="nKent"
+><p
+><link
+href="http://kent.atoznback.org/2015/04/09/writing-presentations-in-xlingpaper"
+>http://kent.atoznback.org/2015/04/09/writing-presentations-in-xlingpaper</link
+></p
+></endnote
+>. This has the advantage of keeping presentation content and examples congruent with what might be in a thesis or journal article. As far as I know he is the only one who is doing this, but I would love to hear about more cases.</p
+><p
+></p
+><annotationRef
+citation="rRasmussenKent2015LD"
+></annotationRef
+><annotationRef
+citation="rRasmussenKent2015"
+></annotationRef
+><annotationRef
+citation="rRasmussenKent2016Ndaka"
+></annotationRef
+><annotationRef
+citation="rRasmussenKent2016"
+></annotationRef
+><annotationRef
+citation="rRasmussenKent20180322Tonog"
+></annotationRef
+><p
+><comment
+> Lexicalized Consonant-Tone Interaction in Nyali-Kilo [nlj] Infinitive Verbs. Presented at the World Congress of African Linguistics 7 (Buea, Cameroon) August 20-24, 2012.; The Functional Load of Tone. Presented at NASCAL2, Univ. Dschang (Cameroon). March 12-14, 2019.</comment
+></p
+></section2
+><section2
+id="sChapters"
+><secTitle
+>Book Chapters</secTitle
+><annotationRef
+citation="rBlackCherylA.andH.AndrewBlack201210Gramm"
+></annotationRef
+><annotationRef
+annotation="anPatersonIIIHughJ2014KeyboNote2"
+citation="rPatersonIIIHughJ2014Keybo"
+></annotationRef
+></section2
+><section2
+id="sBooks"
+><secTitle
+>Books</secTitle
+><annotationRef
+annotation="atAbstract"
+citation="rBuckMarjorieJ2018Gramá"
+></annotationRef
+><section3
+id="sRepublications"
+><secTitle
+>Re-Publications</secTitle
+><annotationRef
+annotation="anRastorguevaV.S.A.A.KerimovaA.K.MamedzadeL.A.PireikoandD.I.Edelman2012TheGiAatAnnotation"
+citation="rRastorguevaV.S.A.A.KerimovaA.K.MamedzadeL.A.PireikoandD.I.Edelman2012TheGi"
+></annotationRef
+><annotationRef
+annotation="atAbstract"
+citation="rBartholomewDorisAandLouiseCSchoenhals2019Bilin"
+></annotationRef
+></section3
+><section3
+id="sDocumentation"
+><secTitle
+>Computer Application Documentation</secTitle
+><p
+>Andy has written several computer applications, including: XLingPaper, <link
+href="https://software.sil.org/asheninka/"
+>Asheninka</link
+>, and a Morphological parser used within FLEx. He has turned to XLingPaper to manage and publish his user documentation materials.</p
+><annotationRef
+citation="rBlackHAndrew2014AConc"
+></annotationRef
+><annotationRef
+citation="rBlackHAndrew2017WhyLe"
+></annotationRef
+><annotationRef
+citation="rBlackHAndrew2017Ashen"
+></annotationRef
+><annotationRef
+citation="rBlackHAndrew2017AshenUserDocumentation"
+></annotationRef
+><annotationRef
+citation="rBlackHAndrew2017Sugge"
+></annotationRef
+><annotationRef
+citation="rBlackHAndrew2020XLing"
+></annotationRef
+><annotationRef
+citation="rBlackHAndrewandMatthewLee2020XLing"
+></annotationRef
+><p
+contentType="ctExtra"
+>Paratext8 Manual en|FR Paratext9 Manual en|fr Video Summaries en|fr github link; Jeff Heath FLEx Manual en Jennie Beadle Bloom Manual 4.8 – Drafts en|fr outilingua.net tikiwiki cross-site image usage to github lingtran.net tikiwiki Bundel import</p
+></section3
+></section2
+><section2
+id="sTextBooks"
+><secTitle
+>Textbooks</secTitle
+><annotationRef
+annotation="anMarlettStephenA2014Phono"
+citation="rMarlettStephenA2014Phono"
+></annotationRef
+></section2
+></section1
+><section1
+id="s3"
+><secTitle
+>Works Created with XLingPaper Presented by Feature of XLingPaper used</secTitle
+><p
+>In this section of the Bibliography we Highlight some publications and projects which use specific features of XLingPaper.</p
+><section2
+id="sCustomHeadder"
+><secTitle
+>Custom Header</secTitle
+><annotationRef
+annotation="anPatersonIIIHughJ2014KeyboNote2"
+citation="rPatersonIIIHughJ2014Keybo"
+></annotationRef
+><annotationRef
+annotation="anPatersonR2021Songs"
+citation="rPatersonRebeccaDowSmith2021Songs"
+></annotationRef
+><annotationRef
+annotation="PatersonRebeccaDowSmithAbbieHantganandEkaterinaAplonova2021BuildAnnotation"
+citation="rPatersonRebeccaDowSmithAbbieHantganandEkaterinaAplonova2021Build"
+></annotationRef
+></section2
+><section2
+id="sBibliograhies"
+><secTitle
+>Annotated Bibliographies</secTitle
+><annotationRef
+annotation="atAbstract"
+citation="rMarlettStephenA2017Disco"
+></annotationRef
+><annotationRef
+annotation="anBuckMarjorieJ2018GramáNote1"
+citation="rBuckMarjorieJ2018Gramá"
+></annotationRef
+><annotationRef
+annotation="anPatersonH2020"
+citation="rPatersonH2020"
+></annotationRef
+><annotationRef
+annotation="anPatersonPons2020"
+citation="rPatersonPons2020"
+></annotationRef
+><annotationRef
+annotation="atNote"
+citation="rPatersonPaterson2020"
+></annotationRef
+><annotationRef
+annotation="anPatersonH2020reported"
+citation="rPatersonH2020reported"
+></annotationRef
+><annotationRef
+annotation="anPatersonH2020DFT"
+citation="rPatersonH2020DFT"
+></annotationRef
+><annotationRef
+annotation="anPatersonH2020XLingPaper"
+citation="rPatersonH2020DFT"
+></annotationRef
+></section2
+><section2
+id="sTexts"
+><secTitle
+>Texts</secTitle
+><annotationRef
+citation="rMarlettStephen2015"
+></annotationRef
+><annotationRef
+annotation="anRastorguevaV.S.A.A.KerimovaA.K.MamedzadeL.A.PireikoandD.I.Edelman2012TheGiAatAnnotation"
+citation="rRastorguevaV.S.A.A.KerimovaA.K.MamedzadeL.A.PireikoandD.I.Edelman2012TheGi"
+></annotationRef
+></section2
+><section2
+id="sGlossing"
+><secTitle
+>Interlinear Glosses</secTitle
+><annotationRef
+annotation="anLamicela2020"
+citation="rLamicela2020"
+></annotationRef
+></section2
+><section2
+id="sTab"
+><secTitle
+>Tabular Data</secTitle
+><annotationRef
+annotation="anRasmussenKent2018"
+citation="rRasmussenKent20180523AComp"
+></annotationRef
+><annotationRef
+annotation="anMarlettStephenA2011Datas"
+citation="rMarlettStephenA2011Datas"
+></annotationRef
+></section2
+><section2
+id="sPhonology"
+><secTitle
+>Phonologies</secTitle
+><annotationRef
+annotation="anRasmussenKent2018"
+citation="rRasmussenKent20180322Tonog"
+></annotationRef
+></section2
+><section2
+id="sScripts"
+><secTitle
+>Scripts</secTitle
+><annotationRef
+annotation="anLamicela2020"
+citation="rLamicela2020"
+></annotationRef
+><annotationRef
+annotation="anPatersonH2020"
+citation="rPatersonH2020"
+></annotationRef
+><annotationRef
+annotation="anPatersonPons2020"
+citation="rPatersonPons2020"
+></annotationRef
+></section2
+><section2
+id="sContentControl"
+><secTitle
+>Content Control Documents</secTitle
+><p
+></p
+></section2
+><section2
+id="sLocalization"
+><secTitle
+>Localization &amp; Multi-lingual capabilities</secTitle
+><annotationRef
+annotation="anBeadleJennieParatext8en"
+citation="rBeadleJennieParatext9en"
+></annotationRef
+><annotationRef
+citation="rBeadleJennieParatext8fr"
+></annotationRef
+><annotationRef
+citation="rBeadleJennieParatext9en"
+></annotationRef
+><annotationRef
+citation="rBeadleJennieParatext9fr"
+></annotationRef
+></section2
+><section2
+id="sCV"
+><secTitle
+>Curriculum Vitae</secTitle
+><annotationRef
+annotation="anPatersonIIIHughJ2021CV"
+citation="rPatersonIIIHughJ2021CV"
+></annotationRef
+></section2
+><section2
+id="sOuputs"
+><secTitle
+>Output Formats</secTitle
+><p
+>XLingPaper has several main output formats: HTML, PDF via XeTeX, PDF via RenderX (XSL-FO), ePub, MS Word, and Open Office.</p
+><section3
+id="sHTML"
+><secTitle
+>HTML</secTitle
+><annotationRef
+citation="rBlackHAndrew2014AConc"
+></annotationRef
+><annotationRef
+citation="rBlackHAndrew2020XLing"
+></annotationRef
+><annotationRef
+citation="rBlackHAndrewandMatthewLee2020XLing"
+></annotationRef
+></section3
+><section3
+id="sCutom"
+><secTitle
+>Custom Output Format</secTitle
+><p
+>Matthew Lee's work</p
+></section3
+><section3
+id="sXeTeX"
+><secTitle
+>PDF via XeTeX</secTitle
+><p
+>Most documents in this Bibliography are created using the XeTeX process. We do not list them independently.</p
+></section3
+><section3
+id="sRenderX"
+><secTitle
+>PDF via RenderX</secTitle
+><p
+>It would be nice to point to one of these and explain why this method was chosen for this project.</p
+></section3
+><section3
+id="sePub"
+><secTitle
+>ePub</secTitle
+><p
+>Does anyone use this and in what cases? I haven't heard of any cases but would love to hear of some... Also which version of the ePub standard was used?</p
+></section3
+><section3
+id="sMSWord"
+><secTitle
+>MS Word</secTitle
+><p
+>For people who have used this feature it would be great to hear what your experience was like. What was the social situation which led you down the path of using this feature and how did you interact with the document produced?</p
+></section3
+></section2
+></section1
+><section1
+id="s4"
+><secTitle
+>Work listed by Author</secTitle
+><p
+></p
+><annotationRef
+citation="rAndersonJudiLynnandCherylA.Black2016Flexi"
+></annotationRef
+><annotationRef
+citation="rBartholomewDorisAandLouiseCSchoenhals2019Bilin"
+></annotationRef
+><annotationRef
+annotation="anBeadleJennieParatext8en"
+citation="rBeadleJennieParatext9en"
+></annotationRef
+><annotationRef
+citation="rBeadleJennieParatext8fr"
+></annotationRef
+><annotationRef
+citation="rBeadleJennieParatext9en"
+></annotationRef
+><annotationRef
+citation="rBeadleJennieParatext9fr"
+></annotationRef
+><annotationRef
+citation="rBlackH.Andrew2009Writi"
+></annotationRef
+><annotationRef
+citation="rBlackHAndrew2014AConc"
+></annotationRef
+><annotationRef
+citation="rBlackHAndrew2017AshenUserDocumentation"
+></annotationRef
+><annotationRef
+citation="rBlackHAndrew2017Ashen"
+></annotationRef
+><annotationRef
+citation="rBlackHAndrew2017Sugge"
+></annotationRef
+><annotationRef
+citation="rBlackHAndrew2019LingT"
+></annotationRef
+><annotationRef
+citation="rBlackHAndrew2020XLing"
+></annotationRef
+><annotationRef
+citation="rBlackCherylA.andH.AndrewBlack201210Gramm"
+></annotationRef
+><annotationRef
+citation="rBlackCherylAH.AndrewBlackandStephenAMarlett2009TheZa"
+></annotationRef
+><annotationRef
+citation="rBlackHAndrewandMatthewLee2020XLing"
+></annotationRef
+><annotationRef
+citation="rBrownieJohn2013Adver"
+></annotationRef
+><annotationRef
+citation="rBrownieJohn2017Valen"
+></annotationRef
+><annotationRef
+citation="rBrownieJohn2018Three"
+></annotationRef
+><annotationRef
+annotation="anBuckMarjorieJ2018GramáNote1"
+citation="rBuckMarjorieJ2018Gramá"
+></annotationRef
+><annotationRef
+citation="rCarlsonBethanyWinter2015Casea"
+></annotationRef
+><annotationRef
+citation="rClineLauraJ2018SomeF"
+></annotationRef
+><annotationRef
+citation="rClineKevinL.StephenA.MarlettHughJ.PatersonIIIandMarkL.Weathers2011LasCo"
+></annotationRef
+><annotationRef
+annotation="rEbarbKristopherJ2014"
+citation="rEbarbKristopherJ2014Tonea"
+></annotationRef
+><annotationRef
+citation="rGrossoTamaraMichelle2017Refer"
+></annotationRef
+><annotationRef
+citation="rHavlicekAmyRuth2009Alter"
+></annotationRef
+><annotationRef
+citation="rKimDeborah2014Subor"
+></annotationRef
+><annotationRef
+annotation="anLamicela2020"
+citation="rLamicela2020"
+></annotationRef
+><annotationRef
+citation="rLepage2020"
+></annotationRef
+><annotationRef
+annotation="anMarlettStephenA2011Datas"
+citation="rMarlettStephenA2011Datas"
+></annotationRef
+><annotationRef
+annotation="anrMarlettStephenA2009TheMe"
+citation="rMarlettStephenA2009TheMe"
+></annotationRef
+><annotationRef
+annotation="anMarlettStephenA2014Phono"
+citation="rMarlettStephenA2014Phono"
+></annotationRef
+><annotationRef
+citation="rMarlettStephen2015"
+></annotationRef
+><annotationRef
+annotation="anMarlettStephenA2017DiscoAbstract1"
+citation="rMarlettStephenA2017Disco"
+></annotationRef
+><annotationRef
+citation="rMiller2020"
+></annotationRef
+><annotationRef
+annotation="anMéndezHordEstebanI"
+citation="rMéndezHordEstebanI.2017Tonei"
+></annotationRef
+><annotationRef
+citation="rMoffit2019"
+></annotationRef
+><annotationRef
+annotation="anMongMeganLois2018ModesAnnotation"
+citation="rMongMeganLois2018Modes"
+></annotationRef
+><annotationRef
+citation="rPatersonH2012"
+></annotationRef
+><annotationRef
+citation="rPatersonH2013"
+></annotationRef
+><annotationRef
+citation="rPatersonH2015"
+></annotationRef
+><annotationRef
+annotation="anPatersonIIIHughJ2014KeyboNote2"
+citation="rPatersonIIIHughJ2014Keybo"
+></annotationRef
+><annotationRef
+citation="rPatersonH2020ReviewZotero"
+contentType="ctExtra"
+></annotationRef
+><annotationRef
+annotation="anPatersonH2020AnnotatedBibTemplate"
+citation="rPatersonH2020AnnotatedBibTemplate"
+></annotationRef
+><annotationRef
+annotation="anPatersonH2020reported"
+citation="rPatersonH2020reported"
+contentType="ctExtra"
+></annotationRef
+><annotationRef
+annotation="anPatersonH2020XLingPaperFull"
+citation="rPatersonH2020XLingPaperFull"
+></annotationRef
+><annotationRef
+annotation="anPatersonH2020DFT"
+citation="rPatersonH2020DFT"
+contentType="ctExtra"
+></annotationRef
+><annotationRef
+citation="rPatersonH2020LanguageNames"
+contentType="ctExtra"
+></annotationRef
+><annotationRef
+annotation="anPatersonH2020XLingPaper"
+citation="rPatersonH2020XLingPaper"
+></annotationRef
+><annotationRef
+annotation="anPatersonH2020"
+citation="rPatersonH2020"
+></annotationRef
+><annotationRef
+annotation="anPaterson2021Archive"
+citation="rPatersonIII2021Thesis"
+></annotationRef
+><annotationRef
+citation="rPatersonIII2021ars"
+></annotationRef
+><annotationRef
+annotation="anPatersonIIIHughJ2021CV"
+citation="rPatersonIIIHughJ2021CV"
+></annotationRef
+><annotationRef
+annotation="anPatersonPaterson2020"
+citation="rPatersonPaterson2020"
+></annotationRef
+><annotationRef
+annotation="anPatersonPons2020"
+citation="rPatersonPons2020"
+></annotationRef
+><annotationRef
+annotation="PatersonRebeccaDowSmithAbbieHantganandEkaterinaAplonova2021BuildAnnotation"
+citation="rPatersonRebeccaDowSmith2021Songs"
+></annotationRef
+><annotationRef
+annotation="PatersonRebeccaDowSmithAbbieHantganandEkaterinaAplonova2021BuildAnnotation"
+citation="rPatersonRebeccaDowSmithAbbieHantganandEkaterinaAplonova2021Build"
+></annotationRef
+><annotationRef
+citation="rPennerKevinL2019Proso"
+></annotationRef
+><annotationRef
+citation="rRasmussenKent2015"
+></annotationRef
+><annotationRef
+citation="rRasmussenKent2015LD"
+></annotationRef
+><annotationRef
+citation="rRasmussenKent2016Ndaka"
+></annotationRef
+><annotationRef
+citation="rRasmussenKent2016"
+></annotationRef
+><annotationRef
+annotation="anRasmussenKent2018"
+citation="rRasmussenKent20180523AComp"
+></annotationRef
+></section1
+><backMatter
+><endnotes
+></endnotes
+><references
+><refAuthor
+citename="Paterson, Hantgan &amp; Chanard"
+name="Paterson, Rebecca, Abbie Hantgan &amp; Christian Chanard"
+><refWork
+id="rPatersonRebeccaDowSmithAbbieHantganandEkaterinaAplonova2021Build"
+showiso639-3codes="no"
+><refDate
+>2021</refDate
+><refTitle
+>Building Multilingual Comparable Corpora</refTitle
+><paper
+><conference
+>The 7th International Conference on Language Documentation &amp; Conservation (ICLDC), 4–7 March</conference
+><location
+>University of Hawai‘i at Mānoa</location
+><url
+>https://hughandbecky.us/Becky-CV/talk/2021-building-multilingual-comparable-corpora</url
+></paper
+><annotations
+><annotation
+annotype="atAbstract"
+id="anPatersonRebeccaDowSmithAbbieHantganandEkaterinaAplonova2021BuildAbstract"
+>While describing language documentation methodology in Africa, Lüpke (2010: 67) notes that documenting the performance of verbal art often requires more than just a speaker and necessitates the documentation of the situational context. Childs et al. (2014: 169) advocate for documentation of the comprehensive language repertoire of a community in it’s sociolinguistic context rather than documenting use of a single speech variety within a multilingual reality. This presentation looks at the performance of poetic form by women in the u̱t‑Maꞌin language community in a variety of settings. Paterson (2019: 8-9) lays out seven related speech varieties—u̱t‑Fer, u̱t‑Kag, u̱t‑MaꞌKu̱u̱r, u̱t‑MaꞌJiir, u̱t‑MaꞌRo̱r, u̱s-Us, and u̱t‑Zuksun—under the cover term u̱t‑Maꞌin. In addition to the u̱t‑Maꞌin varieties, C’Lela and u̱t‑Hun, neighboring languages, and the lingua franca, Hausa, are used in a range of social functions; English is the language of federal government and education; Arabic is used to express a social identity with macro-Islamic culture. However, each u̱t‑Maꞌin speaker’s grasp of these various speech varieties differs. Within recordings made while conducting language documentation fieldwork among u̱t‑Maꞌin speakers, many songs were not sung in u̱t‑Maꞌin. Rather, C’Lela, Hausa, and Arabic were used depending on the social context. In one case, a song within a folk narrative by an u̱t-Fer storyteller (Mama Iliya et al. 2013) was not intelligible to two u̱t-MaꞌRo̱r speakers who were transcribing the story. My consultants clearly expressed that the challenge for translation was because “This is not our language”. This presentation highlights the relationships between u̱t‑Maꞌin and C’Lela cultural contexts in which only some u̱t‑Maꞌin women embrace non-u̱t‑Maꞌin verbal art. Through analysis of recorded songs, discussion around the songs at the time of collection, discussion with other u̱t‑Maꞌin speakers elsewhere, and supplemental video conference interviews, I present hypotheses about the sociolinguistic dynamics that drive the use of particular languages in songs that may prove applicable to other multilingual environments.</annotation
+><annotation
+annotype="atAnnotation"
+id="PatersonRebeccaDowSmithAbbieHantganandEkaterinaAplonova2021BuildAnnotation"
+>This is an example of a conference abstract with a personalized header.</annotation
+></annotations
+></refWork
+></refAuthor
+><refAuthor
+citename="Paterson"
+name="Paterson, Rebecca"
+><refWork
+id="rPatersonRebeccaDowSmith2021Songs"
+showiso639-3codes="no"
+><refDate
+>2021</refDate
+><refTitle
+>Songs: Language Choice and Verbal Art</refTitle
+><paper
+><conference
+>The 7th International Conference on Language Documentation &amp; Conservation (ICLDC), 4–7 March</conference
+><location
+>University of Hawai‘i at Mānoa</location
+><url
+>https://hughandbecky.us/Becky-CV/talk/2021-songs-language-choice-and-verbal-art</url
+><iso639-3code
+>gel</iso639-3code
+></paper
+><annotations
+><annotation
+annotype="atAbstract"
+id="anPatersonRebeccaDowSmith2021SongsAbstract"
+>While describing language documentation methodology in Africa, Lüpke (2010: 67) notes that documenting the performance of verbal art often requires more than just a speaker and necessitates the documentation of the situational context. Childs et al. (2014: 169) advocate for documentation of the comprehensive language repertoire of a community in it’s sociolinguistic context rather than documenting use of a single speech variety within a multilingual reality. This presentation looks at the performance of poetic form by women in the u̱t‑Maꞌin language community in a variety of settings. Paterson (2019: 8-9) lays out seven related speech varieties—u̱t‑Fer, u̱t‑Kag, u̱t‑MaꞌKu̱u̱r, u̱t‑MaꞌJiir, u̱t‑MaꞌRo̱r, u̱s-Us, and u̱t‑Zuksun—under the cover term u̱t‑Maꞌin. In addition to the u̱t‑Maꞌin varieties, C’Lela and u̱t‑Hun, neighboring languages, and the lingua franca, Hausa, are used in a range of social functions; English is the language of federal government and education; Arabic is used to express a social identity with macro-Islamic culture. However, each u̱t‑Maꞌin speaker’s grasp of these various speech varieties differs. Within recordings made while conducting language documentation fieldwork among u̱t‑Maꞌin speakers, many songs were not sung in u̱t‑Maꞌin. Rather, C’Lela, Hausa, and Arabic were used depending on the social context. In one case, a song within a folk narrative by an u̱t-Fer storyteller (Mama Iliya et al. 2013) was not intelligible to two u̱t-MaꞌRo̱r speakers who were transcribing the story. My consultants clearly expressed that the challenge for translation was because “This is not our language”. This presentation highlights the relationships between u̱t‑Maꞌin and C’Lela cultural contexts in which only some u̱t‑Maꞌin women embrace non-u̱t‑Maꞌin verbal art. Through analysis of recorded songs, discussion around the songs at the time of collection, discussion with other u̱t‑Maꞌin speakers elsewhere, and supplemental video conference interviews, I present hypotheses about the sociolinguistic dynamics that drive the use of particular languages in songs that may prove applicable to other multilingual environments.</annotation
+><annotation
+annotype="atAnnotation"
+id="anPatersonR2021Songs"
+>This is an example of a conference abstract with a personalized header.</annotation
+></annotations
+></refWork
+></refAuthor
+><refAuthor
+citename="Beadle &amp; Lee"
+name="Beadle, Jennie &amp; Matthew Lee"
+><refWork
+id="rBeadleJennieParatext8fr"
+showiso639-3codes="no"
+><refDate
+>2020</refDate
+><refTitle
+>Paratext 8 Manual – in French</refTitle
+><webPage
+><institution
+>SIL International</institution
+><url
+>https://ou​tilingua.net</url
+><dateAccessed
+>2020-11-10</dateAccessed
+><annotations
+><annotation
+annotype="atAnnotation"
+id="anBeadleJennieParatext8fr"
+>The websites <link
+href="https://outilingua.net"
+>outilingua.net</link
+> and <link
+href="https://lingtran.net"
+>lingtran.net</link
+> are both run tikiwiki as their core software. The content when it is refreshed is uploaded as a tikiwiki bundel. There are technical challenges in tikiwiki with managing images with a workflow which refreshes periodically. To overcome this challenges manages are hosted on a site like github.com and are linked to the accessible repository of images.</annotation
+></annotations
+></webPage
+></refWork
+><refWork
+id="rBeadleJennieParatext9fr"
+showiso639-3codes="no"
+><refDate
+>2020</refDate
+><refTitle
+>Paratext 9 Manual – in French</refTitle
+><webPage
+><institution
+>SIL International</institution
+><url
+>https://ou​tilingua.net</url
+><dateAccessed
+>2020-11-10</dateAccessed
+><annotations
+><annotation
+annotype="atAnnotation"
+id="anBeadleJennieParatext9fr"
+>The websites <link
+href="https://outilingua.net"
+>outilingua.net</link
+> and <link
+href="https://lingtran.net"
+>lingtran.net</link
+> are both run tikiwiki as their core software. The content when it is refreshed is uploaded as a tikiwiki bundel. There are technical challenges in tikiwiki with managing images with a workflow which refreshes periodically. To overcome this challenges manages are hosted on a site like github.com and are linked to the accessible repository of images.</annotation
+></annotations
+></webPage
+></refWork
+><refWork
+id="rBeadleJennieParatext9en"
+showiso639-3codes="no"
+><refDate
+>2020</refDate
+><refTitle
+>Paratext 9 Manual – in English</refTitle
+><webPage
+><institution
+>SIL International</institution
+><url
+>https://li​ngtran.net</url
+><dateAccessed
+>2020-11-10</dateAccessed
+><annotations
+><annotation
+annotype="atAnnotation"
+id="anBeadleJennieParatext9en"
+>The websites <link
+href="https://outilingua.net"
+>outilingua.net</link
+> and <link
+href="https://lingtran.net"
+>lingtran.net</link
+> are both run tikiwiki as their core software. The content when it is refreshed is uploaded as a tikiwiki bundel. There are technical challenges in tikiwiki with managing images with a workflow which refreshes periodically. To overcome this challenges manages are hosted on a site like github.com and are linked to the accessible repository of images.</annotation
+></annotations
+></webPage
+></refWork
+><refWork
+id="rBeadleJennieParatext8en"
+showiso639-3codes="no"
+><refDate
+>2020</refDate
+><refTitle
+>Paratext 8 Manual – in English</refTitle
+><webPage
+><institution
+>SIL International</institution
+><url
+>https://li​ngtran.net</url
+><dateAccessed
+>2020-11-10</dateAccessed
+><annotations
+><annotation
+annotype="atAnnotation"
+id="anBeadleJennieParatext8en"
+>The websites <link
+href="https://outilingua.net"
+>outilingua.net</link
+> and <link
+href="https://lingtran.net"
+>lingtran.net</link
+> are both run tikiwiki as their core software. The content when it is refreshed is uploaded as a tikiwiki bundel. There are technical challenges in tikiwiki with managing images with a workflow which refreshes periodically. To overcome this challenges manages are hosted on a site like github.com and are linked to the accessible repository of images.</annotation
+></annotations
+></webPage
+></refWork
+></refAuthor
+><refAuthor
+citename="Rasmussen"
+name="Rasmussen, Kent"
+><refWork
+id="rRasmussenKent20180523AComp"
+showiso639-3codes="yes"
+><refDate
+>2018</refDate
+><refTitle
+>A Comparative Tone Analysis of Several Bantu D30 Languages (DR Congo)</refTitle
+><dissertation
+><institution
+>University of Texas Arlington</institution
+><url
+>http://hdl.handle.net/10106/27483</url
+><iso639-3code
+>brf</iso639-3code
+><iso639-3code
+>ndk</iso639-3code
+><iso639-3code
+>zmw</iso639-3code
+><iso639-3code
+>buu</iso639-3code
+><iso639-3code
+>vau</iso639-3code
+><iso639-3code
+>nlj</iso639-3code
+></dissertation
+><annotations
+><annotation
+annotype="atDissertations"
+id="atDissertations"
+></annotation
+><annotation
+annotype="atAbstract"
+id="anRasmussenKent20180523ACompAbstract"
+>This dissertation presents an analysis of the tonal systems of the Bantu D30 languages. There are 34 Bantu D languages in the Democratic Republic of the Congo (DRC), few of which have developed orthographies (Lewis, Simons, &amp; Fennig 2013). These languages make use of contrastive pitch (tone), which is a source of difficulty in their analysis. I begin, therefore, with a review of literature arguing for a number of positions regarding the collection, analysis, and representation of tone data. Additionally, I describe the fundamentals of consonant-tone interaction, and some background on the Bantu D30 languages, including their genetic and geographic context. My research describes infinitive and finite verb forms, mostly in Ndaka [ndk] and Mbo [zmw], though also including data from other Bantu D33 languages Budu [buu], Nyali-Kilo [nlj], Vanuma [vau] and Bantu D32 Bɨra [brf]. I further compare the Bantu D30 languages, in order to provide insight into the analysis of consonant-tone interaction (CTI). Specifically, these descriptions and comparisons form the basis for my argument that a synchronic application of Bradshaw (1999)'s [L/Voice] cannot account for Bantu D30 data. Rather, a historical and comparative perspective is needed to account for data not predicted by Bradshaw (1999), if her fundamental claims are to remain intact. This research has two primary aims. First, I describe the three lexical verb root classes by tone in Ndaka and Mbo, along with data from other Bantu D30 languages. Second, I provide comparative data in the Bantu D30 languages. These comparative data allow one a better view of certain consonants of the Bantu D30 languages. A diachronic view of these consonants is further helpful in understanding current tone patterns as the result of historical consonant-tone interaction (CTI). Ultimately, this work contributes to the understanding of the genetic relationships between the Bantu D30 languages, which is somewhat debatable at present. Perhaps the greatest theoretical contribution of this dissertation is a new model of tonogenesis (the creation of new tone melodies). This new model provides an account for the large majority of available Bantu D30 data fitting a distribution as expected by Bradshaw (1999)'s [L/Voice], while at the same time accounting for a non-trivial number of exceptions to that distribution. This model accounts for the Bantu D30 data without rejecting Bradshaw (1999), but also provides a model for how tonogenesis may have occurred, which can then also be applied to the origin of tone melodies in other languages.</annotation
+><annotation
+annotype="atNote"
+id="anRasmussenKent20180523ACompNote1"
+>Accepted: 2018-06-05T19:10:08Z</annotation
+></annotations
+></refWork
+><refWork
+id="rRasmussenKent20180322Tonog"
+showiso639-3codes="yes"
+><refDate
+>2018</refDate
+><refTitle
+>Tonogenesis in Bantu D30</refTitle
+><paper
+><conference
+>49th Annual Conference on African Linguistics</conference
+><location
+>Michigan State University. March 22–25</location
+></paper
+><annotations
+><annotation
+annotype="atAnnotation"
+id="anRasmussenKent2018"
+>A beautiful use of figures (see figures 13 &amp; 17), examples with tone bar notation (see example 9), tables with notes (table 4 &amp; 5), Includes a Glosses index and a segmental forms index.</annotation
+></annotations
+><keywords
+><keyword
+>Made_with_XLingPaper</keyword
+><keyword
+>Ndaka [ndk]</keyword
+><keyword
+>Nyali-Kilo [nlj]</keyword
+><keyword
+>Mbo [zmw]</keyword
+><keyword
+>Vanuma [vau]</keyword
+><keyword
+>Budu [buu]</keyword
+><keyword
+>Bila [bip]</keyword
+><keyword
+>Bhele [bhy]</keyword
+><keyword
+>Kaiku [kkq]</keyword
+><keyword
+>Bɨra [brf]</keyword
+><keyword
+>Nen, Tunen [tvu]</keyword
+><keyword
+>Suma (Adamawa-Oubangi) [sqm]</keyword
+><keyword
+>Congo Swahili [swc]</keyword
+><keyword
+>Lika, Liko [lik]</keyword
+><keyword
+>Komo [kmw]</keyword
+><keyword
+>Basaá [bas]</keyword
+><keyword
+>ISO-639-3_bas</keyword
+><keyword
+>ISO-639-3_vau</keyword
+><keyword
+>ISO-639-3_sqm</keyword
+><keyword
+>ISO-639-3_bhy</keyword
+><keyword
+>ISO-639-3_nlj</keyword
+><keyword
+>ISO-639-3_bip</keyword
+><keyword
+>ISO-639-3_swc</keyword
+><keyword
+>ISO-639-3_buu</keyword
+><keyword
+>ISO-639-3_brf</keyword
+><keyword
+>ISO-639-3_kkq</keyword
+><keyword
+>ISO-639-3_kmw</keyword
+><keyword
+>ISO-639-3_lik</keyword
+><keyword
+>ISO-639-3_zmw</keyword
+><keyword
+>ISO-639-3_ndk</keyword
+><keyword
+>ISO-639-3_tvu</keyword
+></keywords
+></refWork
+><refWork
+id="rRasmussenKent2016"
+showiso639-3codes="yes"
+><refDate
+>2016</refDate
+><refTitle
+>The Functional Load of Tone in Bantu D30</refTitle
+><paper
+><conference
+>8th Annual DFW Metroplex Linguistics Conference</conference
+><location
+>The Graduate Institute of Applied Linguistics, Dallas, TX. September 24</location
+></paper
+><keywords
+><keyword
+>Made_with_XLingPaper</keyword
+><keyword
+>Ndaka [ndk]</keyword
+><keyword
+>Nyali-Kilo [nlj]</keyword
+><keyword
+>Mbo [zmw]</keyword
+><keyword
+>Vanuma [vau]</keyword
+><keyword
+>Budu [buu]</keyword
+><keyword
+>Bila [bip]</keyword
+><keyword
+>Bhele [bhy]</keyword
+><keyword
+>Kaiku [kkq]</keyword
+><keyword
+>Bɨra [brf]</keyword
+><keyword
+>Nen, Tunen [tvu]</keyword
+><keyword
+>Suma (Adamawa-Oubangi) [sqm]</keyword
+><keyword
+>Congo Swahili [swc]</keyword
+><keyword
+>Lika, Liko [lik]</keyword
+><keyword
+>Komo [kmw]</keyword
+><keyword
+>Basaá [bas]</keyword
+><keyword
+>ISO-639-3_bas</keyword
+><keyword
+>ISO-639-3_vau</keyword
+><keyword
+>ISO-639-3_sqm</keyword
+><keyword
+>ISO-639-3_bhy</keyword
+><keyword
+>ISO-639-3_nlj</keyword
+><keyword
+>ISO-639-3_bip</keyword
+><keyword
+>ISO-639-3_swc</keyword
+><keyword
+>ISO-639-3_buu</keyword
+><keyword
+>ISO-639-3_brf</keyword
+><keyword
+>ISO-639-3_kkq</keyword
+><keyword
+>ISO-639-3_kmw</keyword
+><keyword
+>ISO-639-3_lik</keyword
+><keyword
+>ISO-639-3_zmw</keyword
+><keyword
+>ISO-639-3_ndk</keyword
+><keyword
+>ISO-639-3_tvu</keyword
+></keywords
+></refWork
+><refWork
+id="rRasmussenKent2016Ndaka"
+showiso639-3codes="yes"
+><refDate
+>2016</refDate
+><refTitle
+>Ndaka [ndk] (D.R. Congo): Another Bantu D30 Language with Nine Vowels and Depressor Consonants</refTitle
+><paper
+><conference
+>47th Annual Conference on African Linguistics</conference
+><location
+>University of California, Berkeley, March 23–26</location
+><iso639-3code
+>ndk</iso639-3code
+></paper
+></refWork
+><refWork
+id="rRasmussenKent2015"
+showiso639-3codes="yes"
+><refDate
+>2015</refDate
+><refTitle
+>A First Look at Mbo [zmw] (D. R. Congo)</refTitle
+><paper
+><conference
+>46th Annual Conference on African Linguistics</conference
+><location
+>University of Oregon, Eugene, March 26–28</location
+><iso639-3code
+>zmw</iso639-3code
+></paper
+></refWork
+><refWork
+id="rRasmussenKent2015LD"
+showiso639-3codes="no"
+><refDate
+>2015</refDate
+><refTitle
+>Language Development: Developing Communities</refTitle
+><paper
+><conference
+>The UT Arlington Annual Celebration of Excellence by Students</conference
+><location
+>University of Texas at Arlington, Arlington, Texas. March 25</location
+></paper
+></refWork
+></refAuthor
+><refAuthor
+citename="Mong"
+name="Mong, Megan Lois"
+><refWork
+id="rMongMeganLois2018Modes"
+showiso639-3codes="no"
+><refDate
+>2018</refDate
+><refTitle
+>Modest Dress as Literacy Practice in English-Speaking Conservative Mennonite Groups</refTitle
+><thesis
+><institution
+>University of North Dakota</institution
+><url
+>https://commons.und.edu/theses/2290</url
+><iso639-3code
+>eng</iso639-3code
+></thesis
+><annotations
+><annotation
+annotype="atAnnotation"
+id="anMongMeganLois2018ModesAnnotation"
+>This thesis is notable for the inclusion of multiple photographs which are referred to throughout the work.</annotation
+></annotations
+></refWork
+></refAuthor
+><refAuthor
+citename="Reeves"
+name="Reeves, Hannah Joy"
+><refWork
+id="rReevesHannahJoy2015Falam"
+showiso639-3codes="no"
+><refDate
+>2015</refDate
+><refTitle
+>Falam immigrants in America: Motivations for language use, maintenance, and shift</refTitle
+><thesis
+><institution
+>University of North Dakota</institution
+><url
+>https://commons.und.edu/theses/1827</url
+><iso639-3code
+>cfm</iso639-3code
+></thesis
+><annotations
+><annotation
+annotype="atAbstract"
+id="anReevesHannahJoy2015FalamAbstract"
+>Using a mixed qualitative and quantitative approach, I explore immigrants' individual motivations for language use, language shift and language maintenance. I met with 25 immigrants to the US who are native speakers of Falam, a language from Myanmar, to learn their reasons for Falam and English usage as well as their desires for Falam usage in the US. I used the Perceived Benefit Model of Language Shift's taxonomy of motivations to classify each motivation expressed. Among Falam immigrants to America, I found that solidarity-related and communicative motivations are behind language maintenance while economic and communicative motivations are behind language shift. I conclude with a discussion on the role motivations play in forecasting ethnolinguistic vitality and initiating language development, suggesting the use of a wider framework such as Lewis and Simon's Sustainable Use Model to account for factors such as changing societal values and varying strengths of motivations.</annotation
+></annotations
+></refWork
+></refAuthor
+><refAuthor
+citename="Lepage"
+name="Lepage, Sarah Gloria "
+><refWork
+id="rLepage2020"
+showiso639-3codes="no"
+><refDate
+>2020</refDate
+><refTitle
+>The Phonology Of Mbati</refTitle
+><thesis
+><institution
+>University of North Dakota</institution
+><url
+>https://​commons.und.edu/theses/3379</url
+><iso639-3code
+>mdn</iso639-3code
+></thesis
+></refWork
+></refAuthor
+><refAuthor
+citename="Miller"
+name="Miller, Emily R. "
+><refWork
+id="rMiller2020"
+showiso639-3codes="no"
+><refDate
+>2020</refDate
+><refTitle
+>Information Structure in Soumraye (Somrai), an Eastern Chadic language</refTitle
+><thesis
+><institution
+>University of North Dakota</institution
+><url
+>https://commons.und.edu/theses/3288</url
+></thesis
+></refWork
+></refAuthor
+><refAuthor
+citename="Moffit"
+name="Moffit, Larinda"
+><refWork
+id="rMoffit2019"
+showiso639-3codes="no"
+><refDate
+>2019</refDate
+><refTitle
+>Constituent Order And Participant Reference In Napo Quichua Narrative Discourse</refTitle
+><thesis
+><institution
+>University of North Dakota</institution
+><url
+>https://commons.und.edu/theses/2474</url
+></thesis
+></refWork
+></refAuthor
+><refAuthor
+citename="Lamicela"
+name="Lamicela, Andrew Charles"
+><refWork
+id="rLamicela2020"
+showiso639-3codes="no"
+><refDate
+>2020</refDate
+><refTitle
+>Distinguishing Passive from MP2-marked Middle in Koine Greek</refTitle
+><thesis
+><institution
+>University of North Dakota</institution
+><url
+>https://commons.und.edu/theses/3277</url
+><annotations
+><annotation
+annotype="atAnnotation"
+id="anLamicela2020"
+>Notable for its use of Greek script in examples.</annotation
+></annotations
+></thesis
+></refWork
+></refAuthor
+><refAuthor
+citename="Méndez-Hord"
+name="Méndez-Hord, Esteban I."
+><refWork
+id="rMéndezHordEstebanI.2017Tonei"
+showiso639-3codes="yes"
+><refDate
+>2017</refDate
+><refTitle
+>Tone in Acatlán Mixtec Nouns</refTitle
+><thesis
+><institution
+>University of North Dakota</institution
+><url
+>https://commons.und.edu/theses/2296</url
+><iso639-3code
+>mit</iso639-3code
+><annotations
+><annotation
+annotype="atAnnotation"
+id="anMéndezHordEstebanI"
+>Notable for its use of glosses in tables, and the use of phonetic bar notation for tone melodies as described in <citation
+ref="rPatersonIIIHughJ2015"
+></citation
+>, and used extensively by Keith Snider, Kent Rasmussen, and others.</annotation
+></annotations
+></thesis
+></refWork
+></refAuthor
+><refAuthor
+citename="Paterson"
+name="Paterson III, Hugh J."
+><refWork
+id="rPatersonIIIHughJ2014Keybo"
+showiso639-3codes="no"
+><refDate
+>2015</refDate
+><refTitle
+>Keyboard layouts: Lessons from the Meꞌphaa and Sochiapam Chinantec designs</refTitle
+><collection
+><collEd
+plural="no"
+>Mari C. Jones</collEd
+><collTitle
+>Endangered Languages and New Technologies</collTitle
+><collPages
+>49–66</collPages
+><location
+>Cambridge, UK</location
+><publisher
+>Cambridge University Press</publisher
+><url
+>https://hughandbecky.us/Hugh-CV/publication/2015-keyboard-layouts/</url
+><doi
+>10.1017/CBO9781107279063.006</doi
+></collection
+><annotations
+><annotation
+annotype="atNote"
+id="anPatersonIIIHughJ2014KeyboNote1"
+>The following values have no corresponding Zotero field:&lt;br/&gt;section: 3&lt;br/&gt;electronic-resource-num: 10.1017/CBO9781107279063.006</annotation
+><annotation
+annotype="atAnnotation"
+id="anPatersonIIIHughJ2014KeyboNote2"
+>This is a stylized post-print with a banner.</annotation
+></annotations
+><keywords
+><keyword
+>Typing</keyword
+><keyword
+>Keyboard layout design</keyword
+></keywords
+></refWork
+><refWork
+id="rPatersonIIIHughJ2021CV"
+><refDate
+>2021</refDate
+><refTitle
+>Curriculum Vitae</refTitle
+><ms
+><institution
+>Personal Website</institution
+><url
+>https://hughandbecky.us/Hugh-CV/cv/2020_12_USletter_Hugh_Paterson_CV.pdf</url
+><annotations
+><annotation
+annotype="atAnnotation"
+id="anPatersonIIIHughJ2021CV"
+>This is an example of a Curriculum Vitae (CV)/Resume built with XLingPaper.</annotation
+></annotations
+></ms
+></refWork
+><refWork
+id="rPatersonIIIHughJ2015"
+showiso639-3codes="no"
+><refDate
+>2015</refDate
+><refTitle
+>Phonetic Transcription of Tone in the IPA</refTitle
+><collection
+><collEd
+plural="no"
+>Maria Wolters, Judy Livingstone, Bernie Beattie, Rachel Smith, Mike MacMahon, Jane Stuart-Smith &amp; Jim Scobbie</collEd
+><collTitle
+>Proceedings of the 18th International Congress of Phonetic Sciences</collTitle
+><collPages
+>Paper №507</collPages
+><location
+>London, UK</location
+><publisher
+>International Phonetic Association</publisher
+><url
+>https://www.internationalphoneticassociation.org/icphs-proceedings/ICPhS2015/Papers/ICPHS0507.pdf</url
+></collection
+></refWork
+><refWork
+id="rPatersonIII2021Thesis"
+><refDate
+>2021</refDate
+><refTitle
+>Language Archive Records: Interoperability of Referencing Practices and Metadata Models</refTitle
+><thesis
+><location
+>Grand Forks, North Dakota</location
+><institution
+>University of North Dakota</institution
+><comment
+>Needs URL</comment
+><annotations
+><annotation
+annotype="atAnnotation"
+id="anPaterson2021Archive"
+>This work is notable for its inclusion of syntax-highlighted computer code in figures. It was accomplished by printing the computer code to PDF first and then including the PDF as a figure.</annotation
+></annotations
+></thesis
+></refWork
+><refWork
+id="rPatersonIII2021ars"
+showiso639-3codes="no"
+><refDate
+>2021</refDate
+><refTitle
+>On rights management in anthropological and linguistic sound collections</refTitle
+><article
+><jTitle
+>ARSC Journal</jTitle
+><jVol
+>52</jVol
+><jIssueNumber
+>1</jIssueNumber
+><comment
+>Needs page numbers</comment
+></article
+></refWork
+><refWork
+id="rPatersonH2020"
+showiso639-3codes="yes"
+><refDate
+>2020</refDate
+><refTitle
+>Text input issues for under-resourced languages: with special notes on Eastern Dan</refTitle
+><ms
+><institution
+>Draft</institution
+><iso639-3code
+>dnj</iso639-3code
+><annotations
+><annotation
+annotype="atAnnotation"
+id="anPatersonH2020"
+>This work uses Persian, Japanese, Latin, and Cyrillic scripts. It also contains an appendix which is an annotated bibliography.</annotation
+></annotations
+></ms
+></refWork
+><refWork
+id="rPatersonH2013"
+><refDate
+>2013</refDate
+><refTitle
+>Recommendations for SIL Language Learning Products — Version 0.8</refTitle
+><ms
+><location
+>Dallas, Texas</location
+><institution
+>SIL International</institution
+></ms
+></refWork
+><refWork
+id="rPatersonH2020LanguageNames"
+><refDate
+>2020</refDate
+><refTitle
+>Some Preliminary thoughts on Language Names</refTitle
+><ms
+><location
+>Paris, France</location
+><institution
+>Draft</institution
+></ms
+></refWork
+><refWork
+id="rPatersonH2012"
+><refDate
+>2012</refDate
+><refTitle
+>Some Current Challenges using the ISO 639-3 Standard</refTitle
+><ms
+><location
+>Dallas, Texas</location
+><institution
+>SIL International</institution
+></ms
+></refWork
+><refWork
+id="rPatersonH2020ReviewZotero"
+><refDate
+>2020</refDate
+><refTitle
+>A Review of Zotero in Language and Culture Documentation Contexts</refTitle
+><ms
+><location
+>Paris, France</location
+><institution
+>Draft</institution
+></ms
+></refWork
+><refWork
+id="rPatersonH2015"
+><refDate
+>2015</refDate
+><refTitle
+>XLingPaper, GPS Services, and the future of SIL Digital Publishing — Version 0.1</refTitle
+><ms
+><location
+>Dallas, Texas</location
+><institution
+>SIL International</institution
+></ms
+></refWork
+><refWork
+id="rPatersonH2020reported"
+showiso639-3codes="yes"
+><refDate
+>2020</refDate
+><refTitle
+>Annotated Bibliography of SIL publications related to Quotatives, Reported Speech, Verbs of Saying &amp; Thinking, and Indirect Speech in discourse</refTitle
+><ms
+><institution
+>Draft</institution
+><iso639-3code
+></iso639-3code
+><annotations
+><annotation
+annotype="atAnnotation"
+id="anPatersonH2020reported"
+>This annotated bibliography is global in scope, but it's purpose is to highlight the gap between the acknowledged knowledge of in the current academic literature and SIL's historical publications. The thesis is that SIL's works are not findable, and are not cited, even if they are relevant to today's research projects.</annotation
+></annotations
+></ms
+></refWork
+><refWork
+id="rPatersonH2020DFT"
+showiso639-3codes="yes"
+><refDate
+>2020</refDate
+><refTitle
+>Annotated Bibliography of discussions around the translation practices of Divine Familial Terms</refTitle
+><ms
+><institution
+>Draft</institution
+><annotations
+><annotation
+annotype="atAnnotation"
+id="anPatersonH2020DFT"
+>This annotated bibliography is global in scope, it attempts to provide knowledge about the long history of discussion — Theological, Missiological, and Linguistic — related to the translation of analogies in the Christian scriptures which use of <object
+type="tItalic"
+>familial terminology</object
+> in reference to <object
+type="tItalic"
+>divine</object
+>, <object
+type="tItalic"
+>heavenly</object
+>, and <object
+type="tItalic"
+>spiritual beings</object
+>.</annotation
+></annotations
+></ms
+></refWork
+><refWork
+id="rPatersonH2020XLingPaper"
+showiso639-3codes="yes"
+><authorRole
+>(Compiler)</authorRole
+><refDate
+>2021</refDate
+><refTitle
+>Some Works created in XLingPaper</refTitle
+><ms
+><institution
+>Zenodo</institution
+><doi
+></doi
+><annotations
+><annotation
+annotype="atAnnotation"
+id="anPatersonH2020XLingPaper"
+>This annotated bibliography pulls together a list of works created by using XLingPaper — it is the one you are currently reading. It is designed to mail out to people and ask them to reply with content that can be added to the annotated bibliography.</annotation
+></annotations
+></ms
+></refWork
+><refWork
+id="rPatersonH2020XLingPaperFull"
+showiso639-3codes="yes"
+><refDate
+>2020</refDate
+><refTitle
+>Annotated Bibliography of XLingPaper Works</refTitle
+><ms
+><institution
+>Draft</institution
+><annotations
+><annotation
+annotype="atAnnotation"
+id="anPatersonH2020XLingPaperFull"
+>This annotated bibliography pulls together data collected via <citation
+ref="rPatersonH2020XLingPaper"
+></citation
+>. It then presents the data using the Annotated Bibliography Template <citation
+ref="rPatersonH2020XLingPaperFull"
+></citation
+> .</annotation
+></annotations
+></ms
+></refWork
+><refWork
+id="rPatersonH2020AnnotatedBibTemplate"
+showiso639-3codes="yes"
+><refDate
+>2020</refDate
+><refTitle
+>Annotated Bibliography Template</refTitle
+><ms
+><institution
+>Draft</institution
+><annotations
+><annotation
+annotype="atAnnotation"
+id="anPatersonH2020AnnotatedBibTemplate"
+>This is a template designed to be used with XLingPaper to help authors conceptualize and publish annotated bibliographies.</annotation
+></annotations
+></ms
+></refWork
+></refAuthor
+><refAuthor
+citename="Paterson &amp; Pons"
+name="Paterson III, Hugh J. &amp; Marie Pons"
+><refWork
+id="rPatersonPons2020"
+showiso639-3codes="yes"
+><refDate
+>2020</refDate
+><refTitle
+>Chepang Annotated Bibliography for Interdisciplinary Studies</refTitle
+><ms
+><institution
+>Draft</institution
+><iso639-3code
+>cdm</iso639-3code
+><annotations
+><annotation
+annotype="atNote"
+id="anPatersonPons2020"
+>This annotated bibliography is notable for its size (over 500 items) and for its use of Greek, Devanagari, Latin, and Cyrillic scripts.</annotation
+></annotations
+></ms
+></refWork
+></refAuthor
+><refAuthor
+citename="Paterson &amp; Paterson"
+name="Paterson III, Hugh J. &amp; Rebecca Dow Smith Paterson"
+><refWork
+id="rPatersonPaterson2020"
+showiso639-3codes="yes"
+><refDate
+>2020</refDate
+><refTitle
+>Annotated Bibliography of Research in Kainji Language Using Areas</refTitle
+><ms
+><institution
+>Draft</institution
+><iso639-3code
+>gel</iso639-3code
+><iso639-3code
+>dri</iso639-3code
+><annotations
+><annotation
+annotype="atNote"
+id="anPatersonPaterson2020"
+>This Annotated Bibliography is notable for its coverage of languages. There are approximately 50 languages covered. The Bibliography primarily covers linguistics and anthropology related publications, it avoids publications related to natural and environmental sciences dealing with lake Kainji.</annotation
+></annotations
+></ms
+></refWork
+></refAuthor
+><refAuthor
+citename="Carlson"
+name="Carlson, Bethany Winter"
+><refWork
+id="rCarlsonBethanyWinter2015Casea"
+showiso639-3codes="no"
+><refDate
+>2015</refDate
+><refTitle
+>Case and Pragmatic Status Markers in Embera Katío</refTitle
+><thesis
+><institution
+>University of North Dakota</institution
+><url
+>https://commons.und.edu/theses/1752</url
+></thesis
+></refWork
+></refAuthor
+><refAuthor
+citename="Cline"
+name="Cline, Laura J"
+><refWork
+id="rClineLauraJ2018SomeF"
+showiso639-3codes="no"
+><refDate
+>2018</refDate
+><refTitle
+>Some Features of Participant Reference in Xochapa Mixtec</refTitle
+><thesis
+><institution
+>University of North Dakota</institution
+><url
+>https://commons.und.edu/theses/2395</url
+></thesis
+><annotations
+><annotation
+annotype="atAbstract"
+id="anClineLauraJ2018SomeFAbstract"
+>Many works have been published about the grammar and phonology of Mixtecan languages, but relatively little has been written about the discourse features of these languages. One of these areas of discourse where relatively little research has been done is that of participant reference. This thesis explores the features of participant reference in one Mixtec language, Xochapa Mixtec, by examining the use of nouns, pronouns, and deictic phrases in eight Xochapa Mixtec texts. The texts used in this research were transcribed from audio recordings and then analyzed with respect to the participant reference forms they employed. The thesis begins with a description of several relevant aspects of Xochapa Mixtec grammar before describing in detail the different categories of participant reference and how they are used. The analysis of participant reference forms employs ideas and terminology from several different discourse methodologies, especially Givón (1983), Levinsohn (1994), and Gundel, Hedberg, &amp; Zacharski (1993). This research reveals that Xochapa Mixtec uses noun phrases for activation and reactivation of discourse participants, for disambiguation, and for highlighting. Determiners and deictic phrases are used in continuing reference to activated participants, though use of both the indefinite article and the definite particle is optional. Pronouns are also used in further reference to activated participants, and some pronouns can be used outside their usual noun class category in certain discourse contexts. There is sometimes alternation between the use of animal and human pronouns for the same participant in a text. Finally, Xochapa Mixtec has a special pronoun that is used for third person direct objects that play the role of local VIP.</annotation
+></annotations
+></refWork
+></refAuthor
+><refAuthor
+citename="Grosso"
+name="Grosso, Tamara Michelle"
+><refWork
+id="rGrossoTamaraMichelle2017Refer"
+showiso639-3codes="no"
+><refDate
+>2017</refDate
+><refTitle
+>Referring Forms and Cognitive Status in Non-Narrative American Sign Language Texts</refTitle
+><thesis
+><institution
+>University of North Dakota</institution
+><url
+>https://commons.und.edu/theses/2221</url
+></thesis
+><annotations
+><annotation
+annotype="atAbstract"
+id="anGrossoTamaraMichelle2017ReferAbstract"
+>In their work on referring expressions and cognition, Gundel et al. (1993) propose a model called the Givenness Hierarchy which suggests that there are basic referring expressions in languages which can signal the cognitive status of their referents. Supported by cross-linguistic research, the theory proposes six cognitive statuses which have forms associated with them such that if that form is used (successfully), the referent must have at least that status on the scale. In 2002, Swabey published a doctoral dissertation researching the Givenness Hierarchy for American Sign Language (ASL) in narrative texts. She compared the distribution of referring forms cross-linguistically (between ASL and English). She also proposed form-status correlations based on her research. This study adds to Swabey’s work by analyzing referring forms and form-status correlation in ASL texts from a non-narrative genre. These non-narrative texts, found in political monologues posted to YouTube, have a variety of referents that are not necessarily present in narratives, such as ideas, speech acts, and propositions. One of the challenges of work on referring forms in ASL is establishing the categories of these forms. In their work on reference tracking, Frederiksen &amp; Mayberry (2016) expanded the referential categories proposed by Swabey to look at the effect of word order, fingerspelling and other referring strategies on the discourse use of referring expressions. This study adopts the categories proposed by Frederiksen and Mayberry with a few additional categories from Swabey, which are not found in Frederiksen &amp; Mayberry (2016). The results of this study support many of the claims made by Swabey (2002) as well as propose a revision to one form-status correlation. This study also gives the cognitive status correlations of two forms which were not mentioned in Swabey (2002). The study also furthers the descriptions of discourse usage of referring expressions in ASL. Finally, the addition of a non-narrative genre to discourse analysis of ASL texts shows that the claim by Swabey (2002), and Frederiksen &amp; Mayberry (2016) that ASL disfavors the use of pronouns, is true for narratives, but not necessarily for other texts.</annotation
+></annotations
+></refWork
+></refAuthor
+><refAuthor
+citename="Buck"
+name="Buck, Marjorie J"
+><refWork
+id="rBuckMarjorieJ2018Gramá"
+showiso639-3codes="no"
+><refDate
+>2018</refDate
+><refTitle
+>Gramática del amuzgo Xochistlahuaca, Guerrero</refTitle
+><book
+><series
+>Serie de gramáticas de lenguas indígenas de México №16</series
+><location
+>Tlalpan, Ciudad de México, México</location
+><publisher
+>Instituto Lingüístico de Verano, A.C. [SIL Intrenational in Mexico]</publisher
+><url
+>https://www.sil.org/resources/archives/75518</url
+></book
+><annotations
+><annotation
+annotype="atAnnotation"
+id="anBuckMarjorieJ2018GramáNote1"
+>This book uses no less than 4 colors of text. Like many XLingPaper documents it makes extensive use of blue and green contrasts. Some pages have more blue and green than black. It also has a nice annotated bibliography in the back. The annotated bibliography uses the XLingPaper annotation elements for automatic styling. Much like this document.</annotation
+></annotations
+></refWork
+></refAuthor
+><refAuthor
+citename="Havlicek"
+name="Havlicek, Amy Ruth"
+><refWork
+id="rHavlicekAmyRuth2009Alter"
+showiso639-3codes="no"
+><refDate
+>2009</refDate
+><refTitle
+>Alternations in Murui: A Morphological Approach</refTitle
+><thesis
+><institution
+>University of North Dakota</institution
+><url
+>https://commons.und.edu/theses/2229</url
+></thesis
+></refWork
+></refAuthor
+><refAuthor
+citename="Rastorgueva et al."
+name="Rastorgueva, V. S., A. A. Kerimova, A. K. Mamedzade, L. A. Pireiko &amp; D. I. Edel’man. (Editor) Ron M. Lockwood"
+><refWork
+id="rRastorguevaV.S.A.A.KerimovaA.K.MamedzadeL.A.PireikoandD.I.Edelman2012TheGi"
+showiso639-3codes="no"
+><refDate
+>2012</refDate
+><refTitle
+>The Gilaki Language</refTitle
+><book
+><series
+>Acta Universitatis Upsaliensis; Studia Iranica Upsaliensia №19</series
+><location
+>Uppsala, Sweden</location
+><publisher
+>Acta Universitatis Upsaliensis</publisher
+><url
+>http://urn.kb.se/resolve?urn​=urn:nbn:se:uu:diva-182789</url
+></book
+><annotations
+><annotation
+annotype="atAbstract"
+id="anRastorguevaV.S.A.A.KerimovaA.K.MamedzadeL.A.PireikoandD.I.Edelman2012TheGiAbstract"
+>This is a translation of the original book entitled: Giljanskij Jazyk. It includes an additional appendix containing an interlinearized version of the Gilaki texts. English translation editing and by Ron Lockwood ...</annotation
+><annotation
+annotype="atAnnotation"
+id="anRastorguevaV.S.A.A.KerimovaA.K.MamedzadeL.A.PireikoandD.I.Edelman2012TheGiAatAnnotation"
+>This is a translation of the original book entitled: <object
+type="tItalic"
+>Giljanskij Jazyk</object
+>.This publication uses color extensively. It uses no less than 8 different colors each with a semantic meaning. There is no clear table for the semantic meanings of the color but usage is consistent throughout the work – thanks to XLingPaper, and the editor. This work also has 20 interlinear glossed texts, which are discussed and linked throughout the book. It uses mostly uses Latin script with one small word in an Arabic script.</annotation
+></annotations
+></refWork
+></refAuthor
+><refAuthor
+citename="Bartholomew &amp; Schoenhals"
+name="Bartholomew, Doris A. (Author), Louise C. Schoenhals (Author) &amp; Thomas L Willett (Editor)"
+><refWork
+id="rBartholomewDorisAandLouiseCSchoenhals2019Bilin"
+><refDate
+>2019</refDate
+><refTitle
+>Bilingual Dictionaries for Indigenous Languages</refTitle
+><book
+><edition
+>2</edition
+><location
+>Tlalpan, Ciudad de México, México</location
+><publisher
+>Instituto Lingüístico de Verano, A. C. [SIL Intrenational in Mexico]</publisher
+><url
+>https://mexico.sil.org​/resources/archives/80401</url
+></book
+></refWork
+></refAuthor
+><refAuthor
+citename="Penner"
+name="Penner, Kevin L"
+><refWork
+id="rPennerKevinL2019Proso"
+showiso639-3codes="no"
+><refDate
+>2019</refDate
+><refTitle
+>Prosodic structure in Ixtayutla Mixtec: Evidence for the foot</refTitle
+><dissertation
+><institution
+>University of Alberta</institution
+><url
+>https://era.library.ualberta.ca/items/40b96306-3b73-4fd5-b1cf-8fc770bb609e</url
+><doi
+>10.13140/RG.2.2.28786.96965</doi
+><iso639-3code
+>mig</iso639-3code
+></dissertation
+><annotations
+><annotation
+annotype="atAnnotation"
+id="anPennerKevinL2019"
+>The level of detail for many phonetically transcribed words is notable. Many include tonal register, nasalization, pitch, and glotalization, e.g., sṹˀmã́<object
+type="tSuperscript"
+>L</object
+>.</annotation
+><annotation
+annotype="atNote"
+id="anPennerKevinL2019ProsoNote1"
+>Publisher: Unpublished url: https://era.library.ualberta.ca/items/40b96306-3b73-4fd5-b1cf-8fc770bb609e DOI: 10.13140/RG.2.2.28786.96965 http://rgdoi.net/10.13140/RG.2.2.28786.96965</annotation
+></annotations
+><keywords
+><keyword
+>Chalcatongo Mixtec [mig]</keyword
+><keyword
+>ISO-639-3_mig</keyword
+></keywords
+></refWork
+></refAuthor
+><refAuthor
+citename="Brownie"
+name="Brownie, John"
+><refWork
+id="rBrownieJohn2013Adver"
+showiso639-3codes="yes"
+><refDate
+>2013</refDate
+><refTitle
+>Adverbs in the Mussau-Emira Verb Phrase</refTitle
+><article
+><jTitle
+>Language &amp; Linguistics in Melanesia</jTitle
+><jVol
+>31</jVol
+><jIssueNumber
+>1</jIssueNumber
+><jPages
+>1–11</jPages
+><url
+>https://www.langlxmelanesia.com/​LLM%20Vol.%2031%20​​Adverbs%20​Mussau.pdf</url
+><iso639-3code
+>emi</iso639-3code
+></article
+><annotations
+><annotation
+annotype="atNote"
+id="anBrownieJohn2013AdverNote1"
+>ZSCC: NoCitationData[s0]</annotation
+></annotations
+><keywords
+><keyword
+>ISO-639-3_emi</keyword
+><keyword
+>Mussau-Emira [emi]</keyword
+><keyword
+>Made_with_XLingPaper</keyword
+></keywords
+></refWork
+><refWork
+id="rBrownieJohn2017Valen"
+showiso639-3codes="yes"
+><refDate
+>2017</refDate
+><refTitle
+>Valence Change in Mussau-Emira</refTitle
+><article
+><jTitle
+>Language &amp; Linguistics in Melanesia</jTitle
+><jVol
+>35</jVol
+><jIssueNumber
+>1</jIssueNumber
+><jPages
+>25–54</jPages
+><url
+>https://www.langlxmelanesia.com/​LLM%20​​Vol.​%2035%20​2017​​​​%20​​​​​​Brownie_Valence​%20FV.pdf</url
+><iso639-3code
+>emi</iso639-3code
+></article
+><annotations
+><annotation
+annotype="atNote"
+id="anBrownieJohn2017ValenNote1"
+>ZSCC: NoCitationData[s0]</annotation
+></annotations
+><keywords
+><keyword
+>ISO-639-3_emi</keyword
+><keyword
+>Mussau-Emira [emi]</keyword
+><keyword
+>Made_with_XLingPaper</keyword
+></keywords
+></refWork
+><refWork
+id="rBrownieJohn2018Three"
+showiso639-3codes="yes"
+><refDate
+>2018</refDate
+><refTitle
+>Three-Participant Events in Mussau-Emira: Addenda/Corrections to Margetts (2007)</refTitle
+><article
+><jTitle
+>Language &amp; Linguistics in Melanesia</jTitle
+><jVol
+>36</jVol
+><jIssueNumber
+>1</jIssueNumber
+><jPages
+>1–12</jPages
+><url
+>https://www.langlxmelanesia.com/​​LLM%20Vol.%2036_Brownie_3-participant​%20events​%20​in%20Mussau-Emira.pdf</url
+><iso639-3code
+>emi</iso639-3code
+></article
+><annotations
+><annotation
+annotype="atAbstract"
+id="anBrownieJohn2018ThreeAbstract"
+>Margetts (2007) is an informative article about the strategies used by Oceanic languages for three-participant events. Mussau-Emira is included in the survey, but the data on which it is based is flawed and incomplete, so that her description is faulty. This paper provides better data for Mussau-Emira on the different strategies identified by Margetts.</annotation
+><annotation
+annotype="atNote"
+id="anBrownieJohn2018ThreeNote1"
+>ZSCC: NoCitationData[s0]</annotation
+></annotations
+><keywords
+><keyword
+>ISO-639-3_emi</keyword
+><keyword
+>Mussau-Emira [emi]</keyword
+><keyword
+>Made_with_XLingPaper</keyword
+></keywords
+></refWork
+></refAuthor
+><refAuthor
+citename="Anderson &amp; Black"
+name="Anderson, Judi Lynn &amp; Cheryl A. Black"
+><refWork
+id="rAndersonJudiLynnandCherylA.Black2016Flexi"
+showiso639-3codes="yes"
+><refDate
+>2016</refDate
+><refTitle
+>Flexible animacy in Comaltepec Chinantec</refTitle
+><article
+><jTitle
+>SIL-Mexico Electronic Working Papers</jTitle
+><jVol
+>№19</jVol
+><url
+>https://sil.org/resources/archives/68283</url
+><iso639-3code
+>cco</iso639-3code
+></article
+><annotations
+><annotation
+annotype="atJounralArticle"
+id="atFlexibleAnimacy"
+></annotation
+></annotations
+><keywords
+><keyword
+>Comaltepec Chinantec [cco]</keyword
+><keyword
+>ISO-639-3_cco</keyword
+></keywords
+></refWork
+></refAuthor
+><refAuthor
+citename="Ebarb"
+name="Ebarb, Kristopher J"
+><refWork
+id="rEbarbKristopherJ2014Tonea"
+showiso639-3codes="yes"
+><refDate
+>2014</refDate
+><refTitle
+>Tone and variation in Idakho and other Luhya varieties</refTitle
+><dissertation
+><institution
+>University of Indiana</institution
+><url
+>https://pqdtopen.proquest.com/doc/1625743679.html?FMT=ABS</url
+><iso639-3code
+>ida</iso639-3code
+><iso639-3code
+>luy</iso639-3code
+></dissertation
+><annotations
+><annotation
+annotype="atDissertation"
+id="anEbarbK"
+></annotation
+><annotation
+annotype="atAbstract"
+id="anEbarbKristopherJ2014ToneaAbstract"
+>Bantu languages commonly signal tense, aspect, mood, polarity, and clause-type distinctions with tonal as well as segmental cues. The inflectional tonal melodies on verbs may be viewed as underlyingly floating H tones (henceforth `melodic Hs') contributed by the morpho-syntax that are assigned by rule to different positions within the verb. Along with a small set of construction specific tonal adjustment rules, the number and position of melodic Hs distinguish one tonal melody from another. The present dissertation makes two contributions to the study of the special role that tone plays in Bantu verbal morpho-syntax. First, it contributes extensive novel documentation of the verbal tone system of Idakho: a variety of the Luhya cluster of Bantu languages spoken near Lake Victoria in western Kenya and eastern Uganda. Second, I show how aspects of the Idakho system and that of other Luhya varieties like it have contributed to the development of rich diversity within the verbal tone systems of Luhya. Part I comprises the descriptive component of the dissertation and emphasizes the impact of several factors known to influence verb tone in Bantu. Because many language consultants contributed to the project, the dissertation makes note of variation within and across speakers of Idakho. In Part II, I demonstrate the role that a preference for prosodically well-cued morphological boundaries has played in two striking tonal developments within the Luhya macrolanguage: the loss of a lexical tonal contrast reconstructed to Proto-Bantu and the introduction of tonal melodies in constructions for which there is no historical precedence for tonal inflection.</annotation
+><annotation
+annotype="atAnnotation"
+id="rEbarbKristopherJ2014"
+>Just over 950 language paradigms showing tonal variations. The author used Inkscape to draw formal diagrams illustrating things like associations.</annotation
+><annotation
+annotype="atNote"
+id="anEbarbKristopherJ2014ToneaNote1"
+>ISBN: 978-1-321-26588-0</annotation
+></annotations
+></refWork
+></refAuthor
+><refAuthor
+citename="Kim"
+name="Kim, Deborah"
+><refWork
+id="rKimDeborah2014Subor"
+showiso639-3codes="yes"
+><refDate
+>2014</refDate
+><refTitle
+>Subordination in Sarikoli</refTitle
+><thesis
+><institution
+>University of North Dakota</institution
+><url
+>https://​com​mons.und.edu/theses/1672</url
+><iso639-3code
+>srh</iso639-3code
+></thesis
+><annotations
+><annotation
+annotype="atNote"
+id="anKimDeborah2014SuborNote1"
+>OCLC : 915951816 ISBN: 9781321266313</annotation
+><annotation
+annotype="atThesis"
+id="anSarikoliSubordination"
+></annotation
+></annotations
+><keywords
+><keyword
+>Sarikoli [srh]</keyword
+><keyword
+>ISO-639-3_srh</keyword
+></keywords
+></refWork
+></refAuthor
+><refAuthor
+citename="Wood"
+name="Wood, Joyce Kathleen"
+><refWork
+id="rWoodJoyceKathleen2012Valen"
+showiso639-3codes="no"
+><refDate
+>2012</refDate
+><refTitle
+>Valence-Increasing Strategies in Urim Syntax</refTitle
+><thesis
+><institution
+>Graduate Institute of Applied Linguistics</institution
+><url
+>https://www.diu.edu/documents/theses/Wood_Joyce-thesis.pdf</url
+><dateAccessed
+>2020-07-04</dateAccessed
+><iso639-3code
+>uri</iso639-3code
+><annotations
+><annotation
+annotype="atThesis"
+id="anUrimSyntax"
+></annotation
+></annotations
+><keywords
+><keyword
+>Urim [uri]</keyword
+></keywords
+></thesis
+></refWork
+></refAuthor
+><refAuthor
+citename="Vogel"
+name="Vogel, Alan R."
+><refWork
+id="rVogelAlanR.2015Jaraw"
+showiso639-3codes="yes"
+><refDate
+>2015</refDate
+><refTitle
+>Jarawara Complement Clauses: Some New Perspectives</refTitle
+><article
+><jTitle
+>SIL Electronic Working Papers</jTitle
+><jVol
+>2015</jVol
+><jIssueNumber
+>005</jIssueNumber
+><url
+>https://www.sil.org/resources/publications/entry/64237</url
+><iso639-3code
+>jaa</iso639-3code
+></article
+><annotations
+><annotation
+annotype="atJounralArticle"
+id="anJarawaraComplementClauses"
+></annotation
+><annotation
+annotype="atNote"
+id="anVogelAlanR.2015JarawNote1"
+>tex.ids: vogel_jarawara_nodate</annotation
+></annotations
+><keywords
+><keyword
+>ISO-639-3_jaa</keyword
+><keyword
+>Jamamadí [jaa]</keyword
+></keywords
+></refWork
+></refAuthor
+><refAuthor
+citename="Simons &amp; Black"
+name="Simons, Gary F. &amp; H. Andrew Black"
+><refWork
+id="rSimonsGaryFandH.AndrewBlack2008Third"
+showiso639-3codes="yes"
+><refDate
+>2008</refDate
+><refTitle
+>Third Wave Writing and Publishing</refTitle
+><article
+><jTitle
+>SIL Forum for Language Fieldwork</jTitle
+><jVol
+>2009</jVol
+><jArticleNumber
+>005</jArticleNumber
+><url
+>https://www.sil.org/resources/publications/entry/7783</url
+></article
+><annotations
+><annotation
+annotype="atJounralArticle"
+id="anThirdWave"
+></annotation
+><annotation
+annotype="atAbstract"
+id="anSimonsGaryFandH.AndrewBlack2008ThirdAbstract"
+>Now that we live in the period of the Third Wave, we need to reconsider how we do writing and publishing in the “Information Age.” Our mental models of publishing tend to align with the Second Wave (or “Industrial Age”) approach in which the product of writing is formatted pages that are mass-produced in printed books and journals. But the product of Third Wave writing is actionable information that may be published in print or published in multiple digital forms with just-in-time customization. We show that a Third Wave approach has several other advantages, including supporting archiving in a form that offers long term repurposability, allowing us to “work smarter” to increase quality and productivity, and making an incredible publishing impact possible. We also give examples which show that it is possible to write and publish in a Third Wave style today</annotation
+></annotations
+></refWork
+></refAuthor
+><refAuthor
+citename="Black &amp; Lee"
+name="Black, H Andrew &amp; Matthew Lee"
+><refWork
+id="rBlackHAndrewandMatthewLee2020XLing"
+showiso639-3codes="no"
+><refDate
+>2020</refDate
+><refTitle
+>XLingPaper Publisher Style Sheet User Documentation</refTitle
+><webPage
+><url
+>http://software.sil.org/downloads/​r​/​xlingpaper/resources/documentation/xxe7​/​UserDocXMLmind.htm</url
+><dateAccessed
+>2020-11-10</dateAccessed
+></webPage
+></refWork
+></refAuthor
+><refAuthor
+citename="Black"
+name="Black, H Andrew"
+><refWork
+id="rBlackHAndrew2014AConc"
+showiso639-3codes="no"
+><refDate
+>2014</refDate
+><refTitle
+>A Conceptual Introduction to Morphological Parsing for Stage 1 of the FieldWorks Language Explorer</refTitle
+><webPage
+><publisher
+>A Conceptual Introduction to Morphological Parsing for Stage 1 of the FieldWorks Language Explorer</publisher
+><url
+>http://downloads.sil.org/FieldWorks/WW-ConceptualIntro/ConceptualIntroduction.htm</url
+><dateAccessed
+>2020-11-10</dateAccessed
+></webPage
+></refWork
+><refWork
+id="rBlackHAndrew2020XLing"
+showiso639-3codes="no"
+><refDate
+>2020</refDate
+><refTitle
+>XLingPaper User Documentation</refTitle
+><webPage
+><url
+>http://software.sil.org/downloads/​r​/​xlingpaper/resources/documentation/xxe7/UserDocXMLmind.htm</url
+><dateAccessed
+>2020-11-10</dateAccessed
+></webPage
+></refWork
+><refWork
+id="rBlackHAndrew2017WhyLe"
+showiso639-3codes="no"
+><refDate
+>2017</refDate
+><refTitle
+>Why Learn to Use XLingPaper</refTitle
+><book
+><location
+>Dallas, Texas</location
+><publisher
+>SIL International</publisher
+><url
+>http://​software.sil.org/downloads/r/xlingpaper/resources/documentation/WhyUseXLingPaper.pdf</url
+></book
+></refWork
+><refWork
+id="rBlackHAndrew2017Ashen"
+showiso639-3codes="no"
+><refDate
+>2017</refDate
+><refTitle
+>Asheninka: Introduction to Syllabification</refTitle
+><ms
+><location
+>Dallas, Texas</location
+><institution
+>SIL International</institution
+><url
+>http://software.sil.org/downloads/r/asheninka/resources/Overview.pdf</url
+></ms
+><annotations
+><annotation
+annotype="atNote"
+id="anBlackHAndrew2017AshenNote1"
+>publisher: SIL International</annotation
+></annotations
+></refWork
+><refWork
+id="rBlackHAndrew2017AshenUserDocumentation"
+showiso639-3codes="no"
+><refDate
+>2017</refDate
+><refTitle
+>Asheninka User Documentation</refTitle
+><book
+><location
+>Dallas, Texas</location
+><publisher
+>SIL International</publisher
+><url
+>http://​software.sil.org/downloads/r/asheninka/resources/UserDocumentation.pdf</url
+></book
+></refWork
+><refWork
+id="rBlackHAndrew2017Sugge"
+showiso639-3codes="no"
+><refDate
+>2017</refDate
+><refTitle
+>Suggested Steps to Follow when using Asheninka</refTitle
+><book
+><location
+>Dallas, Texas</location
+><publisher
+>SIL International</publisher
+><url
+>http://software.sil.org/downloads/r/asheninka/resources/SuggestedSteps.pdf</url
+></book
+></refWork
+><refWork
+id="rBlackHAndrew2019LingT"
+showiso639-3codes="no"
+><refDate
+>2019</refDate
+><refTitle
+>LingTree User Documentation</refTitle
+><book
+><location
+>Dallas, Texas</location
+><publisher
+>SIL International</publisher
+><url
+>http://soft​ware.sil.org/downloads/r/lingtree/​resources/​​UserDocumentation.pdf</url
+></book
+></refWork
+><refWork
+id="rBlackH.Andrew2009Writi"
+showiso639-3codes="yes"
+><refDate
+>2009</refDate
+><refTitle
+>Writing Linguistic Papers in the Third Wave</refTitle
+><article
+><jTitle
+>SIL Forum for Language Fieldwork</jTitle
+><jVol
+>2009</jVol
+><jArticleNumber
+>004</jArticleNumber
+><url
+>https://www.sil.org/resources/publications/entry/7790</url
+></article
+><annotations
+><annotation
+annotype="atJounralArticle"
+id="anWritingInTheThirdWave"
+></annotation
+><annotation
+annotype="atAbstract"
+id="anBlackH.Andrew2009WritiAbstract"
+>This article introduces a method to write linguistic articles and books that addresses most, if not all, of the frustrations authors often face when writing linguistic articles and books. This method follows a Third Wave approach as described in Simons and Black (2008). As Simons and Black note, we need to “work smarter” rather than work harder. One of the key notions is to produce “actionable” knowledge. They also note the role that XML technologies can play in enabling us to “work smarter.” In this article I explain a way we can “work smarter” when it comes to writing linguistic papers and books. The method uses several things: * the mark-up language called XML * an XML package designed for authoring and even archiving linguistic papers (XLingPaper) * an XML Editor program that makes it much easier to write XML documents (XMLmind XML Editor).</annotation
+></annotations
+></refWork
+></refAuthor
+><refAuthor
+citename="Black &amp; Black"
+name="Black, Cheryl A. &amp; H. Andrew Black"
+><refWork
+id="rBlackCherylA.andH.AndrewBlack201210Gramm"
+showiso639-3codes="yes"
+><refDate
+>2012</refDate
+><refTitle
+>Grammars for the people, by the people, made easier using PAWS and XlingPaper</refTitle
+><collection
+><collEd
+plural="no"
+>Sebastian Nordoff</collEd
+><collTitle
+>Electronic Grammaticography</collTitle
+><collPages
+>103-128</collPages
+><series
+>Language Documentation &amp; Conservation Special Publication №4</series
+><location
+>Honolulu, Hawai‘i</location
+><publisher
+>University of Hawai‘i Press</publisher
+><url
+>http://hdl.handle.net/10125/4532</url
+></collection
+><annotations
+><annotation
+annotype="atChapter"
+id="anPAWSandXLingPaper"
+></annotation
+><annotation
+annotype="atAbstract"
+id="anBlackCherylA.andH.AndrewBlack201210GrammAbstract"
+>The task of documenting the minority languages of the world, many of them endangered, is daunting. Further, it is most likely impossible to expect that linguists can go to every language and write a reference grammar for it. At the same time, the indigenous people are becoming more educated and more interested in working on their own languages. This paper describes a computational tool that teaches native speakers about various linguistic constructions, has them enter data from their language and answer simple questions about it, and then produces a draft of a practical grammar of the language. This grammar can be edited for publishing electronically and/or on paper and is useful for the people themselves as well as by linguists. The underlying XML technology allows much of the complexity to be hidden from the user, while providing multiple views and outputs possible from the same data. The marked-up XML files are archivable and usable by many XML editors. Localization and customization are also possible.</annotation
+><annotation
+annotype="atNote"
+id="anBlackCherylA.andH.AndrewBlack201210GrammNote1"
+>Accepted: 2012-10-19T19:54:46Z Pages: 103-128</annotation
+></annotations
+></refWork
+></refAuthor
+><refAuthor
+citename="Cline et al."
+name="Cline, Kevin L., Stephen A. Marlett, Hugh J. Paterson III &amp; Mark L. Weathers"
+><refWork
+id="rClineKevinL.StephenA.MarlettHughJ.PatersonIIIandMarkL.Weathers2011LasCo"
+showiso639-3codes="yes"
+><refDate
+>2011</refDate
+><refTitle
+>Las Conexiones Externas e Internas</refTitle
+><collection
+><collEd
+plural="no"
+>Stephen A. Marlett</collEd
+><collTitle
+>Los Archivos Lingüísticos Me'phaa</collTitle
+><series
+>SIL-Mexico Electronic Working Papers №13</series
+><location
+>Tucson, Arizona</location
+><publisher
+>SIL International</publisher
+><url
+>https://mexico​.sil.org/publications/i-wpindex/work_papers_-_mephaa_grammar_files</url
+><iso639-3code
+>tpx</iso639-3code
+><iso639-3code
+>tcf</iso639-3code
+><iso639-3code
+>tpc</iso639-3code
+><iso639-3code
+>sut</iso639-3code
+><iso639-3code
+>tpi</iso639-3code
+></collection
+><annotations
+><annotation
+annotype="atEditedItem"
+id="anLasConexiones"
+></annotation
+><annotation
+annotype="atNote"
+id="anClineKevinL.StephenA.MarlettHughJ.PatersonIIIandMarkL.Weathers2011LasCoNote1"
+>&lt;p&gt;HughP3 Used this as a reference when creating the Heatmap paper. &lt;/p&gt;</annotation
+></annotations
+><keywords
+><keyword
+>Me'phaa</keyword
+></keywords
+></refWork
+></refAuthor
+><refAuthor
+citename="Black, Black &amp; Marlett"
+name="Black, Cheryl A, H. Andrew Black &amp; Stephen A Marlett"
+><refWork
+id="rBlackCherylAH.AndrewBlackandStephenAMarlett2009TheZa"
+showiso639-3codes="yes"
+><refDate
+>2009</refDate
+><refTitle
+>The Zapotec Grammar Files</refTitle
+><book
+><series
+>SIL-Mexico Electronic Working Papers №1</series
+><location
+>Mexico City, Mexico</location
+><publisher
+>Instituto Lingüístico de Verano, A.C. [SIL International in Mexico]</publisher
+><url
+>https://www.sil.org/resources/archives/35298</url
+><iso639-3code
+>zap</iso639-3code
+></book
+><keywords
+><keyword
+>Zapotec [zap]</keyword
+><keyword
+>ISO-639-3_zap</keyword
+></keywords
+></refWork
+></refAuthor
+><refAuthor
+citename="Marlett"
+name="Marlett, Stephen A"
+><refWork
+id="rMarlettStephenA2014Phono"
+showiso639-3codes="no"
+><refDate
+>2014</refDate
+><refTitle
+>Phonology From the Ground Up: The Basics</refTitle
+><book
+><location
+>Dallas, TX</location
+><publisher
+>SIL International</publisher
+><url
+>https://arts-sciences.und.edu/academics/summer-institute-of-linguistics/teaching-linguistics/_files/docs/marlett-2014-phonology-student.pdf</url
+><dateAccessed
+>2021-05-01</dateAccessed
+><annotations
+><annotation
+annotype="atAnnotation"
+id="anMarlettStephenA2014Phono"
+>Besides being a Textbook, this document is notable for its use of the content control feature. The author has used content control to produce several versions including: Teacher material, Developer material, Teacher edition, and a Student edition.</annotation
+></annotations
+></book
+></refWork
+><refWork
+id="rMarlettStephenA2009TheMe"
+showiso639-3codes="yes"
+><refDate
+>2011</refDate
+><refTitle
+>The Me'phaa Grammar Files</refTitle
+><book
+><series
+>SIL-Mexico Electronic Working Papers №9</series
+><location
+>Mexico City, Mexico</location
+><publisher
+>Instituto Lingüístico de Verano, A.C. [SIL International in Mexico]</publisher
+><url
+>https://mexico.sil.org/publications/i-wpindex/work_papers_-_mephaa_grammar_files</url
+><iso639-3code
+>tpx</iso639-3code
+><iso639-3code
+>tcf</iso639-3code
+><iso639-3code
+>tpc</iso639-3code
+><iso639-3code
+>sut</iso639-3code
+><iso639-3code
+>tpi</iso639-3code
+></book
+><annotations
+><annotation
+annotype="atAnnotation"
+id="anrMarlettStephenA2009TheMe"
+>This is a collection of individual papers. The individual papers do not have continuous pagination or any indication of internal structural order, i.e., chapter markers.</annotation
+></annotations
+><keywords
+><keyword
+>Acatepec Me'phaa [tpx]xlingpa</keyword
+><keyword
+>Azoyú Me'phaa [tpc]</keyword
+><keyword
+>Malinaltepec Me'phaa [tcf]</keyword
+><keyword
+>Subtiaba [sut]</keyword
+><keyword
+>Tlacoapa Me'phaa [tpl]</keyword
+></keywords
+></refWork
+><refWork
+id="rMarlettStephenA2011Datas"
+showiso639-3codes="yes"
+><refDate
+>2011</refDate
+><refTitle
+>Data sources</refTitle
+><collection
+><collEd
+plural="yes"
+>Stephen A Marlett, Cheryl A Black and H Andrew Black</collEd
+><collTitle
+>The Zapotec Grammar Files</collTitle
+><collPages
+>n.p.</collPages
+><series
+>SIL-Mexico Electronic Working Papers №1</series
+><location
+>Mexico City, Mexico</location
+><publisher
+>Instituto Lingüístico de Verano, A.C. [SIL International in Mexico]</publisher
+><url
+>https://www.sil.org/resources/archives/60560</url
+><iso639-3code
+>zap</iso639-3code
+><annotations
+><annotation
+annotype="atAnnotation"
+id="anMarlettStephenA2011Datas"
+>This is an interesting way to create a table view for resources which relate to a specific language.</annotation
+></annotations
+></collection
+></refWork
+><refWork
+id="rMarlettStephenA2017Disco"
+showiso639-3codes="yes"
+><refDate
+>2017</refDate
+><refTitle
+>Discourse analysis and information structure studies of Otomanguean languages: An annotated bibliography</refTitle
+><article
+><jTitle
+>SIL-Mexico Electronic Working Papers</jTitle
+><jVol
+>№21</jVol
+><url
+>https://​​sil.org/​​resources/archives/69066</url
+></article
+><annotations
+><annotation
+annotype="atAnnotation"
+id="anMarlettStephenA2017DiscoAbstract1"
+>This paper presents an annotated bibliography of studies about discourse analysis or information structure of languages in various branches of the Otomanguean language family. It is organized around the topics presented in Dooley &amp; Levinsohn (2001). It is notable for its scope in covering an entire language family. The author structures the document by theoretical points and then describes which studies cover those points. In this way the document is structured much more like a typical XLingPaper article rather than relying on the annotationRef elements.</annotation
+><annotation
+annotype="atAbstract"
+id="anMarlettStephenA2017DiscoAbstract"
+>This paper presents an annotated bibliography of studies about discourse analysis or information structure of languages in various branches of the Otomanguean language family. It is organized around the topics presented in Dooley &amp; Levinsohn (2001).</annotation
+><annotation
+annotype="atNote"
+id="anMarlettStephenA2017DiscoNote1"
+>ZSCC: NoCitationData[s0]</annotation
+></annotations
+><keywords
+><keyword
+>ISO-639-3_maj</keyword
+><keyword
+>ISO-639-3_mau</keyword
+><keyword
+>ISO-639-3_meh</keyword
+><keyword
+>ISO-639-3_mim</keyword
+><keyword
+>ISO-639-3_mix</keyword
+><keyword
+>ISO-639-3_mks</keyword
+><keyword
+>ISO-639-3_mxy</keyword
+><keyword
+>ISO-639-3_ots</keyword
+><keyword
+>ISO-639-3_trs</keyword
+><keyword
+>ISO-639-3_xtd</keyword
+><keyword
+>ISO-639-3_zaa</keyword
+><keyword
+>ISO-639-3_zad</keyword
+><keyword
+>ISO-639-3_zpl</keyword
+><keyword
+>ISO-639-3_zpo</keyword
+><keyword
+>ISO-639-3_zpr</keyword
+><keyword
+>ISO-639-3_zpv</keyword
+><keyword
+>ISO-639-3_ztg</keyword
+></keywords
+></refWork
+><refWork
+id="rMarlettStephen2015"
+showiso639-3codes="yes"
+><refDate
+>2015</refDate
+><refTitle
+>Two annotated short Seri texts</refTitle
+><article
+><jTitle
+>SIL-Mexico Electronic Working Papers</jTitle
+><jVol
+>№19</jVol
+><url
+>https://www.sil.org/​resources/archives/62746</url
+><iso639-3code
+>sei</iso639-3code
+></article
+><annotations
+><annotation
+annotype="atNote"
+id="anMarlettStephenANoDateTwoanNote1"
+>illustrator: Moser Marlett, Cathy dc.contributor.illustrator Moser Marlett, Cathy dc.contributor.researcher Moser, Edward W. dc.contributor.speaker López Perales, Jessica dc.contributor.speaker Moreno Herrera, Francisco Xavier</annotation
+></annotations
+><keywords
+><keyword
+>ISO-639-3_sei</keyword
+></keywords
+></refWork
+></refAuthor
+><annotatedBibliographyTypes
+><annotatedBibliographyType
+id="atJounralArticle"
+>Journal Articles</annotatedBibliographyType
+><annotatedBibliographyType
+id="atChapter"
+>Chapters</annotatedBibliographyType
+><annotatedBibliographyType
+id="atThesis"
+>Theses</annotatedBibliographyType
+><annotatedBibliographyType
+id="atDissertation"
+>Dissertations</annotatedBibliographyType
+><annotatedBibliographyType
+id="atBook"
+>Books</annotatedBibliographyType
+><annotatedBibliographyType
+id="atEditedItem"
+>Items in an Edited Volume</annotatedBibliographyType
+><annotatedBibliographyType
+id="atEditedVolume"
+>Edited Volumes</annotatedBibliographyType
+><annotatedBibliographyType
+id="atNote"
+>Notes about References</annotatedBibliographyType
+><annotatedBibliographyType
+id="atAbstract"
+>Abstracts of References</annotatedBibliographyType
+><annotatedBibliographyType
+id="atAnnotation"
+>Annotations about References</annotatedBibliographyType
+></annotatedBibliographyTypes
+></references
+></backMatter
+><languages
+><language
+id="lVernacular"
+name="vernacular"
+></language
+><language
+id="lGloss"
+name="gloss"
+></language
+><language
+id="en"
+></language
+></languages
+><types
+><comment
+>The following types are provided as pre-set examples. You may well want to create your own types that refer to one or more of these. You do that by typing in the names of the types in the types attribute of your type.</comment
+><type
+font-weight="bold"
+id="tBold"
+></type
+><type
+font-style="italic"
+font-weight="bold"
+id="tBoldItalic"
+></type
+><type
+font-family="Courier"
+id="tCode"
+></type
+><type
+font-weight="bold"
+id="tEmphasis"
+></type
+><type
+id="tGrammaticalGloss"
+types="tSmallCaps"
+></type
+><type
+font-style="italic"
+id="tItalic"
+></type
+><type
+cssSpecial="text-decoration:none"
+id="tNoOverline"
+xsl-foSpecial="text-decoration=&quot;no-overline&quot;"
+></type
+><type
+font-variant="normal"
+id="tNoSmallCaps"
+></type
+><type
+cssSpecial="text-decoration:none"
+id="tNoStrikethrough"
+xsl-foSpecial="text-decoration=&quot;no-line-through&quot;"
+></type
+><type
+cssSpecial="text-decoration:none"
+id="tNoUnderline"
+xsl-foSpecial="text-decoration=&quot;no-underline&quot;"
+></type
+><type
+cssSpecial="text-decoration:overline"
+id="tOverline"
+xsl-foSpecial="text-decoration=&quot;overline&quot;"
+></type
+><type
+font-style="normal"
+font-variant="normal"
+font-weight="normal"
+id="tRegular"
+></type
+><type
+font-family="Charis SIL Small Caps"
+id="tSmallCaps"
+></type
+><type
+XeLaTeXSpecial="line-through"
+cssSpecial="text-decoration:line-through"
+id="tStrikethrough"
+xsl-foSpecial="text-decoration=&quot;line-through&quot;"
+></type
+><type
+XeLaTeXSpecial="subscript"
+cssSpecial="vertical-align:sub;"
+font-size="65%"
+id="tSubscript"
+xsl-foSpecial="baseline-shift='sub'"
+></type
+><type
+XeLaTeXSpecial="superscript"
+cssSpecial="vertical-align:super;"
+font-size="65%"
+id="tSuperscript"
+xsl-foSpecial="baseline-shift='super'"
+></type
+><type
+XeLaTeXSpecial="underline"
+cssSpecial="text-decoration:underline"
+id="tUnderline"
+xsl-foSpecial="text-decoration=&quot;underline&quot;"
+></type
+><comment
+>Add your custom types here.</comment
+></types
+><contentControl
+><contentTypes
+><contentType
+id="ctPaper"
+>Full Paper</contentType
+><contentType
+id="ctAbstract"
+>Abstract</contentType
+><contentType
+id="ctExtra"
+>Extra</contentType
+></contentTypes
+><contentControlChoices
+><contentControlChoice
+active="yes"
+exclude="ctExtra"
+>Print Full Paper</contentControlChoice
+><contentControlChoice
+active="no"
+>Print Extra</contentControlChoice
+><contentControlChoice
+active="no"
+exclude="ctPaper"
+>Print Abstract</contentControlChoice
+></contentControlChoices
+></contentControl
+></lingPaper
+><publisherStyleSheet
+><publisherStyleSheetName
+>Hugh's SIL-UND Work Papers Publisher Stylesheet</publisherStyleSheetName
+><publisherStyleSheetVersion
+>2.0.0</publisherStyleSheetVersion
+><pageLayout
+><pageWidth
+>8.5in</pageWidth
+><pageHeight
+>11in</pageHeight
+><pageTopMargin
+>.5in</pageTopMargin
+><pageBottomMargin
+>.5in</pageBottomMargin
+><pageInsideMargin
+>1in</pageInsideMargin
+><pageOutsideMargin
+>1in</pageOutsideMargin
+><useThesisSubmissionStyle
+></useThesisSubmissionStyle
+><headerMargin
+>.5in</headerMargin
+><footerMargin
+>.5in</footerMargin
+><paragraphIndent
+>.25in</paragraphIndent
+><blockQuoteIndent
+>.25in</blockQuoteIndent
+><lineSpacing
+linespacing="spaceAndAHalf"
+singlespacecontents="no"
+singlespacereferencesbetween="no"
+></lineSpacing
+><defaultFontFamily
+>Charis SIL</defaultFontFamily
+><basicPointSize
+>11</basicPointSize
+><footnotePointSize
+>8</footnotePointSize
+><footnoteLine
+leaderlength="2in"
+leaderpattern="rule"
+textalign="left"
+></footnoteLine
+><linkLayout
+decoration="none"
+><abbrRefLinkLayout
+></abbrRefLinkLayout
+><appendixRefLinkLayout
+></appendixRefLinkLayout
+><citationLinkLayout
+></citationLinkLayout
+><contentsLinkLayout
+></contentsLinkLayout
+><endnoteRefLinkLayout
+></endnoteRefLinkLayout
+><exampleRefLinkLayout
+></exampleRefLinkLayout
+><genericRefLinkLayout
+></genericRefLinkLayout
+><indexLinkLayout
+></indexLinkLayout
+><interlinearRefLinkLayout
+></interlinearRefLinkLayout
+><linkLinkLayout
+></linkLinkLayout
+><sectionRefLinkLayout
+></sectionRefLinkLayout
+><urlLinkLayout
+color="black"
+></urlLinkLayout
+></linkLayout
+><headerFooterPageStyles
+color="white"
+font-family="Times New Roman"
+font-size="10pt"
+><comment
+>Header and Footer Layout</comment
+><headerFooterFirstPage
+textalign="left"
+><header
+><leftHeaderFooterItem
+><nothing
+></nothing
+></leftHeaderFooterItem
+><centerHeaderFooterItem
+><nothing
+></nothing
+></centerHeaderFooterItem
+><rightHeaderFooterItem
+><nothing
+></nothing
+></rightHeaderFooterItem
+></header
+><footer
+><leftHeaderFooterItem
+><paperPublishingBlurb
+verticalAdjustment="-20pt"
+></paperPublishingBlurb
+></leftHeaderFooterItem
+><centerHeaderFooterItem
+><nothing
+></nothing
+></centerHeaderFooterItem
+><rightHeaderFooterItem
+><nothing
+></nothing
+></rightHeaderFooterItem
+></footer
+></headerFooterFirstPage
+><headerFooterPage
+><header
+><leftHeaderFooterItem
+><paperAuthor
+></paperAuthor
+><fixedText
+>: </fixedText
+><paperTitle
+></paperTitle
+></leftHeaderFooterItem
+><centerHeaderFooterItem
+><nothing
+></nothing
+></centerHeaderFooterItem
+><rightHeaderFooterItem
+><pageNumber
+></pageNumber
+></rightHeaderFooterItem
+></header
+><footer
+><leftHeaderFooterItem
+><nothing
+></nothing
+></leftHeaderFooterItem
+><centerHeaderFooterItem
+><nothing
+></nothing
+></centerHeaderFooterItem
+><rightHeaderFooterItem
+><nothing
+></nothing
+></rightHeaderFooterItem
+></footer
+></headerFooterPage
+></headerFooterPageStyles
+></pageLayout
+><frontMatterLayout
+><comment
+>Front Matter Layout</comment
+><titleLayout
+font-size="16pt"
+font-weight="bold"
+pagebreakbefore="yes"
+spaceafter="6pt"
+spacebefore="18pt"
+startonoddpage="yes"
+textalign="center"
+></titleLayout
+><subtitleLayout
+font-size="12pt"
+font-weight="bold"
+spaceafter="6pt"
+textalign="center"
+></subtitleLayout
+><authorLayout
+font-size="12pt"
+spaceafter="12pt"
+textalign="center"
+></authorLayout
+><emailAddressLayout
+textalign="center"
+></emailAddressLayout
+><affiliationLayout
+font-size="12pt"
+textalign="center"
+></affiliationLayout
+><presentedAtLayout
+font-size="10pt"
+textalign="center"
+textbefore="Presented at "
+></presentedAtLayout
+><dateLayout
+font-size="10pt"
+textalign="center"
+></dateLayout
+><versionLayout
+font-size="10pt"
+textalign="center"
+textbefore="Version: "
+></versionLayout
+><contentsLayout
+font-size="14pt"
+font-weight="bold"
+spaceafter="12pt"
+spacebefore="24pt"
+textalign="center"
+></contentsLayout
+><abstractLayout
+font-size="11pt"
+font-style="italic"
+spacebefore="24pt"
+textalign="center"
+useLabel="no"
+></abstractLayout
+><abstractTextFontInfo
+end-indent=".25in"
+font-size="11pt"
+font-style="italic"
+start-indent=".25in"
+textalign="left"
+></abstractTextFontInfo
+><acknowledgementsLayout
+font-size="14pt"
+font-weight="bold"
+showAsFootnoteAtEndOfAbstract="yes"
+spaceafter="12pt"
+spacebefore="24pt"
+textalign="center"
+></acknowledgementsLayout
+><prefaceLayout
+font-size="14pt"
+font-weight="bold"
+spaceafter="12pt"
+spacebefore="24pt"
+textalign="center"
+></prefaceLayout
+></frontMatterLayout
+><bodyLayout
+><comment
+>Body Layout</comment
+><section1Layout
+><sectionTitleLayout
+font-size="13pt"
+font-weight="bold"
+spaceafter="4pt"
+spacebefore="10pt"
+textalign="left"
+></sectionTitleLayout
+></section1Layout
+><section2Layout
+><sectionTitleLayout
+font-size="11pt"
+font-weight="bold"
+spaceafter="4pt"
+spacebefore="10pt"
+textalign="start"
+></sectionTitleLayout
+></section2Layout
+><section3Layout
+><sectionTitleLayout
+font-size="11pt"
+font-style="italic"
+spaceafter="4pt"
+spacebefore="10pt"
+textalign="start"
+></sectionTitleLayout
+></section3Layout
+><section4Layout
+><sectionTitleLayout
+font-size="11pt"
+font-style="italic"
+spaceafter="4pt"
+spacebefore="10pt"
+textalign="start"
+></sectionTitleLayout
+></section4Layout
+><section5Layout
+ignore="yes"
+><sectionTitleLayout
+></sectionTitleLayout
+></section5Layout
+><section6Layout
+ignore="yes"
+><sectionTitleLayout
+></sectionTitleLayout
+></section6Layout
+></bodyLayout
+><backMatterLayout
+><comment
+>Back Matter Layout</comment
+><acknowledgementsLayout
+font-size="14pt"
+font-weight="bold"
+spaceafter="12pt"
+spacebefore="24pt"
+textalign="center"
+></acknowledgementsLayout
+><appendixLayout
+><appendixTitleLayout
+font-size="11pt"
+font-weight="bold"
+spaceafter="4pt"
+spacebefore="10pt"
+textafterletter=".  "
+textalign="left"
+></appendixTitleLayout
+></appendixLayout
+><glossaryLayout
+font-size="11pt"
+font-weight="bold"
+spaceafter="4pt"
+spacebefore="10pt"
+textalign="left"
+></glossaryLayout
+><referencesTitleLayout
+font-size="11pt"
+font-weight="bold"
+spaceafter="4pt"
+spacebefore="10pt"
+textalign="left"
+></referencesTitleLayout
+><referencesLayout
+authorform="initials"
+defaultfontsize="12pt"
+hangingindentsize=".25in"
+removecommonhundredsdigitsinpages="yes"
+><publisherStyleSheetReferencesName
+>SIL-UND Thesis References Stylesheet</publisherStyleSheetReferencesName
+><publisherStyleSheetReferencesVersion
+>1.1.0</publisherStyleSheetReferencesVersion
+><refAuthorLayouts
+><comment
+>Author Layouts</comment
+><refAuthorLayout
+><refAuthorItem
+textafter=",  "
+></refAuthorItem
+><authorRoleItem
+textafter=".  "
+></authorRoleItem
+><refDateItem
+textafter=".  "
+></refDateItem
+></refAuthorLayout
+><refAuthorLayout
+><refAuthorItem
+textafter=".  "
+></refAuthorItem
+><refDateItem
+textafter=".  "
+></refDateItem
+></refAuthorLayout
+></refAuthorLayouts
+><articleLayouts
+><comment
+>Article in a Journal Layouts</comment
+><articleLayout
+><refTitleItem
+font-style="normal"
+textafter=".  "
+></refTitleItem
+><jTitleItem
+font-style="italic"
+textafter=" "
+></jTitleItem
+><jVolItem
+font-style="normal"
+></jVolItem
+><jIssueNumberItem
+textafter="). "
+textbefore="("
+></jIssueNumberItem
+><jPagesItem
+font-style="normal"
+textafter=".  "
+></jPagesItem
+><locationPublisherLayoutsRef
+></locationPublisherLayoutsRef
+><urlDateAccessedLayoutsRef
+></urlDateAccessedLayoutsRef
+><reprintInfoItem
+></reprintInfoItem
+></articleLayout
+><articleLayout
+><refTitleItem
+font-style="normal"
+textafter=".  "
+></refTitleItem
+><jTitleItem
+font-style="italic"
+textafter=" "
+></jTitleItem
+><jVolItem
+font-style="normal"
+></jVolItem
+><jIssueNumberItem
+textafter="). "
+textbefore="("
+></jIssueNumberItem
+><jPagesItem
+font-style="normal"
+textafter=".  "
+></jPagesItem
+><locationPublisherLayoutsRef
+></locationPublisherLayoutsRef
+><urlDateAccessedLayoutsRef
+></urlDateAccessedLayoutsRef
+></articleLayout
+><articleLayout
+><refTitleItem
+font-style="normal"
+textafter=".  "
+></refTitleItem
+><jTitleItem
+font-style="italic"
+textafter=" "
+></jTitleItem
+><jVolItem
+font-style="normal"
+textafter=". "
+></jVolItem
+><jPagesItem
+font-style="normal"
+textafter=".  "
+></jPagesItem
+><locationPublisherLayoutsRef
+></locationPublisherLayoutsRef
+><urlDateAccessedLayoutsRef
+></urlDateAccessedLayoutsRef
+></articleLayout
+><articleLayout
+><refTitleItem
+font-style="normal"
+textafter=".  "
+></refTitleItem
+><jTitleItem
+font-style="italic"
+textafter=" "
+></jTitleItem
+><jVolItem
+font-style="normal"
+></jVolItem
+><jIssueNumberItem
+textafter=")-"
+textbefore="("
+></jIssueNumberItem
+><jArticleNumberItem
+font-style="normal"
+textafter=".  "
+></jArticleNumberItem
+><locationPublisherLayoutsRef
+></locationPublisherLayoutsRef
+><urlDateAccessedLayoutsRef
+></urlDateAccessedLayoutsRef
+></articleLayout
+><articleLayout
+><refTitleItem
+font-style="normal"
+textafter=".  "
+></refTitleItem
+><jTitleItem
+font-style="italic"
+textafter=" "
+></jTitleItem
+><jVolItem
+font-style="normal"
+textafter="-"
+></jVolItem
+><jArticleNumberItem
+font-style="normal"
+textafter=".  "
+></jArticleNumberItem
+><locationPublisherLayoutsRef
+></locationPublisherLayoutsRef
+><urlDateAccessedLayoutsRef
+></urlDateAccessedLayoutsRef
+></articleLayout
+><articleLayout
+><refTitleItem
+font-style="normal"
+textafter=".  "
+></refTitleItem
+><jTitleItem
+font-style="italic"
+textafter=" "
+></jTitleItem
+><jVolItem
+font-style="normal"
+></jVolItem
+><jIssueNumberItem
+textafter=").  "
+textbefore="("
+></jIssueNumberItem
+><locationPublisherLayoutsRef
+></locationPublisherLayoutsRef
+><urlDateAccessedLayoutsRef
+></urlDateAccessedLayoutsRef
+></articleLayout
+><articleLayout
+><refTitleItem
+font-style="normal"
+textafter=".  "
+></refTitleItem
+><jTitleItem
+font-style="italic"
+textafter=" "
+></jTitleItem
+><jVolItem
+font-style="normal"
+textafter=".  "
+></jVolItem
+><locationPublisherLayoutsRef
+></locationPublisherLayoutsRef
+><urlDateAccessedLayoutsRef
+></urlDateAccessedLayoutsRef
+></articleLayout
+></articleLayouts
+><bookLayouts
+><comment
+>Book Layouts</comment
+><bookLayout
+><refTitleItem
+font-style="italic"
+textafter=".  "
+></refTitleItem
+><bVolItem
+textafter=". "
+></bVolItem
+><seriesItem
+textafter=".  "
+></seriesItem
+><multivolumeWorkItem
+textafter=".  "
+></multivolumeWorkItem
+><reprintInfoItem
+textafter=".  "
+textbefore=" "
+></reprintInfoItem
+><locationPublisherLayoutsRef
+></locationPublisherLayoutsRef
+><urlDateAccessedLayoutsRef
+></urlDateAccessedLayoutsRef
+></bookLayout
+><bookLayout
+><refTitleItem
+font-style="italic"
+textafter=".  "
+></refTitleItem
+><bVolItem
+textafter=". "
+></bVolItem
+><seriesItem
+textafter=".  "
+></seriesItem
+><multivolumeWorkItem
+textafter=".  "
+></multivolumeWorkItem
+><locationPublisherLayoutsRef
+></locationPublisherLayoutsRef
+><urlDateAccessedLayoutsRef
+></urlDateAccessedLayoutsRef
+></bookLayout
+><bookLayout
+><refTitleItem
+font-style="italic"
+textafter=".  "
+></refTitleItem
+><bVolItem
+textafter=" of "
+textbefore="Vol. "
+></bVolItem
+><multivolumeWorkItem
+textafter=".  "
+></multivolumeWorkItem
+><locationPublisherLayoutsRef
+></locationPublisherLayoutsRef
+><urlDateAccessedLayoutsRef
+></urlDateAccessedLayoutsRef
+></bookLayout
+><bookLayout
+><refTitleItem
+font-style="italic"
+textafter=".  "
+></refTitleItem
+><bVolItem
+textafter=". "
+></bVolItem
+><locationPublisherLayoutsRef
+></locationPublisherLayoutsRef
+><urlDateAccessedLayoutsRef
+></urlDateAccessedLayoutsRef
+></bookLayout
+><bookLayout
+><refTitleItem
+font-style="italic"
+textafter=".  "
+></refTitleItem
+><editionItem
+textafter=" edn.  "
+></editionItem
+><locationPublisherLayoutsRef
+></locationPublisherLayoutsRef
+><urlDateAccessedLayoutsRef
+></urlDateAccessedLayoutsRef
+></bookLayout
+><bookLayout
+><refTitleItem
+font-style="italic"
+textafter=".  "
+></refTitleItem
+><editionItem
+textafter=" edn.  "
+></editionItem
+><reprintInfoItem
+></reprintInfoItem
+><locationPublisherLayoutsRef
+></locationPublisherLayoutsRef
+><urlDateAccessedLayoutsRef
+></urlDateAccessedLayoutsRef
+></bookLayout
+><bookLayout
+><refTitleItem
+font-style="italic"
+textafter=".  "
+></refTitleItem
+><editionItem
+textafter=" edn.  "
+></editionItem
+><bVolItem
+textafter=". "
+></bVolItem
+><locationPublisherLayoutsRef
+></locationPublisherLayoutsRef
+><urlDateAccessedLayoutsRef
+></urlDateAccessedLayoutsRef
+></bookLayout
+><bookLayout
+><refTitleItem
+font-style="italic"
+textafter=".  "
+></refTitleItem
+><seriesItem
+textafter=".) "
+textbefore="("
+></seriesItem
+><locationPublisherLayoutsRef
+></locationPublisherLayoutsRef
+><urlDateAccessedLayoutsRef
+></urlDateAccessedLayoutsRef
+></bookLayout
+><bookLayout
+><refTitleItem
+font-style="italic"
+textafter=".  "
+></refTitleItem
+><seriesEdItem
+></seriesEdItem
+><seriesItem
+textafter=".) "
+textbefore="("
+></seriesItem
+><locationPublisherLayoutsRef
+></locationPublisherLayoutsRef
+><urlDateAccessedLayoutsRef
+></urlDateAccessedLayoutsRef
+></bookLayout
+><bookLayout
+><refTitleItem
+font-style="italic"
+textafter=".  "
+></refTitleItem
+><bVolItem
+textafter=". "
+></bVolItem
+><seriesItem
+textafter=".) "
+textbefore="("
+></seriesItem
+><locationPublisherLayoutsRef
+></locationPublisherLayoutsRef
+><urlDateAccessedLayoutsRef
+></urlDateAccessedLayoutsRef
+></bookLayout
+><bookLayout
+><refTitleItem
+font-style="italic"
+textafter=".  "
+></refTitleItem
+><bVolItem
+textafter=". "
+></bVolItem
+><seriesEdItem
+></seriesEdItem
+><seriesItem
+textafter=".) "
+textbefore="("
+></seriesItem
+><locationPublisherLayoutsRef
+></locationPublisherLayoutsRef
+><urlDateAccessedLayoutsRef
+></urlDateAccessedLayoutsRef
+></bookLayout
+><bookLayout
+><refTitleItem
+font-style="italic"
+textafter=".  "
+></refTitleItem
+><editionItem
+textafter=" edn.  "
+></editionItem
+><seriesItem
+textafter=".) "
+textbefore="("
+></seriesItem
+><locationPublisherLayoutsRef
+></locationPublisherLayoutsRef
+><urlDateAccessedLayoutsRef
+></urlDateAccessedLayoutsRef
+></bookLayout
+><bookLayout
+><refTitleItem
+font-style="italic"
+textafter=".  "
+></refTitleItem
+><editionItem
+textafter=" edn.  "
+></editionItem
+><seriesEdItem
+></seriesEdItem
+><seriesItem
+textafter=".) "
+textbefore="("
+></seriesItem
+><locationPublisherLayoutsRef
+></locationPublisherLayoutsRef
+><urlDateAccessedLayoutsRef
+></urlDateAccessedLayoutsRef
+></bookLayout
+><bookLayout
+><refTitleItem
+font-style="italic"
+textafter=".  "
+></refTitleItem
+><editionItem
+textafter=" edn.  "
+></editionItem
+><bVolItem
+textafter=". "
+></bVolItem
+><seriesItem
+textafter=".) "
+textbefore="("
+></seriesItem
+><locationPublisherLayoutsRef
+></locationPublisherLayoutsRef
+><urlDateAccessedLayoutsRef
+></urlDateAccessedLayoutsRef
+></bookLayout
+><bookLayout
+><refTitleItem
+font-style="italic"
+textafter=".  "
+></refTitleItem
+><editionItem
+textafter=" edn.  "
+></editionItem
+><bVolItem
+textafter=". "
+></bVolItem
+><seriesEdItem
+></seriesEdItem
+><seriesItem
+textafter=".) "
+textbefore="("
+></seriesItem
+><locationPublisherLayoutsRef
+></locationPublisherLayoutsRef
+><urlDateAccessedLayoutsRef
+></urlDateAccessedLayoutsRef
+></bookLayout
+><bookLayout
+><translatedByItem
+textafter=".  "
+textbefore="translated by "
+></translatedByItem
+><refTitleItem
+font-style="italic"
+textafter=".  "
+></refTitleItem
+><locationPublisherLayoutsRef
+></locationPublisherLayoutsRef
+><urlDateAccessedLayoutsRef
+></urlDateAccessedLayoutsRef
+></bookLayout
+><bookLayout
+><translatedByItem
+textafter=".  "
+textbefore="translated by "
+></translatedByItem
+><refTitleItem
+font-style="italic"
+textafter=".  "
+></refTitleItem
+><bVolItem
+textafter=". "
+></bVolItem
+><locationPublisherLayoutsRef
+></locationPublisherLayoutsRef
+><urlDateAccessedLayoutsRef
+></urlDateAccessedLayoutsRef
+></bookLayout
+><bookLayout
+><translatedByItem
+textafter=".  "
+textbefore="translated by "
+></translatedByItem
+><refTitleItem
+font-style="italic"
+textafter=".  "
+></refTitleItem
+><editionItem
+textafter=" edn.  "
+></editionItem
+><locationPublisherLayoutsRef
+></locationPublisherLayoutsRef
+><urlDateAccessedLayoutsRef
+></urlDateAccessedLayoutsRef
+></bookLayout
+><bookLayout
+><translatedByItem
+textafter=".  "
+textbefore="translated by "
+></translatedByItem
+><refTitleItem
+font-style="italic"
+textafter=".  "
+></refTitleItem
+><seriesItem
+textafter=".) "
+textbefore="("
+></seriesItem
+><locationPublisherLayoutsRef
+></locationPublisherLayoutsRef
+><urlDateAccessedLayoutsRef
+></urlDateAccessedLayoutsRef
+></bookLayout
+><bookLayout
+><translatedByItem
+textafter=".  "
+textbefore="translated by "
+></translatedByItem
+><refTitleItem
+font-style="italic"
+textafter=".  "
+></refTitleItem
+><seriesEdItem
+></seriesEdItem
+><seriesItem
+textafter=".) "
+textbefore="("
+></seriesItem
+><locationPublisherLayoutsRef
+></locationPublisherLayoutsRef
+><urlDateAccessedLayoutsRef
+></urlDateAccessedLayoutsRef
+></bookLayout
+><bookLayout
+><translatedByItem
+textafter=".  "
+textbefore="translated by "
+></translatedByItem
+><refTitleItem
+font-style="italic"
+textafter=".  "
+></refTitleItem
+><editionItem
+textafter=" edn.  "
+></editionItem
+><bVolItem
+textafter=". "
+></bVolItem
+><locationPublisherLayoutsRef
+></locationPublisherLayoutsRef
+><urlDateAccessedLayoutsRef
+></urlDateAccessedLayoutsRef
+></bookLayout
+><bookLayout
+><translatedByItem
+textafter=".  "
+textbefore="translated by "
+></translatedByItem
+><refTitleItem
+font-style="italic"
+textafter=".  "
+></refTitleItem
+><bVolItem
+textafter=". "
+></bVolItem
+><seriesItem
+textafter=".) "
+textbefore="("
+></seriesItem
+><locationPublisherLayoutsRef
+></locationPublisherLayoutsRef
+><urlDateAccessedLayoutsRef
+></urlDateAccessedLayoutsRef
+></bookLayout
+><bookLayout
+><translatedByItem
+textafter=".  "
+textbefore="translated by "
+></translatedByItem
+><refTitleItem
+font-style="italic"
+textafter=".  "
+></refTitleItem
+><bVolItem
+textafter=". "
+></bVolItem
+><seriesEdItem
+></seriesEdItem
+><seriesItem
+textafter=".) "
+textbefore="("
+></seriesItem
+><locationPublisherLayoutsRef
+></locationPublisherLayoutsRef
+><urlDateAccessedLayoutsRef
+></urlDateAccessedLayoutsRef
+></bookLayout
+><bookLayout
+><translatedByItem
+textafter=".  "
+textbefore="translated by "
+></translatedByItem
+><refTitleItem
+font-style="italic"
+textafter=".  "
+></refTitleItem
+><editionItem
+textafter=" edn.  "
+></editionItem
+><seriesItem
+textafter=".) "
+textbefore="("
+></seriesItem
+><locationPublisherLayoutsRef
+></locationPublisherLayoutsRef
+><urlDateAccessedLayoutsRef
+></urlDateAccessedLayoutsRef
+></bookLayout
+><bookLayout
+><translatedByItem
+textafter=".  "
+textbefore="translated by "
+></translatedByItem
+><refTitleItem
+font-style="italic"
+textafter=".  "
+></refTitleItem
+><editionItem
+textafter=" edn.  "
+></editionItem
+><seriesEdItem
+></seriesEdItem
+><seriesItem
+textafter=".) "
+textbefore="("
+></seriesItem
+><locationPublisherLayoutsRef
+></locationPublisherLayoutsRef
+><urlDateAccessedLayoutsRef
+></urlDateAccessedLayoutsRef
+></bookLayout
+><bookLayout
+><translatedByItem
+textafter=".  "
+textbefore="translated by "
+></translatedByItem
+><refTitleItem
+font-style="italic"
+textafter=".  "
+></refTitleItem
+><editionItem
+textafter=" edn.  "
+></editionItem
+><bVolItem
+textafter=". "
+></bVolItem
+><seriesItem
+textafter=".) "
+textbefore="("
+></seriesItem
+><locationPublisherLayoutsRef
+></locationPublisherLayoutsRef
+><urlDateAccessedLayoutsRef
+></urlDateAccessedLayoutsRef
+></bookLayout
+><bookLayout
+><translatedByItem
+textafter=".  "
+textbefore="translated by "
+></translatedByItem
+><refTitleItem
+font-style="italic"
+textafter=".  "
+></refTitleItem
+><editionItem
+textafter=" edn.  "
+></editionItem
+><bVolItem
+textafter=". "
+></bVolItem
+><seriesEdItem
+></seriesEdItem
+><seriesItem
+textafter=".) "
+textbefore="("
+></seriesItem
+><locationPublisherLayoutsRef
+></locationPublisherLayoutsRef
+><urlDateAccessedLayoutsRef
+></urlDateAccessedLayoutsRef
+></bookLayout
+><bookLayout
+><refTitleItem
+font-style="italic"
+textafter=".  "
+></refTitleItem
+><locationPublisherLayoutsRef
+></locationPublisherLayoutsRef
+><reprintInfoItem
+textafter=".  "
+></reprintInfoItem
+><urlDateAccessedLayoutsRef
+></urlDateAccessedLayoutsRef
+></bookLayout
+><bookLayout
+><refTitleItem
+font-style="italic"
+textafter=".  "
+></refTitleItem
+><locationPublisherLayoutsRef
+></locationPublisherLayoutsRef
+><urlDateAccessedLayoutsRef
+></urlDateAccessedLayoutsRef
+></bookLayout
+></bookLayouts
+><collectionLayouts
+><comment
+>Paper in a Collection Layouts</comment
+><collectionLayout
+><refTitleItem
+textafter=".  "
+></refTitleItem
+><collEdItem
+appendEdAbbreviation="no"
+textafter=", "
+textbefore="In "
+></collEdItem
+><authorRoleItem
+textafter="), "
+textbefore=" ("
+></authorRoleItem
+><collTitleItem
+font-style="italic"
+textafter=", "
+></collTitleItem
+><collVolItem
+textafter=", "
+></collVolItem
+><collPagesItem
+textafter=".  "
+></collPagesItem
+><locationPublisherLayoutsRef
+></locationPublisherLayoutsRef
+><urlDateAccessedLayoutsRef
+></urlDateAccessedLayoutsRef
+></collectionLayout
+><collectionLayout
+><refTitleItem
+textafter=".  "
+></refTitleItem
+><collTitleItem
+font-style="italic"
+textafter=", "
+></collTitleItem
+><editionItem
+textafter=" edn.  "
+></editionItem
+><locationPublisherLayoutsRef
+></locationPublisherLayoutsRef
+><urlDateAccessedLayoutsRef
+></urlDateAccessedLayoutsRef
+></collectionLayout
+><collectionLayout
+><refTitleItem
+textafter=".  "
+></refTitleItem
+><collEdItem
+appendEdAbbreviation="no"
+textafter=", "
+textbefore="In "
+></collEdItem
+><authorRoleItem
+textafter="), "
+textbefore=" ("
+></authorRoleItem
+><collTitleItem
+font-style="italic"
+textafter=", "
+></collTitleItem
+><collVolItem
+textafter=".  "
+></collVolItem
+><locationPublisherLayoutsRef
+></locationPublisherLayoutsRef
+><urlDateAccessedLayoutsRef
+></urlDateAccessedLayoutsRef
+></collectionLayout
+><collectionLayout
+><refTitleItem
+textafter=".  "
+></refTitleItem
+><collEdItem
+appendEdAbbreviation="no"
+textafter=", "
+textbefore="In "
+></collEdItem
+><authorRoleItem
+textafter="), "
+textbefore=" ("
+></authorRoleItem
+><collTitleItem
+font-style="italic"
+textafter=" "
+></collTitleItem
+><seriesEdItem
+textbefore="In "
+></seriesEdItem
+><seriesItem
+textafter="), "
+textbefore="("
+></seriesItem
+><bVolItem
+textafter=", "
+></bVolItem
+><collVolItem
+textafter=", "
+></collVolItem
+><collPagesItem
+textafter=".  "
+></collPagesItem
+><locationPublisherLayoutsRef
+></locationPublisherLayoutsRef
+><urlDateAccessedLayoutsRef
+></urlDateAccessedLayoutsRef
+></collectionLayout
+><collectionLayout
+><refTitleItem
+textafter=".  "
+></refTitleItem
+><collEdItem
+appendEdAbbreviation="no"
+textafter=", "
+textbefore="In "
+></collEdItem
+><authorRoleItem
+textafter="), "
+textbefore=" ("
+></authorRoleItem
+><collTitleItem
+font-style="italic"
+textafter=" "
+></collTitleItem
+><seriesEdItem
+textbefore="In "
+></seriesEdItem
+><seriesItem
+textafter="), "
+textbefore="("
+></seriesItem
+><collVolItem
+textafter=", "
+></collVolItem
+><collPagesItem
+textafter=".  "
+></collPagesItem
+><locationPublisherLayoutsRef
+></locationPublisherLayoutsRef
+><urlDateAccessedLayoutsRef
+></urlDateAccessedLayoutsRef
+></collectionLayout
+><collectionLayout
+><refTitleItem
+textafter=".  "
+></refTitleItem
+><collEdItem
+appendEdAbbreviation="no"
+textafter=", "
+textbefore="In "
+></collEdItem
+><authorRoleItem
+textafter="), "
+textbefore=" ("
+></authorRoleItem
+><collTitleItem
+font-style="italic"
+textafter=" "
+></collTitleItem
+><seriesEdItem
+textbefore="In "
+></seriesEdItem
+><seriesItem
+textafter="), "
+textbefore="("
+></seriesItem
+><collPagesItem
+textafter=".  "
+></collPagesItem
+><locationPublisherLayoutsRef
+></locationPublisherLayoutsRef
+><urlDateAccessedLayoutsRef
+></urlDateAccessedLayoutsRef
+></collectionLayout
+><collectionLayout
+><refTitleItem
+textafter=".  "
+></refTitleItem
+><collEdItem
+appendEdAbbreviation="no"
+textafter=", "
+textbefore="In "
+></collEdItem
+><authorRoleItem
+textafter="), "
+textbefore=" ("
+></authorRoleItem
+><collTitleItem
+font-style="italic"
+textafter=" "
+></collTitleItem
+><seriesItem
+textafter="), "
+textbefore="("
+></seriesItem
+><collPagesItem
+textafter=".  "
+></collPagesItem
+><locationPublisherLayoutsRef
+></locationPublisherLayoutsRef
+><urlDateAccessedLayoutsRef
+></urlDateAccessedLayoutsRef
+></collectionLayout
+><collectionLayout
+><refTitleItem
+textafter=".  "
+></refTitleItem
+><collEdItem
+appendEdAbbreviation="no"
+textafter=", "
+textbefore="In "
+></collEdItem
+><authorRoleItem
+textafter="), "
+textbefore=" ("
+></authorRoleItem
+><collTitleItem
+font-style="italic"
+textafter=", "
+></collTitleItem
+><locationPublisherLayoutsRef
+></locationPublisherLayoutsRef
+><urlDateAccessedLayoutsRef
+></urlDateAccessedLayoutsRef
+></collectionLayout
+><collectionLayout
+><refTitleItem
+textafter=".  "
+></refTitleItem
+><collEdItem
+appendEdAbbreviation="no"
+textafter=", "
+textbefore="In "
+></collEdItem
+><authorRoleItem
+textafter="), "
+textbefore=" ("
+></authorRoleItem
+><collTitleItem
+font-style="italic"
+textafter=", "
+></collTitleItem
+><collPagesItem
+textafter=". "
+></collPagesItem
+><locationPublisherLayoutsRef
+></locationPublisherLayoutsRef
+><urlDateAccessedLayoutsRef
+></urlDateAccessedLayoutsRef
+></collectionLayout
+><collectionLayout
+><refTitleItem
+textafter=".  "
+></refTitleItem
+><collEdItem
+appendEdAbbreviation="yes"
+textbefore="In "
+></collEdItem
+><collTitleItem
+font-style="italic"
+textafter=", "
+></collTitleItem
+><collVolItem
+textafter=", "
+></collVolItem
+><collPagesItem
+textafter=". "
+></collPagesItem
+><seriesItem
+textafter=".  "
+></seriesItem
+><bVolItem
+textafter=".  "
+></bVolItem
+><locationPublisherLayoutsRef
+></locationPublisherLayoutsRef
+><urlDateAccessedLayoutsRef
+></urlDateAccessedLayoutsRef
+></collectionLayout
+><collectionLayout
+><refTitleItem
+textafter=".  "
+></refTitleItem
+><collEdItem
+appendEdAbbreviation="yes"
+textbefore="In "
+></collEdItem
+><collTitleItem
+font-style="italic"
+textafter=", "
+></collTitleItem
+><collVolItem
+textafter=", "
+></collVolItem
+><collPagesItem
+textafter=". "
+></collPagesItem
+><seriesItem
+textafter=".  "
+></seriesItem
+><locationPublisherLayoutsRef
+></locationPublisherLayoutsRef
+><urlDateAccessedLayoutsRef
+></urlDateAccessedLayoutsRef
+></collectionLayout
+><collectionLayout
+><refTitleItem
+textafter=".  "
+></refTitleItem
+><collEdItem
+appendEdAbbreviation="yes"
+textbefore="In "
+></collEdItem
+><collTitleItem
+font-style="italic"
+textafter=", "
+></collTitleItem
+><collPagesItem
+textafter=". "
+></collPagesItem
+><seriesItem
+textafter=".  "
+></seriesItem
+><bVolItem
+textafter=".  "
+></bVolItem
+><locationPublisherLayoutsRef
+></locationPublisherLayoutsRef
+><urlDateAccessedLayoutsRef
+></urlDateAccessedLayoutsRef
+></collectionLayout
+><collectionLayout
+><refTitleItem
+textafter=".  "
+></refTitleItem
+><collEdItem
+appendEdAbbreviation="yes"
+textbefore="In "
+></collEdItem
+><collTitleItem
+font-style="italic"
+textafter=", "
+></collTitleItem
+><collPagesItem
+textafter=". "
+></collPagesItem
+><seriesItem
+textafter=".  "
+></seriesItem
+><locationPublisherLayoutsRef
+></locationPublisherLayoutsRef
+><urlDateAccessedLayoutsRef
+></urlDateAccessedLayoutsRef
+></collectionLayout
+><collectionLayout
+><refTitleItem
+textafter=".  "
+></refTitleItem
+><collEdItem
+appendEdAbbreviation="yes"
+textbefore="In "
+></collEdItem
+><collTitleItem
+font-style="italic"
+textafter=", "
+></collTitleItem
+><collPagesItem
+textafter=". "
+></collPagesItem
+><reprintInfoItem
+textafter=".  "
+></reprintInfoItem
+><locationPublisherLayoutsRef
+></locationPublisherLayoutsRef
+><urlDateAccessedLayoutsRef
+></urlDateAccessedLayoutsRef
+></collectionLayout
+><collectionLayout
+><refTitleItem
+textafter=".  "
+></refTitleItem
+><collEdItem
+appendEdAbbreviation="yes"
+textbefore="In "
+></collEdItem
+><collTitleItem
+font-style="italic"
+textafter=". "
+></collTitleItem
+><seriesItem
+textafter=".  "
+></seriesItem
+><bVolItem
+textafter=".  "
+></bVolItem
+><locationPublisherLayoutsRef
+></locationPublisherLayoutsRef
+><urlDateAccessedLayoutsRef
+></urlDateAccessedLayoutsRef
+></collectionLayout
+><collectionLayout
+><refTitleItem
+textafter=".  "
+></refTitleItem
+><collEdItem
+appendEdAbbreviation="yes"
+textbefore="In "
+></collEdItem
+><collTitleItem
+font-style="italic"
+textafter=". "
+></collTitleItem
+><seriesItem
+textafter=".  "
+></seriesItem
+><locationPublisherLayoutsRef
+></locationPublisherLayoutsRef
+><urlDateAccessedLayoutsRef
+></urlDateAccessedLayoutsRef
+></collectionLayout
+><collectionLayout
+><refTitleItem
+textafter=".  "
+></refTitleItem
+><collEdItem
+appendEdAbbreviation="yes"
+textbefore="In "
+></collEdItem
+><collTitleItem
+font-style="italic"
+textafter=", "
+></collTitleItem
+><collVolItem
+textafter=", "
+></collVolItem
+><collPagesItem
+textafter=". "
+></collPagesItem
+><locationPublisherLayoutsRef
+></locationPublisherLayoutsRef
+><urlDateAccessedLayoutsRef
+></urlDateAccessedLayoutsRef
+></collectionLayout
+><collectionLayout
+><refTitleItem
+textafter=".  "
+></refTitleItem
+><collEdItem
+appendEdAbbreviation="no"
+textafter=", "
+textbefore="In "
+></collEdItem
+><collTitleItem
+font-style="italic"
+textafter=", "
+></collTitleItem
+><editionItem
+textafter=" edn.  "
+></editionItem
+><collPagesItem
+textafter=". "
+></collPagesItem
+><locationPublisherLayoutsRef
+></locationPublisherLayoutsRef
+><urlDateAccessedLayoutsRef
+></urlDateAccessedLayoutsRef
+></collectionLayout
+><collectionLayout
+><refTitleItem
+textafter=".  "
+></refTitleItem
+><collEdItem
+appendEdAbbreviation="no"
+textafter=", "
+textbefore="In "
+></collEdItem
+><collTitleItem
+font-style="italic"
+textafter=", "
+></collTitleItem
+><collPagesItem
+textafter=". "
+></collPagesItem
+><locationPublisherLayoutsRef
+></locationPublisherLayoutsRef
+><urlDateAccessedLayoutsRef
+></urlDateAccessedLayoutsRef
+></collectionLayout
+><collectionLayout
+><refTitleItem
+textafter=".  "
+></refTitleItem
+><collEdItem
+appendEdAbbreviation="no"
+textafter=", "
+textbefore="In "
+></collEdItem
+><collTitleItem
+font-style="italic"
+textafter=". "
+></collTitleItem
+><locationPublisherLayoutsRef
+></locationPublisherLayoutsRef
+><urlDateAccessedLayoutsRef
+></urlDateAccessedLayoutsRef
+></collectionLayout
+><collectionLayout
+><refTitleItem
+textafter=".  "
+></refTitleItem
+><collEdItem
+appendEdAbbreviation="no"
+textafter=", "
+textbefore="In "
+></collEdItem
+><collTitleItem
+font-style="italic"
+textafter=". "
+></collTitleItem
+><editionItem
+textafter=" edn.  "
+></editionItem
+><locationPublisherLayoutsRef
+></locationPublisherLayoutsRef
+><urlDateAccessedLayoutsRef
+></urlDateAccessedLayoutsRef
+></collectionLayout
+><collectionLayout
+><refTitleItem
+textafter=".  "
+></refTitleItem
+><collTitleItem
+font-style="italic"
+textafter=", "
+></collTitleItem
+><collVolItem
+textafter=", "
+></collVolItem
+><collPagesItem
+textafter=".  "
+></collPagesItem
+><locationPublisherLayoutsRef
+></locationPublisherLayoutsRef
+><urlDateAccessedLayoutsRef
+></urlDateAccessedLayoutsRef
+></collectionLayout
+><collectionLayout
+><refTitleItem
+textafter=".  "
+></refTitleItem
+><collTitleItem
+font-style="italic"
+textafter=", "
+></collTitleItem
+><collVolItem
+textafter=".  "
+></collVolItem
+><locationPublisherLayoutsRef
+></locationPublisherLayoutsRef
+><urlDateAccessedLayoutsRef
+></urlDateAccessedLayoutsRef
+></collectionLayout
+><collectionLayout
+><refTitleItem
+textafter=".  "
+></refTitleItem
+><collTitleItem
+font-style="italic"
+textafter=", "
+></collTitleItem
+><collVolItem
+textafter=", "
+></collVolItem
+><collPagesItem
+textafter=".  "
+></collPagesItem
+><seriesItem
+textafter=".  "
+></seriesItem
+><bVolItem
+textafter=".  "
+></bVolItem
+><locationPublisherLayoutsRef
+></locationPublisherLayoutsRef
+><urlDateAccessedLayoutsRef
+></urlDateAccessedLayoutsRef
+></collectionLayout
+><collectionLayout
+><refTitleItem
+textafter=".  "
+></refTitleItem
+><collTitleItem
+font-style="italic"
+textafter=", "
+></collTitleItem
+><collPagesItem
+textafter=".  "
+></collPagesItem
+><seriesItem
+textafter=".  "
+></seriesItem
+><bVolItem
+textafter=".  "
+></bVolItem
+><locationPublisherLayoutsRef
+></locationPublisherLayoutsRef
+><urlDateAccessedLayoutsRef
+></urlDateAccessedLayoutsRef
+></collectionLayout
+><collectionLayout
+><refTitleItem
+textafter=".  "
+></refTitleItem
+><collTitleItem
+font-style="italic"
+textafter=", "
+></collTitleItem
+><collPagesItem
+textafter=".  "
+></collPagesItem
+><locationPublisherLayoutsRef
+></locationPublisherLayoutsRef
+><urlDateAccessedLayoutsRef
+></urlDateAccessedLayoutsRef
+></collectionLayout
+><collectionLayout
+><refTitleItem
+textafter=".  "
+></refTitleItem
+><collTitleItem
+font-style="italic"
+textafter=", "
+></collTitleItem
+><locationPublisherLayoutsRef
+></locationPublisherLayoutsRef
+><urlDateAccessedLayoutsRef
+></urlDateAccessedLayoutsRef
+></collectionLayout
+><collectionLayout
+><refTitleItem
+textafter=".  "
+></refTitleItem
+><collCitationItem
+textbefore="In "
+></collCitationItem
+><authorRoleItem
+textafter="). "
+textbefore=", ("
+></authorRoleItem
+><collVolItem
+textafter=","
+></collVolItem
+><collPagesItem
+textafter="."
+></collPagesItem
+><urlDateAccessedLayoutsRef
+></urlDateAccessedLayoutsRef
+></collectionLayout
+><collectionLayout
+><refTitleItem
+textafter=".  "
+></refTitleItem
+><collCitationItem
+textbefore="In "
+></collCitationItem
+><authorRoleItem
+textafter="). "
+textbefore=", ("
+></authorRoleItem
+><collVolItem
+textafter=".  "
+></collVolItem
+><urlDateAccessedLayoutsRef
+></urlDateAccessedLayoutsRef
+></collectionLayout
+><collectionLayout
+><refTitleItem
+textafter=".  "
+></refTitleItem
+><collCitationItem
+textbefore="In "
+></collCitationItem
+><authorRoleItem
+textafter="). "
+textbefore=", ("
+></authorRoleItem
+><collPagesItem
+textafter="."
+></collPagesItem
+><urlDateAccessedLayoutsRef
+></urlDateAccessedLayoutsRef
+></collectionLayout
+><collectionLayout
+><refTitleItem
+textafter=".  "
+></refTitleItem
+><collCitationItem
+textbefore="In "
+></collCitationItem
+><authorRoleItem
+textafter="). "
+textbefore=", ("
+></authorRoleItem
+><urlDateAccessedLayoutsRef
+></urlDateAccessedLayoutsRef
+></collectionLayout
+><collectionLayout
+><refTitleItem
+textafter=".  "
+></refTitleItem
+><collCitationItem
+textafter=".  "
+textbefore="In "
+></collCitationItem
+><collVolItem
+textafter=","
+></collVolItem
+><collPagesItem
+textafter="."
+></collPagesItem
+><urlDateAccessedLayoutsRef
+></urlDateAccessedLayoutsRef
+></collectionLayout
+><collectionLayout
+><refTitleItem
+textafter=".  "
+></refTitleItem
+><collCitationItem
+textafter=".  "
+textbefore="In "
+></collCitationItem
+><collVolItem
+textafter=".  "
+></collVolItem
+><urlDateAccessedLayoutsRef
+></urlDateAccessedLayoutsRef
+></collectionLayout
+><collectionLayout
+><refTitleItem
+textafter=".  "
+></refTitleItem
+><collCitationItem
+textafter=".  "
+textbefore="In "
+></collCitationItem
+><collPagesItem
+textafter="."
+></collPagesItem
+><urlDateAccessedLayoutsRef
+></urlDateAccessedLayoutsRef
+></collectionLayout
+><collectionLayout
+><refTitleItem
+textafter=".  "
+></refTitleItem
+><collCitationItem
+textafter="."
+textbefore="In "
+></collCitationItem
+><urlDateAccessedLayoutsRef
+></urlDateAccessedLayoutsRef
+></collectionLayout
+><collectionLayout
+><refTitleItem
+textafter=".  "
+></refTitleItem
+><collEdItem
+appendEdAbbreviation="no"
+textafter=", "
+textbefore="In "
+></collEdItem
+><authorRoleItem
+textafter="), "
+textbefore=" ("
+></authorRoleItem
+><collTitleItem
+font-style="italic"
+textafter=", "
+></collTitleItem
+><editionItem
+textafter=" edn.  "
+></editionItem
+><collVolItem
+textafter=","
+></collVolItem
+><collPagesItem
+textafter=".  "
+></collPagesItem
+><locationPublisherLayoutsRef
+></locationPublisherLayoutsRef
+><urlDateAccessedLayoutsRef
+></urlDateAccessedLayoutsRef
+></collectionLayout
+><collectionLayout
+><refTitleItem
+textafter=".  "
+></refTitleItem
+><collEdItem
+appendEdAbbreviation="no"
+textafter=", "
+textbefore="In "
+></collEdItem
+><authorRoleItem
+textafter="), "
+textbefore=" ("
+></authorRoleItem
+><collTitleItem
+font-style="italic"
+textafter=", "
+></collTitleItem
+><editionItem
+textafter=" edn.  "
+></editionItem
+><collVolItem
+textafter=".  "
+></collVolItem
+><locationPublisherLayoutsRef
+></locationPublisherLayoutsRef
+><urlDateAccessedLayoutsRef
+></urlDateAccessedLayoutsRef
+></collectionLayout
+><collectionLayout
+><refTitleItem
+textafter=".  "
+></refTitleItem
+><collEdItem
+appendEdAbbreviation="no"
+textafter=", "
+textbefore="In "
+></collEdItem
+><authorRoleItem
+textafter="), "
+textbefore=" ("
+></authorRoleItem
+><collTitleItem
+font-style="italic"
+textafter=", "
+></collTitleItem
+><editionItem
+textafter=" edn.  "
+></editionItem
+><collPagesItem
+textafter=".  "
+></collPagesItem
+><locationPublisherLayoutsRef
+></locationPublisherLayoutsRef
+><urlDateAccessedLayoutsRef
+></urlDateAccessedLayoutsRef
+></collectionLayout
+><collectionLayout
+><refTitleItem
+textafter=".  "
+></refTitleItem
+><collEdItem
+appendEdAbbreviation="no"
+textafter=", "
+textbefore="In "
+></collEdItem
+><authorRoleItem
+textafter="), "
+textbefore=" ("
+></authorRoleItem
+><collTitleItem
+font-style="italic"
+textafter=", "
+></collTitleItem
+><editionItem
+textafter=" edn.  "
+></editionItem
+><collPagesItem
+textafter=".  "
+></collPagesItem
+><locationPublisherLayoutsRef
+></locationPublisherLayoutsRef
+><urlDateAccessedLayoutsRef
+></urlDateAccessedLayoutsRef
+></collectionLayout
+></collectionLayouts
+><dissertationLayouts
+><comment
+>Dissertation Layouts</comment
+><dissertationLayout
+><refTitleItem
+font-style="italic"
+textafter=".  "
+></refTitleItem
+><institutionItem
+textafter=" "
+></institutionItem
+><dissertationLabelItem
+label="dissertation"
+textafter=".  "
+></dissertationLabelItem
+><urlDateAccessedLayoutsRef
+></urlDateAccessedLayoutsRef
+></dissertationLayout
+><dissertationLayout
+><refTitleItem
+font-style="italic"
+textafter=".  "
+></refTitleItem
+><locationItem
+textafter=": "
+></locationItem
+><institutionItem
+textafter=" "
+></institutionItem
+><dissertationLabelItem
+label="dissertation"
+textafter=".  "
+></dissertationLabelItem
+><urlDateAccessedLayoutsRef
+></urlDateAccessedLayoutsRef
+></dissertationLayout
+><dissertationLayout
+><refTitleItem
+font-style="italic"
+textafter=".  "
+></refTitleItem
+><institutionItem
+textafter=" "
+></institutionItem
+><dissertationLabelItem
+label="dissertation"
+textafter=".  "
+></dissertationLabelItem
+><publishedLayoutRef
+></publishedLayoutRef
+><urlDateAccessedLayoutsRef
+></urlDateAccessedLayoutsRef
+></dissertationLayout
+><dissertationLayout
+><refTitleItem
+font-style="italic"
+textafter=".  "
+></refTitleItem
+><locationItem
+textafter=": "
+></locationItem
+><institutionItem
+textafter=" "
+></institutionItem
+><dissertationLabelItem
+label="dissertation"
+textafter=".  "
+></dissertationLabelItem
+><publishedLayoutRef
+></publishedLayoutRef
+><urlDateAccessedLayoutsRef
+></urlDateAccessedLayoutsRef
+></dissertationLayout
+></dissertationLayouts
+><fieldNotesLayouts
+><comment
+>Field Note Layouts</comment
+><fieldNotesLayout
+><refTitleItem
+textafter=".  "
+textbefore=""
+></refTitleItem
+><locationItem
+textafter=":"
+></locationItem
+><institutionItem
+textafter="."
+></institutionItem
+><urlDateAccessedLayoutsRef
+></urlDateAccessedLayoutsRef
+></fieldNotesLayout
+><fieldNotesLayout
+><refTitleItem
+textafter=".  "
+textbefore=""
+></refTitleItem
+><institutionItem
+textafter="."
+></institutionItem
+><urlDateAccessedLayoutsRef
+></urlDateAccessedLayoutsRef
+></fieldNotesLayout
+></fieldNotesLayouts
+><msLayouts
+><comment
+>Manuscript Layouts</comment
+><msLayout
+><refTitleItem
+textafter=".  "
+textbefore=""
+></refTitleItem
+><locationItem
+textafter=":"
+></locationItem
+><institutionItem
+textafter=", ms."
+textbefore=" "
+></institutionItem
+><urlDateAccessedLayoutsRef
+></urlDateAccessedLayoutsRef
+></msLayout
+><msLayout
+><refTitleItem
+textafter=".  "
+textbefore=""
+></refTitleItem
+><institutionItem
+textafter=", ms."
+textbefore=" "
+></institutionItem
+><urlDateAccessedLayoutsRef
+></urlDateAccessedLayoutsRef
+></msLayout
+><msLayout
+><refTitleItem
+textafter=".  "
+textbefore=""
+></refTitleItem
+><emptyItem
+textafter="ms."
+></emptyItem
+><urlDateAccessedLayoutsRef
+></urlDateAccessedLayoutsRef
+></msLayout
+></msLayouts
+><paperLayouts
+><comment
+>Paper Presented at a Conference Layouts</comment
+><paperLayout
+><refTitleItem
+textafter=".  "
+textbefore=""
+></refTitleItem
+><conferenceItem
+textafter=".  "
+></conferenceItem
+><locationItem
+textafter="."
+></locationItem
+><urlDateAccessedLayoutsRef
+></urlDateAccessedLayoutsRef
+></paperLayout
+><paperLayout
+><refTitleItem
+textafter=".  "
+textbefore=""
+></refTitleItem
+><conferenceItem
+textafter=".  "
+></conferenceItem
+><urlDateAccessedLayoutsRef
+></urlDateAccessedLayoutsRef
+></paperLayout
+></paperLayouts
+><proceedingsLayouts
+><comment
+>Paper in a Proceedings Volume Layouts</comment
+><proceedingsLayout
+><refTitleItem
+textafter=".  "
+></refTitleItem
+><procEdItem
+appendEdAbbreviation="no"
+textafter=" (eds), "
+textbefore="In  "
+></procEdItem
+><procTitleItem
+font-style="italic"
+textafter=".  "
+></procTitleItem
+><procVolItem
+textafter=":"
+></procVolItem
+><procPagesItem
+textafter=".  "
+></procPagesItem
+><locationPublisherLayoutsRef
+></locationPublisherLayoutsRef
+><urlDateAccessedLayoutsRef
+></urlDateAccessedLayoutsRef
+></proceedingsLayout
+><proceedingsLayout
+><refTitleItem
+textafter=".  "
+></refTitleItem
+><procEdItem
+appendEdAbbreviation="no"
+textafter=" (eds), "
+textbefore="In  "
+></procEdItem
+><procTitleItem
+font-style="italic"
+textafter=".  "
+></procTitleItem
+><procVolItem
+textafter=".  "
+></procVolItem
+><locationPublisherLayoutsRef
+></locationPublisherLayoutsRef
+><urlDateAccessedLayoutsRef
+></urlDateAccessedLayoutsRef
+></proceedingsLayout
+><proceedingsLayout
+><refTitleItem
+textafter=".  "
+></refTitleItem
+><procEdItem
+appendEdAbbreviation="no"
+textafter=" (eds), "
+textbefore="In  "
+></procEdItem
+><procTitleItem
+font-style="italic"
+textafter=".  "
+></procTitleItem
+><procPagesItem
+textafter=".  "
+></procPagesItem
+><locationPublisherLayoutsRef
+></locationPublisherLayoutsRef
+><urlDateAccessedLayoutsRef
+></urlDateAccessedLayoutsRef
+></proceedingsLayout
+><proceedingsLayout
+><refTitleItem
+textafter=".  "
+></refTitleItem
+><procEdItem
+appendEdAbbreviation="no"
+textafter=" (eds), "
+textbefore="In  "
+></procEdItem
+><procTitleItem
+font-style="italic"
+textafter=".  "
+></procTitleItem
+><procVolItem
+textafter=":"
+></procVolItem
+><procPagesItem
+textafter=".  "
+></procPagesItem
+><urlDateAccessedLayoutsRef
+></urlDateAccessedLayoutsRef
+></proceedingsLayout
+><proceedingsLayout
+><refTitleItem
+textafter=".  "
+></refTitleItem
+><procEdItem
+appendEdAbbreviation="no"
+textafter=" (eds), "
+textbefore="In  "
+></procEdItem
+><procTitleItem
+font-style="italic"
+textafter=".  "
+></procTitleItem
+><procVolItem
+textafter=".  "
+></procVolItem
+><urlDateAccessedLayoutsRef
+></urlDateAccessedLayoutsRef
+></proceedingsLayout
+><proceedingsLayout
+><refTitleItem
+textafter=".  "
+></refTitleItem
+><procEdItem
+appendEdAbbreviation="no"
+textafter=" (eds), "
+textbefore="In  "
+></procEdItem
+><procTitleItem
+font-style="italic"
+textafter=".  "
+></procTitleItem
+><procPagesItem
+textafter=".  "
+></procPagesItem
+><urlDateAccessedLayoutsRef
+></urlDateAccessedLayoutsRef
+></proceedingsLayout
+><proceedingsLayout
+><refTitleItem
+textafter=".  "
+></refTitleItem
+><procTitleItem
+font-style="italic"
+textafter=".  "
+></procTitleItem
+><procVolItem
+textafter=":"
+></procVolItem
+><procPagesItem
+textafter=".  "
+></procPagesItem
+><locationPublisherLayoutsRef
+></locationPublisherLayoutsRef
+><urlDateAccessedLayoutsRef
+></urlDateAccessedLayoutsRef
+></proceedingsLayout
+><proceedingsLayout
+><refTitleItem
+textafter=".  "
+></refTitleItem
+><procTitleItem
+font-style="italic"
+textafter=".  "
+></procTitleItem
+><procVolItem
+textafter=".  "
+></procVolItem
+><locationPublisherLayoutsRef
+></locationPublisherLayoutsRef
+><urlDateAccessedLayoutsRef
+></urlDateAccessedLayoutsRef
+></proceedingsLayout
+><proceedingsLayout
+><refTitleItem
+textafter=".  "
+></refTitleItem
+><procTitleItem
+font-style="italic"
+textafter=".  "
+></procTitleItem
+><procPagesItem
+textafter=".  "
+></procPagesItem
+><locationPublisherLayoutsRef
+></locationPublisherLayoutsRef
+><urlDateAccessedLayoutsRef
+></urlDateAccessedLayoutsRef
+></proceedingsLayout
+><proceedingsLayout
+><refTitleItem
+textafter=".  "
+></refTitleItem
+><procCitationItem
+textbefore="In "
+></procCitationItem
+><authorRoleItem
+textafter=".).  "
+textbefore=" ("
+></authorRoleItem
+><procVolItem
+textafter=":"
+></procVolItem
+><procPagesItem
+textafter="."
+></procPagesItem
+><urlDateAccessedLayoutsRef
+></urlDateAccessedLayoutsRef
+></proceedingsLayout
+><proceedingsLayout
+><refTitleItem
+textafter=".  "
+></refTitleItem
+><procCitationItem
+textbefore="In "
+></procCitationItem
+><authorRoleItem
+textafter=".).  "
+textbefore=" ("
+></authorRoleItem
+><procVolItem
+textafter=". "
+></procVolItem
+><urlDateAccessedLayoutsRef
+></urlDateAccessedLayoutsRef
+></proceedingsLayout
+><proceedingsLayout
+><refTitleItem
+textafter=".  "
+></refTitleItem
+><procCitationItem
+textbefore="In "
+></procCitationItem
+><authorRoleItem
+textafter=".).  "
+textbefore=" ("
+></authorRoleItem
+><procPagesItem
+textafter="."
+></procPagesItem
+><urlDateAccessedLayoutsRef
+></urlDateAccessedLayoutsRef
+></proceedingsLayout
+><proceedingsLayout
+><refTitleItem
+textafter=".  "
+></refTitleItem
+><procCitationItem
+textbefore="In "
+></procCitationItem
+><authorRoleItem
+textafter=".).  "
+textbefore=" ("
+></authorRoleItem
+><urlDateAccessedLayoutsRef
+></urlDateAccessedLayoutsRef
+></proceedingsLayout
+><proceedingsLayout
+><refTitleItem
+textafter=".  "
+></refTitleItem
+><procTitleItem
+font-style="italic"
+textafter=".  "
+></procTitleItem
+><locationPublisherLayoutsRef
+></locationPublisherLayoutsRef
+><urlDateAccessedLayoutsRef
+></urlDateAccessedLayoutsRef
+></proceedingsLayout
+></proceedingsLayouts
+><thesisLayouts
+><comment
+>Thesis Layouts</comment
+><thesisLayout
+><refTitleItem
+font-style="italic"
+textafter=".  "
+></refTitleItem
+><locationItem
+textafter=": "
+></locationItem
+><institutionItem
+textafter=" "
+></institutionItem
+><thesisLabelItem
+label="thesis"
+textafter=".  "
+></thesisLabelItem
+><publishedLayoutRef
+></publishedLayoutRef
+><urlDateAccessedLayoutsRef
+></urlDateAccessedLayoutsRef
+></thesisLayout
+><thesisLayout
+><refTitleItem
+font-style="italic"
+textafter=".  "
+></refTitleItem
+><institutionItem
+textafter=" "
+></institutionItem
+><thesisLabelItem
+label="thesis"
+textafter=".  "
+></thesisLabelItem
+><publishedLayoutRef
+></publishedLayoutRef
+><urlDateAccessedLayoutsRef
+></urlDateAccessedLayoutsRef
+></thesisLayout
+><thesisLayout
+><refTitleItem
+font-style="italic"
+textafter=".  "
+></refTitleItem
+><locationItem
+textafter=": "
+></locationItem
+><institutionItem
+textafter=" "
+></institutionItem
+><thesisLabelItem
+label="thesis"
+textafter=".  "
+></thesisLabelItem
+><urlDateAccessedLayoutsRef
+></urlDateAccessedLayoutsRef
+></thesisLayout
+><thesisLayout
+><refTitleItem
+font-style="italic"
+textafter=".  "
+></refTitleItem
+><institutionItem
+textafter=" "
+></institutionItem
+><thesisLabelItem
+label="thesis"
+textafter=".  "
+></thesisLabelItem
+><urlDateAccessedLayoutsRef
+></urlDateAccessedLayoutsRef
+></thesisLayout
+></thesisLayouts
+><webPageLayouts
+><comment
+>Web Page Layouts</comment
+><webPageLayout
+><refTitleItem
+textafter=".  "
+></refTitleItem
+><editionItem
+textafter=" edn.  "
+></editionItem
+><locationItem
+textafter=": "
+></locationItem
+><institutionItem
+textafter=".  "
+></institutionItem
+><urlDateAccessedLayoutsRef
+></urlDateAccessedLayoutsRef
+></webPageLayout
+><webPageLayout
+><refTitleItem
+textafter=".  "
+></refTitleItem
+><editionItem
+textafter=" edn.  "
+></editionItem
+><locationItem
+textafter=": "
+></locationItem
+><publisherItem
+textafter=".  "
+></publisherItem
+><urlDateAccessedLayoutsRef
+></urlDateAccessedLayoutsRef
+></webPageLayout
+><webPageLayout
+><refTitleItem
+textafter=".  "
+></refTitleItem
+><editionItem
+textafter=" edn.  "
+></editionItem
+><locationItem
+textafter=".  "
+></locationItem
+><urlDateAccessedLayoutsRef
+></urlDateAccessedLayoutsRef
+></webPageLayout
+><webPageLayout
+><refTitleItem
+textafter=".  "
+></refTitleItem
+><editionItem
+textafter=" edn.  "
+></editionItem
+><publisherItem
+textafter=".  "
+></publisherItem
+><urlDateAccessedLayoutsRef
+></urlDateAccessedLayoutsRef
+></webPageLayout
+><webPageLayout
+><refTitleItem
+textafter=".  "
+></refTitleItem
+><editionItem
+textafter=" edn.  "
+></editionItem
+><urlDateAccessedLayoutsRef
+></urlDateAccessedLayoutsRef
+></webPageLayout
+><webPageLayout
+><refTitleItem
+textafter=".  "
+></refTitleItem
+><locationItem
+textafter=": "
+></locationItem
+><institutionItem
+textafter=".  "
+></institutionItem
+><urlDateAccessedLayoutsRef
+></urlDateAccessedLayoutsRef
+></webPageLayout
+><webPageLayout
+><refTitleItem
+textafter=".  "
+></refTitleItem
+><locationItem
+textafter=": "
+></locationItem
+><publisherItem
+textafter=".  "
+></publisherItem
+><urlDateAccessedLayoutsRef
+></urlDateAccessedLayoutsRef
+></webPageLayout
+><webPageLayout
+><refTitleItem
+textafter=".  "
+></refTitleItem
+><locationItem
+textafter=".  "
+></locationItem
+><urlDateAccessedLayoutsRef
+></urlDateAccessedLayoutsRef
+></webPageLayout
+><webPageLayout
+><refTitleItem
+textafter=".  "
+></refTitleItem
+><institutionItem
+textafter=".  "
+></institutionItem
+><urlDateAccessedLayoutsRef
+></urlDateAccessedLayoutsRef
+></webPageLayout
+><webPageLayout
+><refTitleItem
+textafter=".  "
+></refTitleItem
+><publisherItem
+textafter=".  "
+></publisherItem
+><urlDateAccessedLayoutsRef
+></urlDateAccessedLayoutsRef
+></webPageLayout
+><webPageLayout
+><refTitleItem
+textafter=".  "
+></refTitleItem
+><urlDateAccessedLayoutsRef
+></urlDateAccessedLayoutsRef
+></webPageLayout
+></webPageLayouts
+><publishedLayout
+><locationPublisherLayoutsRef
+></locationPublisherLayoutsRef
+><pubDateItem
+textafter="."
+></pubDateItem
+></publishedLayout
+><locationPublisherLayouts
+><comment
+>Location and/or Publisher Layouts</comment
+><locationPublisherLayout
+><locationItem
+textafter=": "
+></locationItem
+><publisherItem
+textafter="."
+></publisherItem
+></locationPublisherLayout
+><locationPublisherLayout
+><locationItem
+textafter=".  "
+></locationItem
+></locationPublisherLayout
+><locationPublisherLayout
+><publisherItem
+textafter="."
+></publisherItem
+></locationPublisherLayout
+><locationPublisherLayout
+><missingItem
+></missingItem
+></locationPublisherLayout
+></locationPublisherLayouts
+><urlDateAccessedLayouts
+><comment
+>Url and/or DateAccessed Layouts</comment
+><urlDateAccessedLayout
+><urlItem
+textbefore="  "
+></urlItem
+><dateAccessedItem
+textafter=".)"
+textbefore="  ("
+></dateAccessedItem
+><doiItem
+textbefore="  doi:"
+></doiItem
+></urlDateAccessedLayout
+><urlDateAccessedLayout
+><urlItem
+textbefore="  "
+></urlItem
+><dateAccessedItem
+textafter=".)"
+textbefore="  ("
+></dateAccessedItem
+></urlDateAccessedLayout
+><urlDateAccessedLayout
+><urlItem
+textafter="  "
+textbefore="  "
+></urlItem
+><doiItem
+textbefore="doi:"
+></doiItem
+></urlDateAccessedLayout
+><urlDateAccessedLayout
+><urlItem
+textbefore="  "
+></urlItem
+></urlDateAccessedLayout
+><urlDateAccessedLayout
+><doiItem
+textbefore="  doi:"
+></doiItem
+></urlDateAccessedLayout
+><urlDateAccessedLayout
+><missingItem
+></missingItem
+></urlDateAccessedLayout
+></urlDateAccessedLayouts
+><iso639-3codeItem
+textafter="]"
+textbefore="["
+textbeforefirst=" ISO 639-3 code of Subject languages: "
+textbetween=", "
+></iso639-3codeItem
+></referencesLayout
+><indexLayout
+font-size="14pt"
+font-weight="bold"
+spaceafter="12pt"
+spacebefore="24pt"
+textalign="center"
+></indexLayout
+><authorContactInfoLayout
+><contactNameLayout
+font-size="11pt"
+font-style="italic"
+spaceafter="4pt"
+spacebefore="24pt"
+></contactNameLayout
+><contactAddressLayout
+font-size="11pt"
+font-style="italic"
+></contactAddressLayout
+><contactEmailLayout
+font-size="11pt"
+font-style="italic"
+spaceafter="4pt"
+spacebefore="24pt"
+></contactEmailLayout
+></authorContactInfoLayout
+></backMatterLayout
+><contentLayout
+><comment
+>Document Content Layout</comment
+><paragraphLayout
+spaceafter="2pt"
+spacebefore="2pt"
+></paragraphLayout
+><exampleLayout
+indent-after="0in"
+indent-before=".5in"
+></exampleLayout
+><listLayout
+indent-before=".5in"
+></listLayout
+><sectionRefLayout
+></sectionRefLayout
+><interlinearSourceStyle
+></interlinearSourceStyle
+><endnoteRefLayout
+></endnoteRefLayout
+><figureLayout
+captionLocation="after"
+><figureLabelLayout
+textafter=" "
+></figureLabelLayout
+><figureNumberLayout
+></figureNumberLayout
+><figureCaptionLayout
+textbefore=" "
+></figureCaptionLayout
+></figureLayout
+><figureRefLayout
+></figureRefLayout
+><tablenumberedLayout
+captionLocation="after"
+><tablenumberedLabelLayout
+textafter=" "
+></tablenumberedLabelLayout
+><tablenumberedNumberLayout
+></tablenumberedNumberLayout
+><tablenumberedCaptionLayout
+textbefore="  "
+></tablenumberedCaptionLayout
+></tablenumberedLayout
+><tablenumberedRefLayout
+></tablenumberedRefLayout
+><langDataLayout
+><langDataInExampleLayout
+font-style="normal"
+font-weight="normal"
+textbeforeafterusesfontinfo="no"
+></langDataInExampleLayout
+><langDataInTableLayout
+textbeforeafterusesfontinfo="no"
+></langDataInTableLayout
+><langDataInProseLayout
+font-style="normal"
+font-weight="bold"
+textbeforeafterusesfontinfo="no"
+></langDataInProseLayout
+></langDataLayout
+><glossLayout
+><glossInExampleLayout
+font-style="normal"
+font-weight="normal"
+textbeforeafterusesfontinfo="no"
+></glossInExampleLayout
+><glossInTableLayout
+textbeforeafterusesfontinfo="no"
+></glossInTableLayout
+><glossInProseLayout
+font-style="normal"
+font-weight="normal"
+textafter="’"
+textbefore="‘"
+textbeforeafterusesfontinfo="no"
+></glossInProseLayout
+></glossLayout
+><freeLayout
+font-style="italic"
+font-weight="normal"
+textbeforeafterusesfontinfo="no"
+></freeLayout
+><annotationLayout
+color="gray"
+end-indent="0.5in"
+font-size="89%"
+spaceafter="1.5pt"
+spacebefore="1.5pt"
+start-indent="0.5in"
+></annotationLayout
+></contentLayout
+></publisherStyleSheet
+></styledPaper
+></xlingpaper
+>
