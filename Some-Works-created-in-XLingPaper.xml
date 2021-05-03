@@ -48,7 +48,12 @@ id="nZenodoLink"
 citation="rPatersonH2020XLingPaper"
 ></annotationRef
 ><p
->Contributions via Github can occur as pull requests. Alternatively, email Hugh Paterson III a reference to be added in an XLingPaper document. An item in a references section is sufficient, so that he can copy and paste into the existing document. (Annotations can also be contributed.) Structural changes to the bibliography will be considered based on feedback.</p
+>Contributions via Github can occur as pull requests. Alternatively, email Hugh Paterson III<endnote
+id="nHughEmail"
+><p
+>Hugh's email address: i@hp3.me</p
+></endnote
+> a reference to be added in an XLingPaper document. An item in a references section is sufficient, so that he can copy and paste into the existing document. (Annotations can also be contributed.) Structural changes to the bibliography will be considered based on feedback.</p
 ></preface
 ></frontMatter
 ><section1
@@ -180,6 +185,9 @@ citation="rBlackHAndrew2017AshenUserDocumentation"
 ></annotationRef
 ><annotationRef
 citation="rBlackHAndrew2017Sugge"
+></annotationRef
+><annotationRef
+citation="rBlackHAndrew2019LingT"
 ></annotationRef
 ><annotationRef
 citation="rBlackHAndrew2020XLing"
@@ -361,6 +369,14 @@ citation="rBlackHAndrewandMatthewLee2020XLing"
 ></annotationRef
 ></section3
 ><section3
+id="sFLExMorphologicalParser"
+><secTitle
+>FLEx Morphological Parser</secTitle
+><annotationRef
+citation="rBlackHAndrew2014AConc"
+></annotationRef
+></section3
+><section3
 id="sParatext"
 ><secTitle
 >Paratext</secTitle
@@ -383,14 +399,6 @@ citation="rBeadleJennieParatext9fr"
 ><comment
 >Video Summaries en|fr github link;</comment
 ></p
-></section3
-><section3
-id="sFLExMorphologicalParser"
-><secTitle
->FLEx Morphological Parser</secTitle
-><annotationRef
-citation="rBlackHAndrew2014AConc"
-></annotationRef
 ></section3
 ><section3
 contentType="ctExtra"
@@ -459,6 +467,30 @@ citation="rRasmussenKent20180322Tonog"
 ><comment
 > Lexicalized Consonant-Tone Interaction in Nyali-Kilo [nlj] Infinitive Verbs. Presented at the World Congress of African Linguistics 7 (Buea, Cameroon) August 20-24, 2012.; The Functional Load of Tone. Presented at NASCAL2, Univ. Dschang (Cameroon). March 12-14, 2019.</comment
 ></p
+></section2
+><section2
+id="sManuals"
+><secTitle
+>Manuals</secTitle
+><annotationRef
+citation="rBlackHAndrew2017Ashen"
+></annotationRef
+><annotationRef
+citation="rBlackHAndrew2019LingT"
+></annotationRef
+><annotationRef
+annotation="anBeadleJennieParatext8en"
+citation="rBeadleJennieParatext8en"
+></annotationRef
+><annotationRef
+citation="rBeadleJennieParatext8fr"
+></annotationRef
+><annotationRef
+citation="rBeadleJennieParatext9en"
+></annotationRef
+><annotationRef
+citation="rBeadleJennieParatext9fr"
+></annotationRef
 ></section2
 ><section2
 id="sTextBooks"
@@ -674,6 +706,21 @@ annotation="anMarlettStephenA2014Phono"
 citation="rMarlettStephenA2014Phono"
 ></annotationRef
 ><annotationRef
+citation="rRasmussenKent2015LD"
+></annotationRef
+><annotationRef
+citation="rRasmussenKent2015"
+></annotationRef
+><annotationRef
+citation="rRasmussenKent2016Ndaka"
+></annotationRef
+><annotationRef
+citation="rRasmussenKent2016"
+></annotationRef
+><annotationRef
+citation="rRasmussenKent20180322Tonog"
+></annotationRef
+><annotationRef
 annotation="anBeadleJennieParatext8en"
 citation="rBeadleJennieParatext8en"
 ></annotationRef
@@ -710,7 +757,7 @@ id="sOuputs"
 ><secTitle
 >Output Formats</secTitle
 ><p
->XLingPaper has several main output formats: HTML, PDF via XeTeX, PDF via RenderX (XSL-FO), ePub, MS Word, and Open Office.</p
+>XLingPaper has several main output formats: HTML, PDF via XeLaTeX, PDF via RenderX (XSL-FO), ePub, MS Word, and Open Office.</p
 ><section3
 id="sHTML"
 ><secTitle
@@ -736,7 +783,7 @@ id="sCutom"
 ><section3
 id="sXeTeX"
 ><secTitle
->PDF via XeTeX</secTitle
+>PDF via XeLaTeX</secTitle
 ><p
 >Most documents in this Bibliography are created using the XeTeX process. We do not list them independently.</p
 ></section3
@@ -745,7 +792,10 @@ id="sRenderX"
 ><secTitle
 >PDF via RenderX</secTitle
 ><p
->It would be nice to point to one of these and explain why the RenderX output was chosen.</p
+>All the Zapotec Grammar Files are produced via RenderX. RenderX was the only path to print PDF when these works were written.</p
+><annotationRef
+citation="rBlackCherylAH.AndrewBlackandStephenAMarlett2009TheZa"
+></annotationRef
 ></section3
 ><section3
 id="sePub"
@@ -1097,7 +1147,7 @@ href="https://outilingua.net"
 > and <link
 href="https://lingtran.net"
 >lingtran.net</link
-> are both run tikiwiki as their core software. The content when it is refreshed is uploaded as a tikiwiki bundle. There are technical challenges in tikiwiki with managing images with a workflow which refreshes periodically. To overcome this challenges manages are hosted on a site like github.com and are linked to the accessible repository of images.</annotation
+> both run tikiwiki as their core software. The content when it is refreshed is uploaded as a tikiwiki bundle. There are technical challenges in tikiwiki with managing images with a workflow which refreshes periodically. To overcome this challenge images are hosted on a site like github.com and are linked to the accessible repository of images.</annotation
 ></annotations
 ></webPage
 ></refWork
@@ -1125,7 +1175,7 @@ href="https://outilingua.net"
 > and <link
 href="https://lingtran.net"
 >lingtran.net</link
-> are both run tikiwiki as their core software. The content when it is refreshed is uploaded as a tikiwiki bundle. There are technical challenges in tikiwiki with managing images with a workflow which refreshes periodically. To overcome this challenges manages are hosted on a site like github.com and are linked to the accessible repository of images.</annotation
+> both run tikiwiki as their core software. The content when it is refreshed is uploaded as a tikiwiki bundle. There are technical challenges in tikiwiki with managing images with a workflow which refreshes periodically. To overcome this challenge images are hosted on a site like github.com and are linked to the accessible repository of images.</annotation
 ></annotations
 ></webPage
 ></refWork
@@ -1153,7 +1203,7 @@ href="https://outilingua.net"
 > and <link
 href="https://lingtran.net"
 >lingtran.net</link
-> are both run tikiwiki as their core software. The content when it is refreshed is uploaded as a tikiwiki bundle. There are technical challenges in tikiwiki with managing images with a workflow which refreshes periodically. To overcome this challenges manages are hosted on a site like github.com and are linked to the accessible repository of images.</annotation
+> both run tikiwiki as their core software. The content when it is refreshed is uploaded as a tikiwiki bundle. There are technical challenges in tikiwiki with managing images with a workflow which refreshes periodically. To overcome this challenge images are hosted on a site like github.com and are linked to the accessible repository of images.</annotation
 ></annotations
 ></webPage
 ></refWork
@@ -1181,7 +1231,7 @@ href="https://outilingua.net"
 > and <link
 href="https://lingtran.net"
 >lingtran.net</link
-> are both run tikiwiki as their core software. The content when it is refreshed is uploaded as a tikiwiki bundel. There are technical challenges in tikiwiki with managing images with a workflow which refreshes periodically. To overcome this challenges manages are hosted on a site like github.com and are linked to the accessible repository of images.</annotation
+> both run tikiwiki as their core software. The content when it is refreshed is uploaded as a tikiwiki bundel. There are technical challenges in tikiwiki with managing images with a workflow which refreshes periodically. To overcome this challenge images are hosted on a site like github.com and are linked to the accessible repository of images.</annotation
 ></annotations
 ></webPage
 ></refWork
@@ -1568,7 +1618,7 @@ showiso639-3codes="no"
 ><annotation
 annotype="atAnnotation"
 id="anLamicela2020"
->Uses Greek script in interlinear examples. </annotation
+>Uses Greek script in interlinear examples.</annotation
 ></annotations
 ></thesis
 ></refWork
@@ -1828,7 +1878,9 @@ showiso639-3codes="yes"
 ><annotation
 annotype="atAnnotation"
 id="anPatersonH2020reported"
->This annotated bibliography is global in scope, but it's purpose is to highlight the gap between the acknowledged knowledge of in the current academic literature and SIL's historical publications. The thesis is that SIL's works are not findable, and are not cited, even if they are relevant to today's research projects.</annotation
+>This annotated bibliography is global in scope, but its purpose is to highlight the gap between <q
+>what is known</q
+> in the current academic literature and SIL's historical publications on the same topics. The thesis is that SIL's works are not findable, and are not cited, even if they are relevant to today's research projects.</annotation
 ></annotations
 ></ms
 ></refWork
@@ -1846,7 +1898,7 @@ showiso639-3codes="yes"
 ><annotation
 annotype="atAnnotation"
 id="anPatersonH2020DFT"
->This annotated bibliography is global in scope, it attempts to provide knowledge about the long history of discussion — Theological, Missiological, and Linguistic — related to the translation of analogies in the Christian scriptures which use of <object
+>This annotated bibliography is global in scope, it attempts to provide knowledge about the long history of discussion — theological, missiological, and linguistic — related to the translation of analogies in the Christian scriptures which use <object
 type="tItalic"
 >familial terminology</object
 > in reference to <object
@@ -2128,7 +2180,7 @@ id="anRastorguevaV.S.A.A.KerimovaA.K.MamedzadeL.A.PireikoandD.I.Edelman2012TheGi
 >This is a translation of the original book entitled: <object
 type="tItalic"
 >Giljanskij Jazyk</object
->.This publication uses color extensively. It uses no less than 8 different colors each with a semantic meaning. There is no clear table for the semantic meanings of the color but usage is consistent throughout the work – thanks to XLingPaper and the editor. This work also has 20 interlinear glossed texts, which are discussed and linked throughout the book. It uses mostly uses Latin script with one small word in an Arabic script.</annotation
+>. This publication uses color extensively. It uses no less than 8 different colors each with a semantic meaning. There is no clear table for the semantic meanings of the color but usage is consistent throughout the work – thanks to XLingPaper and the editor. This work also has 20 interlinear glossed texts, which are discussed and linked throughout the book. It mostly uses Latin script with one small word in an Arabic script.</annotation
 ></annotations
 ></refWork
 ></refAuthor
