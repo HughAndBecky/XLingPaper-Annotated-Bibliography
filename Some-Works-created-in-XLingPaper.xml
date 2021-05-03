@@ -10,7 +10,7 @@ sortRefsAbbrsByDocumentLanguage="yes"
 version="2.28.0"
 ><frontMatter
 ><title
->Some Works created in XLingPaper</title
+>Some Works Created in XLingPaper</title
 ><author
 >Compiled by Hugh Paterson III</author
 ><emailAddress
@@ -26,7 +26,7 @@ version="2.28.0"
 ><preface
 label="How to Contribute"
 ><p
->This is a rough (but distributable) list of works created using XLingPaper. It is intended to be circulated for comment and feedback. It is a draft section of another work which looks at XLingPaper in more depth. If you are an author who has used XLingPaper please consider adding your content to this work by contacting Hugh Paterson III.</p
+>This is a rough (but distributable) start to an annotated bibliography of works created using XLingPaper. It is intended to be circulated for comment and feedback. If you are an author who has used XLingPaper, please consider submitting your content to this work.</p
 ><p
 >The latest version of this bibliography can be found on Github<endnote
 id="nGithubLink"
@@ -34,7 +34,7 @@ id="nGithubLink"
 >Github Link: <link
 href="https://github.com/HughAndBecky/XLingPaper-Annotated-Bibliography"
 >https://github.com/HughAndBecky/XLingPaper-Annotated-Bibliography</link
->https://github.com/HughAndBecky/XLingPaper-Annotated-Bibliography.git</p
+></p
 ></endnote
 > and in Zenodo.<endnote
 id="nZenodoLink"
@@ -42,11 +42,13 @@ id="nZenodoLink"
 >Zenodo Link:</p
 ></endnote
 > New versions are released on Github which automatically updates Zenodo. It can be referenced as an un-published archival manuscript. Something like the following:</p
+><p
+></p
 ><annotationRef
 citation="rPatersonH2020XLingPaper"
 ></annotationRef
 ><p
->Contributions via Github can occur as pull requests. Alternatively Email Hugh Paterson III a reference to be added in an XLingPaper document (an item in a References section is sufficient. So that he can copy and paste into the existing document). Structural changes to the bibliography will be considered based on user feedback.</p
+>Contributions via Github can occur as pull requests. Alternatively, email Hugh Paterson III a reference to be added in an XLingPaper document. An item in a references section is sufficient, so that he can copy and paste into the existing document. (Annotations can also be contributed.) Structural changes to the bibliography will be considered based on feedback.</p
 ></preface
 ></frontMatter
 ><section1
@@ -58,7 +60,9 @@ id="sPurpose"
 ><secTitle
 >Purpose</secTitle
 ><p
->This is the start of an annotated bibliography of works created using XLingPaper. <link
+><comment
+>This is the start of an annotated bibliography of works created using XLingPaper.</comment
+><link
 href="https://software.sil.org/xlingpaper/"
 >XLingPaper</link
 > has been around since 2001 and has been the tool of choice for those who have sought solutions beyond the performance or limits of: MS Word, TeX, <link
@@ -73,15 +77,7 @@ href="https://pandoc.org/"
 >, <link
 href="https://www.literatureandlatte.com/scrivener/overview"
 >Scrivener</link
-> and a variety of other tools. The scope of the bibliography is comprehensive—if it was built with XLingPaper. The purpose of this bibliography is to use XLingPaper to create a document which will help tool users identify how XLingPaper has been used to create works like they might want to create — to exemplify the diverse utility of XLingPaper. Therefore the annotations note the unique typography, document structure, and content formats rather than any <object
-type="tItalic"
->linguistic</object
-> features, argumentation, or theory.<endnote
-id="nContribution"
-><p
->Annotations can also be contributed. Please Contact Hugh.</p
-></endnote
-> To date the primary academic discourse presenting XLingPaper has been published as <citation
+> and a variety of other tools. The scope of the bibliography is comprehensive—if it was built with XLingPaper, it can be included here. The purpose of this bibliography is to use XLingPaper to create a document which will help users identify how XLingPaper has been used to create works like they might want to create, i.e., to exemplify the diverse utility of XLingPaper. Therefore, the annotations note the unique typography, document structure, and content formats rather than any discussion, argumentation, or theory. To date the primary academic discourse presenting XLingPaper has been published as <citation
 ref="rSimonsGaryFandH.AndrewBlack2008Third"
 ></citation
 >, <citation
@@ -97,7 +93,7 @@ id="sOrganization"
 ><secTitle
 >Organization</secTitle
 ><p
->This bibliography has the same data presented in three formats — because readers might be interested in exploring the references in any one of the three manners. <sectionRef
+>This bibliography has the same data presented in three layouts because readers might be interested in exploring the references in any one of the three manners: <sectionRef
 sec="s2"
 showTitle="full"
 ></sectionRef
@@ -115,88 +111,100 @@ showTitle="full"
 ><section1
 id="s2"
 ><secTitle
->Works Created with XLingPaper Presented by Type</secTitle
+>By Type</secTitle
 ><p
->When presenting the works by type, each type is listed in order of production — Oldest first, newest last.</p
-><section2
-id="sPHD"
-><secTitle
->Ph.D Dissertations</secTitle
-><annotationRef
-annotation="rEbarbKristopherJ2014"
-citation="rEbarbKristopherJ2014Tonea"
-></annotationRef
-><annotationRef
-annotation="anRasmussenKent2018"
-citation="rRasmussenKent20180523AComp"
-></annotationRef
-><annotationRef
-annotation="anPennerKevinL2019"
-citation="rPennerKevinL2019Proso"
-></annotationRef
-></section2
-><section2
-id="sMA"
-><secTitle
->MA Theses</secTitle
+>Items are listed in chronological order oldest first, newest last. The types follow those presented by <citation
+page="158"
+ref="rKelsky2015"
+></citation
+>. That is, <sectionRef
+sec="sBooks"
+showTitle="full"
+></sectionRef
+>, <sectionRef
+sec="sEditedVolume"
+showTitle="full"
+></sectionRef
+>, Refereed Journal Articles, <sectionRef
+sec="sChapters"
+showTitle="full"
+></sectionRef
+>, Conference Proceedings, Encyclopedia Entries, Book Reviews, Manuscripts, Web-based Publications, Other kinds of publications. We are also unaware of any Conference Proceedings, Encyclopedia Entries, or Book Reviews which have been authored using XLingPaper. Therefore, these sections have been omitted.</p
 ><p
->Many of the MA thesises presented here were defended at one of two institutions: Graduate Institute of Linguistics (GIAL) – now <link
+>XLingPaper has seen frequent use by the authors of M.A. theses. Those presented here were defended at one of two institutions: the Graduate Institute of Linguistics (GIAL) – now <link
 href="https://www.diu.edu/"
 >Dallas International University</link
 >; and the University of North Dakota. The extensive use of XLingPaper by students at the University of North Dakota program can in part be explained by the fact that both Andrew Black (software author) and Steve Marlett (advocate extraordinaire) were faculty at the University of North Dakota.</p
+><p
+>XLingPaper also has the ability to export items to HTML. Andy Black has made extensive use of this feature to create web exports from XLingPaper documents related to the computer applications he develops. Matthew Lee has built upon this concept with the publication of XLingPaper content to web mediums in a different way. Lee manages the entire content of a bi-lingual website focused on user documentation and user training for software in XLingPaper.</p
+><section2
+id="sBooks"
+><secTitle
+>Books</secTitle
 ><annotationRef
-citation="rHavlicekAmyRuth2009Alter"
+citation="rBuckMarjorieJ2018Gramá"
+></annotationRef
+><section3
+id="sRepublications"
+><secTitle
+>Re-Publications</secTitle
+><annotationRef
+annotation="anRastorguevaV.S.A.A.KerimovaA.K.MamedzadeL.A.PireikoandD.I.Edelman2012TheGiAatAnnotation"
+citation="rRastorguevaV.S.A.A.KerimovaA.K.MamedzadeL.A.PireikoandD.I.Edelman2012TheGi"
 ></annotationRef
 ><annotationRef
-citation="rWoodJoyceKathleen2012Valen"
+annotation="atAbstract"
+citation="rBartholomewDorisAandLouiseCSchoenhals2019Bilin"
+></annotationRef
+></section3
+><section3
+id="sDocumentation"
+><secTitle
+>Computer Application Documentation</secTitle
+><p
+>Andy has written several computer applications, including: XLingPaper, <link
+href="https://software.sil.org/asheninka/"
+>Asheninka</link
+>, and a Morphological parser used within FLEx. He has turned to XLingPaper to manage and publish his user documentation materials.</p
+><annotationRef
+citation="rBlackHAndrew2014AConc"
 ></annotationRef
 ><annotationRef
-citation="rKimDeborah2014Subor"
+citation="rBlackHAndrew2017WhyLe"
 ></annotationRef
 ><annotationRef
-citation="rCarlsonBethanyWinter2015Casea"
+citation="rBlackHAndrew2017Ashen"
 ></annotationRef
 ><annotationRef
-citation="rReevesHannahJoy2015Falam"
+citation="rBlackHAndrew2017AshenUserDocumentation"
 ></annotationRef
 ><annotationRef
-citation="rGrossoTamaraMichelle2017Refer"
+citation="rBlackHAndrew2017Sugge"
 ></annotationRef
 ><annotationRef
-annotation="anMéndezHordEstebanI"
-citation="rMéndezHordEstebanI.2017Tonei"
+citation="rBlackHAndrew2020XLing"
 ></annotationRef
 ><annotationRef
-citation="rClineLauraJ2018SomeF"
+citation="rBlackHAndrewandMatthewLee2020XLing"
 ></annotationRef
-><annotationRef
-annotation="anMongMeganLois2018ModesAnnotation"
-citation="rMongMeganLois2018Modes"
-></annotationRef
-><annotationRef
-citation="rMoffit2019"
-></annotationRef
-><annotationRef
-annotation="anLamicela2020"
-citation="rLamicela2020"
-></annotationRef
-><annotationRef
-citation="rLepage2020"
-></annotationRef
-><annotationRef
-citation="rMiller2020"
-></annotationRef
-><annotationRef
-annotation="anPaterson2021Archive"
-citation="rPatersonIII2021Thesis"
-></annotationRef
+><p
+contentType="ctExtra"
+>Paratext8 Manual en|FR Paratext9 Manual en|fr Video Summaries en|fr github link; Jeff Heath FLEx Manual en Jennie Beadle Bloom Manual 4.8 – Drafts en|fr outilingua.net tikiwiki cross-site image usage to github lingtran.net tikiwiki Bundel import</p
+></section3
+></section2
+><section2
+id="sEditedVolume"
+><secTitle
+>Edited Volumes</secTitle
+><p
+>We are unaware of any Edited Volumes which have been completely typeset with XLingPaper. Though both re-published books had an editorial contribution. In some ways the Zapotec Grammar Files and Los Archivos Lingüísticos Me'phaa are like an edited volume but they are not presented as such and were not typeset using XLingPaper's book structure.</p
 ></section2
 ><section2
 id="sPeriodicals"
 ><secTitle
 >Periodicals &amp; Journal Articles</secTitle
 ><p
->Items published as part of a series appear here. This includes working papers, Journal articles, and non-book items in a periodical series.</p
+>Items published as part of a series appear here. This includes working papers, journal articles, and non-book items in a periodical series.</p
 ><annotationRef
 citation="rSimonsGaryFandH.AndrewBlack2008Third"
 ></annotationRef
@@ -239,6 +247,18 @@ citation="rBrownieJohn2018Three"
 ></annotationRef
 ><annotationRef
 citation="rPatersonIII2021ars"
+></annotationRef
+></section2
+><section2
+id="sChapters"
+><secTitle
+>Book Chapters</secTitle
+><annotationRef
+citation="rBlackCherylA.andH.AndrewBlack201210Gramm"
+></annotationRef
+><annotationRef
+annotation="anPatersonIIIHughJ2014KeyboNote2"
+citation="rPatersonIIIHughJ2014Keybo"
 ></annotationRef
 ></section2
 ><section2
@@ -325,7 +345,10 @@ id="sWebsites"
 ><secTitle
 >Websites</secTitle
 ><p
->XLingPaper has the ability to export items to HTML. Andy Black has made extensive use of this feature to create web exports from XLingPaper documents related to the computer applications he develops. Matthew Lee has build upon this concept with the publication of XLingPaper content to web mediums in a different way. He manages the entire content of a bi-lingual website in XLingPaper. The websites Lee manages, are also focused on user documentation and user training for software.</p
+contentType="ctExtra"
+><comment
+>XLingPaper has the ability to export items to HTML. Andy Black has made extensive use of this feature to create web exports from XLingPaper documents related to the computer applications he develops. Matthew Lee has built upon this concept with the publication of XLingPaper content to web mediums in a different way. Lee manages the entire content of a bi-lingual website focused on user documentation and user training for software in XLingPaper.</comment
+></p
 ><section3
 id="sXLingPaper"
 ><secTitle
@@ -342,10 +365,10 @@ id="sParatext"
 ><secTitle
 >Paratext</secTitle
 ><p
->The Paratext Manuals, both their English and French content, as well as the online manifestation in websites like outilingua.net and lingtran.net as the manifestation in PDF formats are all maintained in a single XLingPaper Document and are exported using different export paths for different publishing venues.</p
+>The Paratext Manuals, both their English and French content, as well as the online manifestation in websites like outilingua.net and lingtran.net as the manifestation in PDF formats are all maintained in a single XLingPaper Document. XLingPaper enables the management of multiple output formats along with parallel versions in different languages.</p
 ><annotationRef
 annotation="anBeadleJennieParatext8en"
-citation="rBeadleJennieParatext9en"
+citation="rBeadleJennieParatext8en"
 ></annotationRef
 ><annotationRef
 citation="rBeadleJennieParatext8fr"
@@ -394,8 +417,6 @@ id="sBloom"
 id="sAbstracts"
 ><secTitle
 >Conference Abstracts</secTitle
-><p
-></p
 ><annotationRef
 annotation="PatersonRebeccaDowSmithAbbieHantganandEkaterinaAplonova2021BuildAnnotation"
 citation="rPatersonRebeccaDowSmith2021Songs"
@@ -419,8 +440,6 @@ href="http://kent.atoznback.org/2015/04/09/writing-presentations-in-xlingpaper"
 ></p
 ></endnote
 >. This has the advantage of keeping presentation content and examples congruent with what might be in a thesis or journal article. As far as I know he is the only one who is doing this, but I would love to hear about more cases.</p
-><p
-></p
 ><annotationRef
 citation="rRasmussenKent2015LD"
 ></annotationRef
@@ -442,74 +461,6 @@ citation="rRasmussenKent20180322Tonog"
 ></p
 ></section2
 ><section2
-id="sChapters"
-><secTitle
->Book Chapters</secTitle
-><annotationRef
-citation="rBlackCherylA.andH.AndrewBlack201210Gramm"
-></annotationRef
-><annotationRef
-annotation="anPatersonIIIHughJ2014KeyboNote2"
-citation="rPatersonIIIHughJ2014Keybo"
-></annotationRef
-></section2
-><section2
-id="sBooks"
-><secTitle
->Books</secTitle
-><annotationRef
-annotation="atAbstract"
-citation="rBuckMarjorieJ2018Gramá"
-></annotationRef
-><section3
-id="sRepublications"
-><secTitle
->Re-Publications</secTitle
-><annotationRef
-annotation="anRastorguevaV.S.A.A.KerimovaA.K.MamedzadeL.A.PireikoandD.I.Edelman2012TheGiAatAnnotation"
-citation="rRastorguevaV.S.A.A.KerimovaA.K.MamedzadeL.A.PireikoandD.I.Edelman2012TheGi"
-></annotationRef
-><annotationRef
-annotation="atAbstract"
-citation="rBartholomewDorisAandLouiseCSchoenhals2019Bilin"
-></annotationRef
-></section3
-><section3
-id="sDocumentation"
-><secTitle
->Computer Application Documentation</secTitle
-><p
->Andy has written several computer applications, including: XLingPaper, <link
-href="https://software.sil.org/asheninka/"
->Asheninka</link
->, and a Morphological parser used within FLEx. He has turned to XLingPaper to manage and publish his user documentation materials.</p
-><annotationRef
-citation="rBlackHAndrew2014AConc"
-></annotationRef
-><annotationRef
-citation="rBlackHAndrew2017WhyLe"
-></annotationRef
-><annotationRef
-citation="rBlackHAndrew2017Ashen"
-></annotationRef
-><annotationRef
-citation="rBlackHAndrew2017AshenUserDocumentation"
-></annotationRef
-><annotationRef
-citation="rBlackHAndrew2017Sugge"
-></annotationRef
-><annotationRef
-citation="rBlackHAndrew2020XLing"
-></annotationRef
-><annotationRef
-citation="rBlackHAndrewandMatthewLee2020XLing"
-></annotationRef
-><p
-contentType="ctExtra"
->Paratext8 Manual en|FR Paratext9 Manual en|fr Video Summaries en|fr github link; Jeff Heath FLEx Manual en Jennie Beadle Bloom Manual 4.8 – Drafts en|fr outilingua.net tikiwiki cross-site image usage to github lingtran.net tikiwiki Bundel import</p
-></section3
-></section2
-><section2
 id="sTextBooks"
 ><secTitle
 >Textbooks</secTitle
@@ -518,11 +469,79 @@ annotation="anMarlettStephenA2014Phono"
 citation="rMarlettStephenA2014Phono"
 ></annotationRef
 ></section2
+><section2
+id="sPHD"
+><secTitle
+>Ph.D Dissertations</secTitle
+><annotationRef
+annotation="rEbarbKristopherJ2014"
+citation="rEbarbKristopherJ2014Tonea"
+></annotationRef
+><annotationRef
+annotation="anRasmussenKent2018"
+citation="rRasmussenKent20180523AComp"
+></annotationRef
+><annotationRef
+annotation="anPennerKevinL2019"
+citation="rPennerKevinL2019Proso"
+></annotationRef
+></section2
+><section2
+id="sMA"
+><secTitle
+>M.A. Theses</secTitle
+><annotationRef
+citation="rHavlicekAmyRuth2009Alter"
+></annotationRef
+><annotationRef
+citation="rWoodJoyceKathleen2012Valen"
+></annotationRef
+><annotationRef
+citation="rKimDeborah2014Subor"
+></annotationRef
+><annotationRef
+citation="rCarlsonBethanyWinter2015Casea"
+></annotationRef
+><annotationRef
+citation="rReevesHannahJoy2015Falam"
+></annotationRef
+><annotationRef
+citation="rGrossoTamaraMichelle2017Refer"
+></annotationRef
+><annotationRef
+annotation="anMéndezHordEstebanI"
+citation="rMéndezHordEstebanI.2017Tonei"
+></annotationRef
+><annotationRef
+citation="rClineLauraJ2018SomeF"
+></annotationRef
+><annotationRef
+annotation="anMongMeganLois2018ModesAnnotation"
+citation="rMongMeganLois2018Modes"
+></annotationRef
+><annotationRef
+citation="rMoffit2019"
+></annotationRef
+><annotationRef
+annotation="anLamicela2020"
+citation="rLamicela2020"
+></annotationRef
+><annotationRef
+citation="rLepage2020"
+></annotationRef
+><annotationRef
+citation="rMiller2020"
+></annotationRef
+><annotationRef
+annotation="anPaterson2021Archive"
+citation="rPatersonIII2021Thesis"
+></annotationRef
+></section2
 ></section1
 ><section1
 id="s3"
 ><secTitle
->Works Created with XLingPaper Presented by Feature of XLingPaper used</secTitle
+>By Feature</secTitle
 ><p
 >In this section of the Bibliography we Highlight some publications and projects which use specific features of XLingPaper.</p
 ><section2
@@ -551,7 +570,7 @@ annotation="atAbstract"
 citation="rMarlettStephenA2017Disco"
 ></annotationRef
 ><annotationRef
-annotation="anBuckMarjorieJ2018GramáNote1"
+annotation="anBuckMarjorieJ2018GramáNote3"
 citation="rBuckMarjorieJ2018Gramá"
 ></annotationRef
 ><annotationRef
@@ -565,18 +584,21 @@ citation="rPatersonPons2020"
 ><annotationRef
 annotation="atNote"
 citation="rPatersonPaterson2020"
+contentType="ctExtra"
 ></annotationRef
 ><annotationRef
 annotation="anPatersonH2020reported"
 citation="rPatersonH2020reported"
+contentType="ctExtra"
 ></annotationRef
 ><annotationRef
 annotation="anPatersonH2020DFT"
 citation="rPatersonH2020DFT"
+contentType="ctExtra"
 ></annotationRef
 ><annotationRef
 annotation="anPatersonH2020XLingPaper"
-citation="rPatersonH2020DFT"
+citation="rPatersonH2020XLingPaper"
 ></annotationRef
 ></section2
 ><section2
@@ -584,11 +606,15 @@ id="sTexts"
 ><secTitle
 >Texts</secTitle
 ><annotationRef
+annotation="anRastorguevaV.S.A.A.KerimovaA.K.MamedzadeL.A.PireikoandD.I.Edelman2012TheGiAatAnnotation"
+citation="rRastorguevaV.S.A.A.KerimovaA.K.MamedzadeL.A.PireikoandD.I.Edelman2012TheGi"
+></annotationRef
+><annotationRef
 citation="rMarlettStephen2015"
 ></annotationRef
 ><annotationRef
-annotation="anRastorguevaV.S.A.A.KerimovaA.K.MamedzadeL.A.PireikoandD.I.Edelman2012TheGiAatAnnotation"
-citation="rRastorguevaV.S.A.A.KerimovaA.K.MamedzadeL.A.PireikoandD.I.Edelman2012TheGi"
+annotation="anBuckMarjorieJ2018GramáNote2"
+citation="rBuckMarjorieJ2018Gramá"
 ></annotationRef
 ></section2
 ><section2
@@ -619,7 +645,7 @@ id="sPhonology"
 >Phonologies</secTitle
 ><annotationRef
 annotation="anRasmussenKent2018"
-citation="rRasmussenKent20180322Tonog"
+citation="rRasmussenKent20180523AComp"
 ></annotationRef
 ></section2
 ><section2
@@ -643,8 +669,14 @@ citation="rPatersonPons2020"
 id="sContentControl"
 ><secTitle
 >Content Control Documents</secTitle
-><p
-></p
+><annotationRef
+annotation="anMarlettStephenA2014Phono"
+citation="rMarlettStephenA2014Phono"
+></annotationRef
+><annotationRef
+annotation="anBeadleJennieParatext8en"
+citation="rBeadleJennieParatext8en"
+></annotationRef
 ></section2
 ><section2
 id="sLocalization"
@@ -652,7 +684,7 @@ id="sLocalization"
 >Localization &amp; Multi-lingual capabilities</secTitle
 ><annotationRef
 annotation="anBeadleJennieParatext8en"
-citation="rBeadleJennieParatext9en"
+citation="rBeadleJennieParatext8en"
 ></annotationRef
 ><annotationRef
 citation="rBeadleJennieParatext8fr"
@@ -694,6 +726,7 @@ citation="rBlackHAndrewandMatthewLee2020XLing"
 ></annotationRef
 ></section3
 ><section3
+contentType="ctExtra"
 id="sCutom"
 ><secTitle
 >Custom Output Format</secTitle
@@ -712,7 +745,7 @@ id="sRenderX"
 ><secTitle
 >PDF via RenderX</secTitle
 ><p
->It would be nice to point to one of these and explain why this method was chosen for this project.</p
+>It would be nice to point to one of these and explain why the RenderX output was chosen.</p
 ></section3
 ><section3
 id="sePub"
@@ -733,9 +766,7 @@ id="sMSWord"
 ><section1
 id="s4"
 ><secTitle
->Work listed by Author</secTitle
-><p
-></p
+>By Author</secTitle
 ><annotationRef
 citation="rAndersonJudiLynnandCherylA.Black2016Flexi"
 ></annotationRef
@@ -744,7 +775,7 @@ citation="rBartholomewDorisAandLouiseCSchoenhals2019Bilin"
 ></annotationRef
 ><annotationRef
 annotation="anBeadleJennieParatext8en"
-citation="rBeadleJennieParatext9en"
+citation="rBeadleJennieParatext8en"
 ></annotationRef
 ><annotationRef
 citation="rBeadleJennieParatext8fr"
@@ -889,6 +920,7 @@ contentType="ctExtra"
 ><annotationRef
 annotation="anPatersonH2020XLingPaperFull"
 citation="rPatersonH2020XLingPaperFull"
+contentType="ctExtra"
 ></annotationRef
 ><annotationRef
 annotation="anPatersonH2020DFT"
@@ -921,6 +953,7 @@ citation="rPatersonIIIHughJ2021CV"
 ><annotationRef
 annotation="anPatersonPaterson2020"
 citation="rPatersonPaterson2020"
+contentType="ctExtra"
 ></annotationRef
 ><annotationRef
 annotation="anPatersonPons2020"
@@ -958,6 +991,23 @@ citation="rRasmussenKent20180523AComp"
 ><endnotes
 ></endnotes
 ><references
+><refAuthor
+citename="Kelsky"
+name="Kelsky, Karen"
+><refWork
+id="rKelsky2015"
+><refDate
+>2015</refDate
+><refTitle
+>The Professor is in: The Essential Guide to Turning Your Ph.D. into a Job</refTitle
+><book
+><location
+>New York</location
+><publisher
+>Three Rivers Press</publisher
+></book
+></refWork
+></refAuthor
 ><refAuthor
 citename="Paterson, Hantgan &amp; Chanard"
 name="Paterson, Rebecca, Abbie Hantgan &amp; Christian Chanard"
@@ -1047,7 +1097,7 @@ href="https://outilingua.net"
 > and <link
 href="https://lingtran.net"
 >lingtran.net</link
-> are both run tikiwiki as their core software. The content when it is refreshed is uploaded as a tikiwiki bundel. There are technical challenges in tikiwiki with managing images with a workflow which refreshes periodically. To overcome this challenges manages are hosted on a site like github.com and are linked to the accessible repository of images.</annotation
+> are both run tikiwiki as their core software. The content when it is refreshed is uploaded as a tikiwiki bundle. There are technical challenges in tikiwiki with managing images with a workflow which refreshes periodically. To overcome this challenges manages are hosted on a site like github.com and are linked to the accessible repository of images.</annotation
 ></annotations
 ></webPage
 ></refWork
@@ -1075,7 +1125,7 @@ href="https://outilingua.net"
 > and <link
 href="https://lingtran.net"
 >lingtran.net</link
-> are both run tikiwiki as their core software. The content when it is refreshed is uploaded as a tikiwiki bundel. There are technical challenges in tikiwiki with managing images with a workflow which refreshes periodically. To overcome this challenges manages are hosted on a site like github.com and are linked to the accessible repository of images.</annotation
+> are both run tikiwiki as their core software. The content when it is refreshed is uploaded as a tikiwiki bundle. There are technical challenges in tikiwiki with managing images with a workflow which refreshes periodically. To overcome this challenges manages are hosted on a site like github.com and are linked to the accessible repository of images.</annotation
 ></annotations
 ></webPage
 ></refWork
@@ -1103,7 +1153,7 @@ href="https://outilingua.net"
 > and <link
 href="https://lingtran.net"
 >lingtran.net</link
-> are both run tikiwiki as their core software. The content when it is refreshed is uploaded as a tikiwiki bundel. There are technical challenges in tikiwiki with managing images with a workflow which refreshes periodically. To overcome this challenges manages are hosted on a site like github.com and are linked to the accessible repository of images.</annotation
+> are both run tikiwiki as their core software. The content when it is refreshed is uploaded as a tikiwiki bundle. There are technical challenges in tikiwiki with managing images with a workflow which refreshes periodically. To overcome this challenges manages are hosted on a site like github.com and are linked to the accessible repository of images.</annotation
 ></annotations
 ></webPage
 ></refWork
@@ -1177,6 +1227,10 @@ id="anRasmussenKent20180523ACompAbstract"
 annotype="atNote"
 id="anRasmussenKent20180523ACompNote1"
 >Accepted: 2018-06-05T19:10:08Z</annotation
+><annotation
+annotype="atAnnotation"
+id="anRasmussenKent2018"
+>A beautiful use of figures (see figures 13 &amp; 17), examples with tone bar notation (see example 9), tables with notes (table 4 &amp; 5). Includes a Glosses index and a segmental forms index.</annotation
 ></annotations
 ></refWork
 ><refWork
@@ -1194,9 +1248,8 @@ showiso639-3codes="yes"
 ></paper
 ><annotations
 ><annotation
-annotype="atAnnotation"
-id="anRasmussenKent2018"
->A beautiful use of figures (see figures 13 &amp; 17), examples with tone bar notation (see example 9), tables with notes (table 4 &amp; 5), Includes a Glosses index and a segmental forms index.</annotation
+id="an"
+></annotation
 ></annotations
 ><keywords
 ><keyword
@@ -1410,7 +1463,7 @@ showiso639-3codes="no"
 ><annotation
 annotype="atAnnotation"
 id="anMongMeganLois2018ModesAnnotation"
->This thesis is notable for the inclusion of multiple photographs which are referred to throughout the work.</annotation
+>Includes multiple photographs which are referred to throughout the work.</annotation
 ></annotations
 ></refWork
 ></refAuthor
@@ -1515,7 +1568,7 @@ showiso639-3codes="no"
 ><annotation
 annotype="atAnnotation"
 id="anLamicela2020"
->Notable for its use of Greek script in examples.</annotation
+>Uses Greek script in interlinear examples. </annotation
 ></annotations
 ></thesis
 ></refWork
@@ -1541,7 +1594,7 @@ showiso639-3codes="yes"
 ><annotation
 annotype="atAnnotation"
 id="anMéndezHordEstebanI"
->Notable for its use of glosses in tables, and the use of phonetic bar notation for tone melodies as described in <citation
+>Uses glosses in tables, and the use of phonetic bar notation for tone melodies as described in <citation
 ref="rPatersonIIIHughJ2015"
 ></citation
 >, and used extensively by Keith Snider, Kent Rasmussen, and others.</annotation
@@ -1817,7 +1870,7 @@ showiso639-3codes="yes"
 ><refDate
 >2021</refDate
 ><refTitle
->Some Works created in XLingPaper</refTitle
+>Some Works Created in XLingPaper</refTitle
 ><ms
 ><institution
 >Zenodo</institution
@@ -2015,6 +2068,14 @@ showiso639-3codes="no"
 annotype="atAnnotation"
 id="anBuckMarjorieJ2018GramáNote1"
 >This book uses no less than 4 colors of text. Like many XLingPaper documents it makes extensive use of blue and green contrasts. Some pages have more blue and green than black. It also has a nice annotated bibliography in the back. The annotated bibliography uses the XLingPaper annotation elements for automatic styling. Much like this document.</annotation
+><annotation
+annotype="atTexts"
+id="anBuckMarjorieJ2018GramáNote2"
+>Pages 319–338 present interlinear texts.</annotation
+><annotation
+annotype="atBibliography"
+id="anBuckMarjorieJ2018GramáNote3"
+>Pages 339–347 present an annotated bibliography divided by section.</annotation
 ></annotations
 ></refWork
 ></refAuthor
@@ -2067,7 +2128,7 @@ id="anRastorguevaV.S.A.A.KerimovaA.K.MamedzadeL.A.PireikoandD.I.Edelman2012TheGi
 >This is a translation of the original book entitled: <object
 type="tItalic"
 >Giljanskij Jazyk</object
->.This publication uses color extensively. It uses no less than 8 different colors each with a semantic meaning. There is no clear table for the semantic meanings of the color but usage is consistent throughout the work – thanks to XLingPaper, and the editor. This work also has 20 interlinear glossed texts, which are discussed and linked throughout the book. It uses mostly uses Latin script with one small word in an Arabic script.</annotation
+>.This publication uses color extensively. It uses no less than 8 different colors each with a semantic meaning. There is no clear table for the semantic meanings of the color but usage is consistent throughout the work – thanks to XLingPaper and the editor. This work also has 20 interlinear glossed texts, which are discussed and linked throughout the book. It uses mostly uses Latin script with one small word in an Arabic script.</annotation
 ></annotations
 ></refWork
 ></refAuthor
@@ -2493,7 +2554,7 @@ showiso639-3codes="no"
 >A Conceptual Introduction to Morphological Parsing for Stage 1 of the FieldWorks Language Explorer</refTitle
 ><webPage
 ><publisher
->A Conceptual Introduction to Morphological Parsing for Stage 1 of the FieldWorks Language Explorer</publisher
+>SIL International</publisher
 ><url
 >http://downloads.sil.org/FieldWorks/WW-ConceptualIntro/ConceptualIntroduction.htm</url
 ><dateAccessed
@@ -2776,7 +2837,7 @@ showiso639-3codes="no"
 ><annotation
 annotype="atAnnotation"
 id="anMarlettStephenA2014Phono"
->Besides being a Textbook, this document is notable for its use of the content control feature. The author has used content control to produce several versions including: Teacher material, Developer material, Teacher edition, and a Student edition.</annotation
+>Besides being a textbook, this document is notable for its use of the content control feature. The author has used content control to produce several versions including: Teacher material, Developer material, Teacher edition, and a Student edition.</annotation
 ></annotations
 ></book
 ></refWork
@@ -2984,6 +3045,12 @@ id="atAbstract"
 >Abstracts of References</annotatedBibliographyType
 ><annotatedBibliographyType
 id="atAnnotation"
+>Annotations about References</annotatedBibliographyType
+><annotatedBibliographyType
+id="atTexts"
+>Annotations about References</annotatedBibliographyType
+><annotatedBibliographyType
+id="atBibliography"
 >Annotations about References</annotatedBibliographyType
 ></annotatedBibliographyTypes
 ></references
@@ -5050,7 +5117,7 @@ textafter=".  "
 textafter=" "
 ></institutionItem
 ><dissertationLabelItem
-label="dissertation"
+label="Ph.D. dissertation"
 textafter=".  "
 ></dissertationLabelItem
 ><urlDateAccessedLayoutsRef
@@ -5068,7 +5135,7 @@ textafter=": "
 textafter=" "
 ></institutionItem
 ><dissertationLabelItem
-label="dissertation"
+label="Ph.D. dissertation"
 textafter=".  "
 ></dissertationLabelItem
 ><urlDateAccessedLayoutsRef
@@ -5083,7 +5150,7 @@ textafter=".  "
 textafter=" "
 ></institutionItem
 ><dissertationLabelItem
-label="dissertation"
+label="Ph.D. dissertation"
 textafter=".  "
 ></dissertationLabelItem
 ><publishedLayoutRef
@@ -5489,7 +5556,7 @@ textafter=": "
 textafter=" "
 ></institutionItem
 ><thesisLabelItem
-label="thesis"
+label="M.A. thesis"
 textafter=".  "
 ></thesisLabelItem
 ><publishedLayoutRef
@@ -5506,7 +5573,7 @@ textafter=".  "
 textafter=" "
 ></institutionItem
 ><thesisLabelItem
-label="thesis"
+label="M.A. thesis"
 textafter=".  "
 ></thesisLabelItem
 ><publishedLayoutRef
@@ -5526,7 +5593,7 @@ textafter=": "
 textafter=" "
 ></institutionItem
 ><thesisLabelItem
-label="thesis"
+label="M.A. thesis"
 textafter=".  "
 ></thesisLabelItem
 ><urlDateAccessedLayoutsRef
@@ -5541,7 +5608,7 @@ textafter=".  "
 textafter=" "
 ></institutionItem
 ><thesisLabelItem
-label="thesis"
+label="M.A. thesis"
 textafter=".  "
 ></thesisLabelItem
 ><urlDateAccessedLayoutsRef
