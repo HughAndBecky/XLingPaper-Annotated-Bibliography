@@ -15,8 +15,8 @@ Paterson III, Hugh J., (Compiler). 2021. Some Works created in XLingPaper. Zenod
 
 ## Contributing
 
-Contributions via Github can occur as pull requests. Alternatively Email Hugh Paterson III a
-reference to be added in an XLingPaper document (an item in a References section is sufficient.
+Contributions via Github can occur as pull requests. Alternatively email Hugh Paterson III a
+reference to be added in an XLingPaper document (an item within a XLingPaper `References` section is sufficient.
 So that he can copy and paste into the existing document). Structural changes to the bibliography
 will be considered based on user feedback.
 
