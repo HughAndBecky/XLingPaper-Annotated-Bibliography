@@ -11,7 +11,7 @@ The latest version of this bibliography can be found on Github and in Zenodo. Ne
 released on Github which automatically updates Zenodo. It can be referenced as an un-published
 archival manuscript. Something like the following:
 
-Paterson III, Hugh J., (Compiler). 2021. Some Works created in XLingPaper. Zenodo, ms [Version: 0.0.1]. doi:
+Paterson III, Hugh J., (Compiler). 2021. Some Works created in XLingPaper. Zenodo, ms [Version: v1.0]. doi: [![DOI](https://zenodo.org/badge/363609840.svg)](https://zenodo.org/badge/latestdoi/363609840)
 
 ## Contributing
 
