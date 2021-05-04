@@ -23,6 +23,10 @@ version="2.28.0"
 ><p
 >This work would not be possible without the contributions of Andy Black, Kevin Penner, Kent Rasmussen, John Brownie, and Matthew Lee.</p
 ></acknowledgements
+><abstract
+><p
+></p
+></abstract
 ><preface
 label="How to Contribute"
 ><p
@@ -134,7 +138,13 @@ showTitle="full"
 sec="sChapters"
 showTitle="full"
 ></sectionRef
->, Conference Proceedings, Encyclopedia Entries, Book Reviews, Manuscripts, Web-based Publications, Other kinds of publications. We are also unaware of any Conference Proceedings, Encyclopedia Entries, or Book Reviews which have been authored using XLingPaper. Therefore, these sections have been omitted.</p
+>, Conference Proceedings, Encyclopedia Entries, Book Reviews, <genericRef
+gref="sManuscripts"
+>Manuscripts</genericRef
+>, <genericRef
+gref="sWebsites"
+>Web-based Publications</genericRef
+>, Other kinds of publications. We are also unaware of any Conference Proceedings, Encyclopedia Entries, or Book Reviews which have been authored using XLingPaper. Therefore, these sections have been omitted.</p
 ><p
 >XLingPaper has seen frequent use by the authors of M.A. theses. Those presented here were defended at one of two institutions: the Graduate Institute of Linguistics (GIAL) – now <link
 href="https://www.diu.edu/"
@@ -170,7 +180,7 @@ id="sDocumentation"
 >Andy has written several computer applications, including: XLingPaper, <link
 href="https://software.sil.org/asheninka/"
 >Asheninka</link
->, and a Morphological parser used within FLEx. He has turned to XLingPaper to manage and publish his user documentation materials.</p
+>, LingTree, and a Morphological parser used within FLEx. He has turned to XLingPaper to manage and publish his user documentation materials.</p
 ><annotationRef
 citation="rBlackHAndrew2014AConc"
 ></annotationRef
@@ -381,7 +391,7 @@ id="sParatext"
 ><secTitle
 >Paratext</secTitle
 ><p
->The Paratext Manuals, both their English and French content, as well as the online manifestation in websites like outilingua.net and lingtran.net as the manifestation in PDF formats are all maintained in a single XLingPaper Document. XLingPaper enables the management of multiple output formats along with parallel versions in different languages.</p
+>The Paratext Manuals, both their English and French content, as well as the online manifestation in websites like outilingua.net and lingtran.net as the manifestation in PDF formats are all maintained in a single XLingPaper document. XLingPaper enables the management of multiple output formats along with parallel versions in different languages.</p
 ><annotationRef
 annotation="anBeadleJennieParatext8en"
 citation="rBeadleJennieParatext8en"
@@ -3447,7 +3457,7 @@ end-indent=".25in"
 font-size="11pt"
 font-style="italic"
 start-indent=".25in"
-textalign="left"
+textalign="center"
 ></abstractTextFontInfo
 ><acknowledgementsLayout
 font-size="14pt"
